@@ -1,0 +1,16 @@
+{
+  "tenantId": "mq",
+  "moduleName": "egov-rn-service",
+  "Department": [
+    {
+      "name": "Male",
+      "code": "M",
+      "active": true
+    },
+    {
+      "name": "Female",
+      "code": "F",
+      "active": true
+    }
+  ]
+}

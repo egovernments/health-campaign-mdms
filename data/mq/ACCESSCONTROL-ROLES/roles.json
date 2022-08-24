@@ -1,0 +1,11 @@
+{
+  "tenantId": "mq",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "FRONTLINE_WORKER",
+      "name": "Frontline worker",
+      "description": "Frontline worker who can register an entity"
+    }
+  ]
+}

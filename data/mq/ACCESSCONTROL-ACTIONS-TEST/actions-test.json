@@ -1,0 +1,18 @@
+{
+  "tenantId": "mq",
+  "moduleName": "ACCESSCONTROL-ACTIONS-TEST",
+  "actions-test": [
+    {
+      "id": 2416,
+      "name": "RNService Create Registration",
+      "url": "/egov-rn-service/registration/v1/_create",
+      "displayName": "Create Registration",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "rn-service",
+      "code": "null",
+      "path": ""
+    }
+  ]
+}

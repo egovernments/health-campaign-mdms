@@ -1,0 +1,12 @@
+{
+  "tenantId": "mq",
+  "moduleName": "ACCESSCONTROL-ROLEACTIONS",
+  "roleactions": [
+    {
+      "rolecode": "FRONTLINE_WORKER",
+      "actionid": 2416,
+      "actioncode": "",
+      "tenantId": "mq"
+    }
+  ]
+}
