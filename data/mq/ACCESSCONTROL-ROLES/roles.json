@@ -3,7 +3,7 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
-      "code": "FRONTLINE_WORKER",
+      "code": "EMPLOYEE",
       "name": "Frontline worker",
       "description": "Frontline worker who can register an entity"
     }
