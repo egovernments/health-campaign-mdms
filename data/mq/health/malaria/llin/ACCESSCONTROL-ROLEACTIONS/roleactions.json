@@ -1,0 +1,12 @@
+{
+  "tenantId": "mq.health.malaria.llin",
+  "moduleName": "ACCESSCONTROL-ROLEACTIONS",
+  "roleactions": [
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 8001,
+      "actioncode": "",
+      "tenantId": "mq.health.malaria.llin"
+    }
+  ]
+}
