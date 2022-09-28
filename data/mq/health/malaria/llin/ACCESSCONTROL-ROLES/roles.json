@@ -3,7 +3,7 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
-      "code": "REGISTRAR",
+      "code": "EMPLOYEE",
       "name": "Field worker",
       "description": "Field worker who can register an entity"
     }
