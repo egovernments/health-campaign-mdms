@@ -1,0 +1,11 @@
+{
+  "tenantId": "mq.health.malaria.llin",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "REGISTRAR",
+      "name": "Field worker",
+      "description": "Field worker who can register an entity"
+    }
+  ]
+}
