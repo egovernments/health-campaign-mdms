@@ -3,7 +3,7 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
-      "rolecode": "REGISTRAR",
+      "rolecode": "EMPLOYEE",
       "actionid": 8001,
       "actioncode": "",
       "tenantId": "mq.health.malaria.llin"
