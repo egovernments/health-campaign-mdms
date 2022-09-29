@@ -1,12 +1,12 @@
 {
-  "tenantId": "mq",
+  "tenantId": "mz.health.malaria.llin",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
       "rolecode": "EMPLOYEE",
       "actionid": 8001,
       "actioncode": "",
-      "tenantId": "mq"
+      "tenantId": "mz.health.malaria.llin"
     }
   ]
 }
