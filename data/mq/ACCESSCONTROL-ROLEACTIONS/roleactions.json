@@ -3,7 +3,7 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "REGISTRAR",
       "actionid": 8001,
       "actioncode": "",
       "tenantId": "mq"
