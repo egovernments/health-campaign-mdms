@@ -7,6 +7,12 @@
       "actionid": 8001,
       "actioncode": "",
       "tenantId": "mq.health.malaria.llin"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 8001,
+      "actioncode": "",
+      "tenantId": "mq.health.malaria.llin"
     }
   ]
 }
