@@ -1,0 +1,11 @@
+{
+  "tenantId": "mq",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "EMPLOYEE",
+      "name": "Field worker",
+      "description": "Field worker who can register an entity"
+    }
+  ]
+}
