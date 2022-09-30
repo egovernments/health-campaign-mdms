@@ -1,0 +1,41 @@
+{
+  "tenantId": "mz.health.malaria.llin",
+  "moduleName": "HCM-CAMPAIGN",
+  "campaignTypes": [
+    "LLIN",
+    "MDA",
+    "IRS"
+  ],
+  "beneficiaryTypes": [
+    "INDIVIDUAL",
+    "HOUSEHOLD",
+    "STRUCTURE"
+  ],
+  "deliveryStrategies": [
+    "FIXED",
+    "MOBILE",
+    "DOORTODOOR"
+  ],
+  "campaignStatuses": [
+    "CREATED",
+    "INPROGRESS",
+    "COMPLETE",
+    "ABANDONED"
+  ],
+  "diseases": [
+    "MALARIA",
+    "POLIO"
+  ],
+  "interventionResourceTypes": [
+    "BEDNET",
+    "MALARIA VACCINE"
+  ],
+  "interventionResourceTypeToUnitMapping": {
+    "BEDNET": ["BALE", "NET"]
+  },
+  "identifierTypes": [
+    "NATIONAL_ID",
+    "TAX_ID",
+    "SYSTEM_GENERATED_ID"
+  ]
+}

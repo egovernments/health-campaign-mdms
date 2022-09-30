@@ -1,0 +1,16 @@
+{
+  "tenantId": "mz.health.malaria.llin",
+  "moduleName": "HCM-WAREHOUSE",
+  "warehouses": [
+    {
+      "warehouseId": "8a57a711-0b07-4ff9-b8ed-412bac563f0d",
+      "warehouseName": "Provincial Warehouse A Nampula",
+      "administrativeUnit": "03fecd81-7184-4dd8-adb4-56014f2adb9d"
+    },
+    {
+      "warehouseId": "10680eb5-10e7-4701-b891-a5223410fece",
+      "warehouseName": "District Warehouse Memba",
+      "administrativeUnit": "411dada6-900b-4a55-9f96-3497b7517af1"
+    }
+  ]
+}

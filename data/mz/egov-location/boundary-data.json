@@ -1,0 +1,82 @@
+{
+  "tenantId": "mz",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMINISTRATIVE",
+        "name": "ADMINISTRATIVE"
+      },
+      "boundary": {
+        "id": "6e4751cd-3da0-44bb-9b17-cc9e3ae2b6df",
+        "boundaryNum": 1,
+        "name": "Mozambique",
+        "localname": "Moçambique",
+        "longitude": null,
+        "latitude": null,
+        "label": "Country",
+        "code": "mz",
+        "children": [
+          {
+            "id": "03fecd81-7184-4dd8-adb4-56014f2adb9d",
+            "boundaryNum": 1,
+            "name": "Nampula",
+            "localname": "Nampula",
+            "longitude": null,
+            "latitude": null,
+            "label": "Nampula Province",
+            "code": "mz.nampula",
+            "children": [
+              {
+                "id": "10680eb5-10e7-4701-b891-a5223410fece",
+                "boundaryNum": 1,
+                "name": "Memba",
+                "localname": "Memba",
+                "longitude": null,
+                "latitude": null,
+                "label": "Memba District",
+                "code": "mz.nampula.memba",
+                "children": [
+                  {
+                    "id": "1eddefc3-1c21-4921-bb20-56728d8421de",
+                    "boundaryNum": 1,
+                    "name": "Mazua",
+                    "localname": "Mazua",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Mazua Administrative Post",
+                    "code": "mz.nampula.memba.mazua",
+                    "children": [
+                      {
+                        "id": "392f8465-5e9b-41ee-bbaa-65ef9414dc52",
+                        "boundaryNum": 1,
+                        "name": "Cava",
+                        "localname": "Cava",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Cava Locality",
+                        "code": "mz.nampula.memba.mazua.cava",
+                        "children": [
+                          {
+                            "id": "1f5a6691-c86e-40a3-a0ba-420e7117f597",
+                            "boundaryNum": 1,
+                            "name": "Napita",
+                            "localname": "Napita",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Napita Village",
+                            "code": "mz.nampula.memba.mazua.cava.napita"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
