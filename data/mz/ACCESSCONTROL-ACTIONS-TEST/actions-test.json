@@ -13,6 +13,18 @@
       "serviceCode": "health-sync-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8002,
+      "name": "Sync Service - get sync status",
+      "url": "/health-sync-service/sync/v1/status",
+      "displayName": "Sync Service - get sync status",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "health-sync-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
