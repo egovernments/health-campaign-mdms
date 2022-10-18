@@ -29,7 +29,7 @@
     {
       "id": 8003,
       "name": "Registration Service - create registration",
-      "url": "/register/v1/_create",
+      "url": "/registration/v1/_create",
       "displayName": "Sync Service - get sync status",
       "orderNumber": 0,
       "parentModule": "",
