@@ -25,6 +25,18 @@
       "serviceCode": "health-sync-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8003,
+      "name": "Registration Service - create registration",
+      "url": "/registration/v1/_create",
+      "displayName": "Registration Service - create registration",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "health-registration-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
