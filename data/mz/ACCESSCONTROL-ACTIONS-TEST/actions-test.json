@@ -29,7 +29,7 @@
     {
       "id": 8003,
       "name": "Registration Service - create registration",
-      "url": "/registration/v1/_create",
+      "url": "/health-registration-service/registration/v1/_create",
       "displayName": "Registration Service - create registration",
       "orderNumber": 0,
       "parentModule": "",
