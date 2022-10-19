@@ -18,7 +18,13 @@
       "rolecode": "EMPLOYEE",
       "actionid": 8003,
       "actioncode": "",
-      "tenantId": "mz.health.malaria.llin"
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8004,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
