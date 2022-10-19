@@ -37,6 +37,18 @@
       "serviceCode": "health-registration-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 8004,
+      "name": "Delivery Service - create delivery",
+      "url": "/health-delivery-service/delivery/v1/_create",
+      "displayName": "Delivery Service - create delivery",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "health-delivery-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
