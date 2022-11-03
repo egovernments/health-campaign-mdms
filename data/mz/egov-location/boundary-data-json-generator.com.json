@@ -1,0 +1,87 @@
+{
+  "tenantId": "mz",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMINISTRATIVE",
+        "name": "ADMINISTRATIVE"
+      },
+      "boundary": {
+        "id": "{{guid()}}",
+        "boundaryNum": "{{integer(0)}}",
+        "name": "{{lorem(2, \"words\")}}",
+        "localname": "{{lorem(2, \"words\")}}",
+        "longitude": "{{floating()}}",
+        "latitude": "{{floating()}}",
+        "label": "{{lorem(1, \"words\")}}",
+        "code": "mz",
+        "children": [
+          "{{repeat(10)}}",
+          {
+            "id": "{{guid()}}",
+            "boundaryNum": "{{integer(0)}}",
+            "name": "{{lorem(2, \"words\")}}",
+            "localname": "{{lorem(2, \"words\")}}",
+            "longitude": "{{floating()}}",
+            "latitude": "{{floating()}}",
+            "label": "{{lorem(1, \"words\")}}",
+            "code": "mz",
+            "children": [
+              "{{repeat(5)}}",
+              {
+                "id": "{{guid()}}",
+                "boundaryNum": "{{integer(0)}}",
+                "name": "{{lorem(2, \"words\")}}",
+                "localname": "{{lorem(2, \"words\")}}",
+                "longitude": "{{floating()}}",
+                "latitude": "{{floating()}}",
+                "label": "{{lorem(1, \"words\")}}",
+                "code": "mz",
+                "children": [
+                  "{{repeat(10)}}",
+                  {
+                    "id": "{{guid()}}",
+                    "boundaryNum": "{{integer(0)}}",
+                    "name": "{{lorem(2, \"words\")}}",
+                    "localname": "{{lorem(2, \"words\")}}",
+                    "longitude": "{{floating()}}",
+                    "latitude": "{{floating()}}",
+                    "label": "{{lorem(1, \"words\")}}",
+                    "code": "mz",
+                    "children": [
+                      "{{repeat(3)}}",
+                      {
+                        "id": "{{guid()}}",
+                        "boundaryNum": "{{integer(0)}}",
+                        "name": "{{lorem(2, \"words\")}}",
+                        "localname": "{{lorem(2, \"words\")}}",
+                        "longitude": "{{floating()}}",
+                        "latitude": "{{floating()}}",
+                        "label": "{{lorem(1, \"words\")}}",
+                        "code": "mz",
+                        "children": [
+                          "{{repeat(5)}}",
+                          {
+                            "id": "{{guid()}}",
+                            "boundaryNum": "{{integer(0)}}",
+                            "name": "{{lorem(2, \"words\")}}",
+                            "localname": "{{lorem(2, \"words\")}}",
+                            "longitude": "{{floating()}}",
+                            "latitude": "{{floating()}}",
+                            "label": "{{lorem(1, \"words\")}}",
+                            "code": "mz"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
