@@ -1,0 +1,117 @@
+{
+  "tenantId": "mz.health.malaria.llin",
+  "moduleName": "HCM-SERVICE-REGISTRY",
+  "services": [
+    {
+      "service": "USER",
+      "actions": [
+        {
+          "login": "/user/oauth/token"
+        },
+        {
+          "search": "/user/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "MDMS",
+      "actions": [
+        {
+          "search": "/egov-mdms-service/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "LOCALIZATION",
+      "actions": [
+        {
+          "search": "/localization-service/messages/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "INDIVIDUAL",
+      "actions": [
+        {
+          "create": "/individual/v1/_create"
+        },
+        {
+          "update": "/individual/v1/_update"
+        },
+        {
+          "search": "/individual/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "HOUSEHOLD",
+      "actions": [
+        {
+          "create": "/household/v1/_create"
+        },
+        {
+          "update": "/household/v1/_update"
+        },
+        {
+          "search": "/household/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "HOUSEHOLD-MEMBER",
+      "actions": [
+        {
+          "create": "/household/member/v1/_create"
+        },
+        {
+          "update": "/household/member/v1/_update"
+        },
+        {
+          "search": "/household/member/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "PROJECT-BENEFICIARY",
+      "actions": [
+        {
+          "create": "/project/beneficiary/v1/_create"
+        },
+        {
+          "update": "/project/beneficiary/v1/_update"
+        },
+        {
+          "search": "/project/beneficiary/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "PROJECT-TASK",
+      "actions": [
+        {
+          "create": "/project/task/v1/_create"
+        },
+        {
+          "update": "/project/task/v1/_update"
+        },
+        {
+          "search": "/project/task/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "STOCK",
+      "actions": [
+        {
+          "create": "/stock/task/v1/_create"
+        },
+        {
+          "update": "/stock/task/v1/_update"
+        },
+        {
+          "search": "/stock/task/v1/_search"
+        }
+      ]
+    }
+  ]
+}
