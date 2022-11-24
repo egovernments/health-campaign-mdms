@@ -13,6 +13,20 @@
       ]
     },
     {
+      "schema": "INDIVIDUAL",
+      "version": 2,
+      "fields": [
+        {
+          "key": "HEIGHT",
+          "value": ""
+        },
+        {
+          "key": "WEIGHT",
+          "value": ""
+        }
+      ]
+    },
+    {
       "schema": "HOUSEHOLD",
       "version": 1,
       "fields": [
