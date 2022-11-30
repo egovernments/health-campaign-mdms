@@ -1,0 +1,53 @@
+{
+  "tenantId": "default",
+  "moduleName": "HCM-ADDITIONAL-FIELD-SCHEMAS",
+  "schemas": [
+    {
+      "schema": "INDIVIDUAL",
+      "version": 1,
+      "fields": [
+        {
+          "key": "HEIGHT",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "schema": "INDIVIDUAL",
+      "version": 2,
+      "fields": [
+        {
+          "key": "HEIGHT",
+          "value": ""
+        },
+        {
+          "key": "WEIGHT",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "schema": "HOUSEHOLD",
+      "version": 1,
+      "fields": [
+        {
+          "key": "COUNT-OF-CHILDREN",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "schema": "PROJECT-TASK",
+      "version": 1,
+      "fields": [
+        {
+          "key": "ADDITIONAL-NOTES",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "version": 1
+    }
+  ]
+}
