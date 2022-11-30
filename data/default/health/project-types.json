@@ -3,6 +3,9 @@
   "moduleName": "HCM-PROJECT-TYPES",
   "projectTypes": [
     {
+      "version": 1
+    },
+    {
       "id": "dbd45c31-de9e-4e62-a9b6-abb818928fd1",
       "name": "Default project type configuration for LLIN Campaigns",
       "code": "LLIN-Default",
@@ -53,9 +56,6 @@
           "isBaseUnitVariant": true
         }
       ]
-    },
-    {
-      "version": 1
     }
   ]
 }

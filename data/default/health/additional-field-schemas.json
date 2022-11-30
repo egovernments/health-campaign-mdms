@@ -3,6 +3,10 @@
   "moduleName": "HCM-ADDITIONAL-FIELD-SCHEMAS",
   "schemas": [
     {
+      "version": 1
+    },
+    
+    {
       "schema": "INDIVIDUAL",
       "version": 1,
       "fields": [
@@ -45,9 +49,6 @@
           "value": ""
         }
       ]
-    },
-    {
-      "version": 1
     }
   ]
 }

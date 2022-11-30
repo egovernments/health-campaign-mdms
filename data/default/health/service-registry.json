@@ -3,6 +3,9 @@
   "moduleName": "HCM-SERVICE-REGISTRY",
   "services": [
     {
+      "version": 1
+    },
+    {
       "service": "USER",
       "actions": [
         {
@@ -112,9 +115,6 @@
           "search": "/stock/task/v1/_search"
         }
       ]
-    },
-    {
-      "version": 1
     }
   ]
 }
