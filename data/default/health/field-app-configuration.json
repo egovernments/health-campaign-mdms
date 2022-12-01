@@ -1,0 +1,11 @@
+{
+  "tenantId": "default",
+  "moduleName": "HCM-FIELD-APP-CONFIG",
+  "AppConfig": {
+    "version": 1,
+    "NETWORK_DETECTION": "OFF | ON",
+    "PERSISTENCE_MODE": "OFFLINE_FIRST | ONLINE | OFFLINE_AND_ONLINE",
+    "SYNC_METHOD": "API | OPLOG_UPLOAD",
+    "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE"
+  }
+}
