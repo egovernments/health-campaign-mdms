@@ -1,7 +1,8 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-PROJECT",
-  "ProjectConfiguration":{
+  "ProjectConfiguration":[
+    {
     "version": 1,
     "beneficiaryTypes": [
       "INDIVIDUAL",
@@ -33,5 +34,6 @@
       "MALARIA",
       "POLIO"
     ]
-  }
+    }
+  ]
 }
