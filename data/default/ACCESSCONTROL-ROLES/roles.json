@@ -3,9 +3,9 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
-      "code": "SYSTEM_ADMINSTRATOR",
-      "name": "System Adminstrator",
-      "description": "System Adminstrator"
+      "code": "SYSTEM_ADMINISTRATOR",
+      "name": "System Administrator",
+      "description": "System Administrator"
     }
   ]
 }
