@@ -10756,13 +10756,13 @@
     },
     {
       "id": 1536,
-      "name": "Sync Service - up sync",
-      "url": "/health-sync-service/sync/v1/up",
-      "displayName": "Sync Service - up sync",
+      "name": "Product Variant Create",
+      "url": "/product/variant/v1/_create",
+      "displayName": "Product Variant Create",
       "orderNumber": 0,
       "parentModule": "",
       "enabled": false,
-      "serviceCode": "health-sync-service",
+      "serviceCode": "product",
       "code": "null",
       "path": ""
     }

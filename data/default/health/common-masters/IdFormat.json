@@ -1,0 +1,10 @@
+{
+  "tenantId": "default.health",
+  "moduleName": "common-masters",
+  "IdFormat": [
+    {
+      "format": "PVAR-[cy:yyyy-MM-dd]-[SEQ_PRODUCT_PVAR]",
+      "idname": "product.variant.id"
+    }
+  ]
+}
