@@ -10765,6 +10765,18 @@
       "serviceCode": "product",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1537,
+      "name": "Product Create",
+      "url": "/product/v1/_create",
+      "displayName": "Product Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
     }
   ]
 }
