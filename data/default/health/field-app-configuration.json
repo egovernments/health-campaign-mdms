@@ -1,31 +1,31 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-FIELD-APP-CONFIG",
-  "AppConfig": [
-    {
+  "AppConfig": {
     "version": 1,
     "NETWORK_DETECTION": "OFF | ON",
     "PERSISTENCE_MODE": "OFFLINE_FIRST | ONLINE | OFFLINE_AND_ONLINE",
     "SYNC_METHOD": "API | OPLOG_UPLOAD",
-    "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE"
-    }
+    "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
+    "languages": [
+      {
+         "label": "Portuguese",
+         "value": "pt_MZ"
+      },
+  
+      {
+        "label": "English",
+        "value": "en_MZ"
+      }
+    ],
+    "localizationModules": [
+      {
+        "label": "hcm-common",
+        "value": "hcm-common"
+      }
+    ]
     
-  ],
-  "languages": [
-    {
-       "label": "Portuguese",
-       "value": "pt_MZ"
-    },
+  }
 
-    {
-      "label": "ENGLISH",
-      "value": "en_MZ"
-    }
-  ],
-  "localizationModules": [
-    {
-      "label": "hcm-common",
-      "value": "hcm-common"
-    }
-  ]
+  
 }
