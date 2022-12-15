@@ -10777,6 +10777,30 @@
       "serviceCode": "product",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1539,
+      "name": "Project Staff Create",
+      "url": "project/staff/v1/_create",
+      "displayName": "Project Staff Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1540,
+      "name": "Project Staff Update",
+      "url": "project/staff/v1/_update",
+      "displayName": "Project Staff Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
