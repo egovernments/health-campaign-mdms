@@ -19,6 +19,12 @@
       "actionid": 1539,
       "actioncode": "",
       "tenantId": "default.health"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1540,
+      "actioncode": "",
+      "tenantId": "default.health"
     }
   ]
 }
