@@ -7,7 +7,7 @@
     "PERSISTENCE_MODE": "OFFLINE_FIRST | ONLINE | OFFLINE_AND_ONLINE",
     "SYNC_METHOD": "API | OPLOG_UPLOAD",
     "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
-    "languages": [
+    "LANGUAGES": [
       {
          "label": "Portuguese",
          "value": "pt_MZ"
@@ -18,7 +18,7 @@
         "value": "en_MZ"
       }
     ],
-    "localizationModules": [
+    "LOCALIZATION_MODUELS": [
       {
         "label": "hcm-common",
         "value": "hcm-common"
