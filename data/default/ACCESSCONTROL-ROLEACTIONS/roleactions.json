@@ -13917,49 +13917,49 @@
       "tenantid": "default"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1539,
       "actioncode": "",
       "tenantid": "default"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1540,
       "actioncode": "",
       "tenantid": "default"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1536,
       "actioncode": "",
       "tenantId": "default"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1537,
       "actioncode": "",
       "tenantId": "default"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1541,
       "actioncode": "",
       "tenantId": "default"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1542,
       "actioncode": "",
       "tenantId": "default"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1543,
       "actioncode": "",
       "tenantId": "default"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1544,
       "actioncode": "",
       "tenantId": "default"
