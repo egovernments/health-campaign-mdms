@@ -10757,7 +10757,7 @@
     {
       "id": 1536,
       "name": "Product Variant Create",
-      "url": "/product/variant/v1/_create",
+      "url": "product/variant/v1/_create",
       "displayName": "Product Variant Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -10769,7 +10769,7 @@
     {
       "id": 1537,
       "name": "Product Create",
-      "url": "/product/v1/_create",
+      "url": "product/v1/_create",
       "displayName": "Product Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -10805,7 +10805,7 @@
     {
       "id": 1541,
       "name": "Product Update",
-      "url": "/product/v1/_update",
+      "url": "product/v1/_update",
       "displayName": "Product Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -10817,7 +10817,7 @@
     {
       "id": 1542,
       "name": "Product Search",
-      "url": "/product/v1/_search",
+      "url": "product/v1/_search",
       "displayName": "Product Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -10829,7 +10829,7 @@
     {
       "id": 1543,
       "name": "Product Variant Update",
-      "url": "/product/variant/v1/_update",
+      "url": "product/variant/v1/_update",
       "displayName": "Product Variant Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -10841,7 +10841,7 @@
     {
       "id": 1544,
       "name": "Product Variant Search",
-      "url": "/product/variant/v1/_search",
+      "url": "product/variant/v1/_search",
       "displayName": "Product Variant Search",
       "orderNumber": 0,
       "parentModule": "",
