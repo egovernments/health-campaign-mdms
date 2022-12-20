@@ -1,9 +1,7 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-ADDITIONAL-FIELD-SCHEMAS",
-  "configuration": {
-    "configVersion": 1,
-    "additionalFieldSchemas": [
+  "additionalFieldSchemas": [
       {
         "schema": "INDIVIDUAL",
         "version": 1,
@@ -49,5 +47,4 @@
         ]
       }
     ]
-  }
 }

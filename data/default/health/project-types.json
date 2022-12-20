@@ -1,9 +1,7 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-PROJECT-TYPES",
-  "configuration": {
-    "configVersion": 1,
-    "projectTypes": [
+  "projectTypes": [
       {
         "id": "dbd45c31-de9e-4e62-a9b6-abb818928fd1",
         "name": "Default project type configuration for LLIN Campaigns",
@@ -57,5 +55,4 @@
         ]
       }
     ]
-  }
 }
