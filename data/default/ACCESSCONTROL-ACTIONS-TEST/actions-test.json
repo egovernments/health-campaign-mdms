@@ -10801,6 +10801,54 @@
       "serviceCode": "project",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1541,
+      "name": "Product Update",
+      "url": "/product/v1/_update",
+      "displayName": "Product Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1542,
+      "name": "Product Search",
+      "url": "/product/v1/_search",
+      "displayName": "Product Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1543,
+      "name": "Product Variant Update",
+      "url": "/product/variant/v1/_update",
+      "displayName": "Product Variant Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1544,
+      "name": "Product Variant Search",
+      "url": "/product/variant/v1/_search",
+      "displayName": "Product Variant Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
     }
   ]
 }
