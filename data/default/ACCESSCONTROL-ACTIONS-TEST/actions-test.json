@@ -10753,6 +10753,102 @@
       "serviceCode": "Employee",
       "code": "null",
       "path": "Employee Management.Employee Masters.Employee.SearchEmployee"
+    },
+    {
+      "id": 1536,
+      "name": "Product Variant Create",
+      "url": "/product/variant/v1/_create",
+      "displayName": "Product Variant Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1537,
+      "name": "Product Create",
+      "url": "/product/v1/_create",
+      "displayName": "Product Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1539,
+      "name": "Project Staff Create",
+      "url": "/project/staff/v1/_create",
+      "displayName": "Project Staff Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1540,
+      "name": "Project Staff Update",
+      "url": "/project/staff/v1/_update",
+      "displayName": "Project Staff Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1541,
+      "name": "Product Update",
+      "url": "/product/v1/_update",
+      "displayName": "Product Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1542,
+      "name": "Product Search",
+      "url": "/product/v1/_search",
+      "displayName": "Product Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1543,
+      "name": "Product Variant Update",
+      "url": "/product/variant/v1/_update",
+      "displayName": "Product Variant Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1544,
+      "name": "Product Variant Search",
+      "url": "/product/variant/v1/_search",
+      "displayName": "Product Variant Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "product",
+      "code": "null",
+      "path": ""
     }
   ]
 }

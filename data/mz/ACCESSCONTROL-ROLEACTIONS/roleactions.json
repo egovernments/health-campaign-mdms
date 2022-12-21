@@ -7,6 +7,36 @@
       "actionid": 8001,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8002,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8003,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8004,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8005,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 8006,
+      "actioncode": "",
+      "tenantId": "mz"
     }
   ]
 }
