@@ -10849,6 +10849,18 @@
       "serviceCode": "product",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1545,
+      "name": "Project Staff Search",
+      "url": "/project/staff/v1/_search",
+      "displayName": "Project Staff Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
