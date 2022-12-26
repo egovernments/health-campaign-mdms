@@ -13,6 +13,10 @@
     {
       "format": "PTS-[cy:yyyy-MM-dd]-[SEQ_PROJECT_STAFF_PTS]",
       "idname": "project.staff.id"
+    },
+    {
+      "format": "H-[cy:yyyy-MM-dd]-[SEQ_HOUSEHOLD_H]",
+      "idname": "household.id"
     }
   ]
 }
