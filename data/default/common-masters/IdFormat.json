@@ -17,6 +17,10 @@
     {
       "format": "H-[cy:yyyy-MM-dd]-[SEQ_HOUSEHOLD_H]",
       "idname": "household.id"
+    },
+    {
+      "format": "A-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_A]",
+      "idname": "address.id"
     }
   ]
 }
