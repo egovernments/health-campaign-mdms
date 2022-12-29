@@ -19,8 +19,8 @@
       "idname": "household.id"
     },
     {
-      "format": "A-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_A]",
-      "idname": "address.id"
+      "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
+      "idname": "individual.id"
     }
   ]
 }
