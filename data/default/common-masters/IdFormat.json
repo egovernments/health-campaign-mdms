@@ -21,6 +21,10 @@
     {
       "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
       "idname": "individual.id"
+    },
+    {
+      "format": "ID-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_ID]",
+      "idname": "identifier.id"
     }
   ]
 }
