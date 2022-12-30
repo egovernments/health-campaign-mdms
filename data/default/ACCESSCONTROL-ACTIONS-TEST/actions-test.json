@@ -10861,6 +10861,78 @@
       "serviceCode": "project",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1546,
+      "name": "Household Create",
+      "url": "/household/v1/_search",
+      "displayName": "Household Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1547,
+      "name": "Household Update",
+      "url": "/household/v1/_update",
+      "displayName": "Household Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1548,
+      "name": "Household Search",
+      "url": "/household/v1/_search",
+      "displayName": "Household Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1549,
+      "name": "Individual Create",
+      "url": "/individual/v1/_create",
+      "displayName": "Individual Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1550,
+      "name": "Individual Update",
+      "url": "/individual/v1/_update",
+      "displayName": "Individual Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1551,
+      "name": "Individual Search",
+      "url": "/individual/v1/_search",
+      "displayName": "Individual Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
     }
   ]
 }
