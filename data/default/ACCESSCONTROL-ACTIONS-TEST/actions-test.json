@@ -10897,6 +10897,42 @@
       "serviceCode": "household",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1549,
+      "name": "Individual Create",
+      "url": "/individual/v1/_create",
+      "displayName": "Individual Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1550,
+      "name": "Individual Update",
+      "url": "/individual/v1/_update",
+      "displayName": "Individual Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1551,
+      "name": "Individual Search",
+      "url": "/individual/v1/_search",
+      "displayName": "Individual Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
     }
   ]
 }
