@@ -23,8 +23,12 @@
       "idname": "individual.id"
     },
     {
-      "format": "ID-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_ID]",
+      "format": "ID-[cy:yyyy-MM-dd]-[SEQ_IDENTIFIER_ID]",
       "idname": "identifier.id"
+    },
+    {
+      "format": "SGID-[cy:yyyy-MM-dd]-[SEQ_IDENTIFIER_SG_ID]",
+      "idname": "sys.gen.identifier.id"
     }
   ]
 }
