@@ -10865,7 +10865,7 @@
     {
       "id": 1546,
       "name": "Household Create",
-      "url": "/household/v1/_search",
+      "url": "/household/v1/_create",
       "displayName": "Household Create",
       "orderNumber": 0,
       "parentModule": "",
