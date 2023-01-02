@@ -6,6 +6,16 @@
       "code": "SYSTEM_ADMINISTRATOR",
       "name": "System Administrator",
       "description": "System Administrator"
+    },
+    {
+      "code": "REGISTRAR",
+      "name": "Registrar",
+      "description": "Registrar"
+    },
+    {
+      "code": "DISTRIBUTOR",
+      "name": "Distributor",
+      "description": "Distributor"
     }
   ]
 }
