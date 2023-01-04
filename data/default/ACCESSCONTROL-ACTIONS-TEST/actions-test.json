@@ -10933,6 +10933,42 @@
       "serviceCode": "individual",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1552,
+      "name": "Project Task Create",
+      "url": "/project/task/v1/_create",
+      "displayName": "Project Task Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1553,
+      "name": "Project Task Update",
+      "url": "/project/task/v1/_update",
+      "displayName": "Project Task Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1554,
+      "name": "Project Task Search",
+      "url": "/project/task/v1/_search",
+      "displayName": "Project Task Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
