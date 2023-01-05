@@ -16,6 +16,11 @@
       "code": "DISTRIBUTOR",
       "name": "Distributor",
       "description": "Distributor"
+    },
+    {
+      "code": "SUPERUSER",
+      "name": "Super User",
+      "description": "Super User. Can change all master data and has access to all the system screens."
     }
   ]
 }
