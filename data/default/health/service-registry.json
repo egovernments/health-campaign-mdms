@@ -7,10 +7,12 @@
       "actions": [
         {
           "action": "login",
+          "entityName": "User",
           "path": "/user/oauth/token"
         },
         {
           "action": "search",
+          "entityName": "User",
           "path": "/user/v1/_search"
         }
       ]
@@ -20,6 +22,7 @@
       "actions": [
         {
           "action": "search",
+          "entityName": "MDMS",
           "path": "/egov-mdms-service/v1/_search"
         }
       ]
@@ -29,6 +32,7 @@
       "actions": [
         {
           "action": "search",
+          "entityName": "Localization",
           "path": "/localization-service/messages/v1/_search"
         }
       ]
@@ -38,14 +42,17 @@
       "actions": [
         {
           "action": "create",
+          "entityName": "Individual",
           "path": "/individual/v1/_create"
         },
         {
           "action": "update",
+          "entityName": "Individual",
           "path": "/individual/v1/_update"
         },
         {
           "action": "search",
+          "entityName": "Individual",
           "path": "/individual/v1/_search"
         }
       ]
@@ -55,14 +62,17 @@
       "actions": [
         {
           "action": "create",
+          "entityName": "Household",
           "path": "/household/v1/_create"
         },
         {
           "action": "update",
+          "entityName": "Household",
           "path": "/household/v1/_update"
         },
         {
           "action": "search",
+          "entityName": "Household",
           "path": "/household/v1/_search"
         }
       ]
@@ -72,14 +82,17 @@
       "actions": [
         {
           "action": "create",
+          "entityName": "HouseholdMember",
           "path": "/household/member/v1/_create"
         },
         {
           "action": "update",
+          "entityName": "HouseholdMember",
           "path": "/household/member/v1/_update"
         },
         {
           "action": "search",
+          "entityName": "HouseholdMember",
           "path": "/household/member/v1/_search"
         }
       ]
@@ -89,14 +102,17 @@
       "actions": [
         {
           "action": "create",
+          "entityName": "ProjectBeneficiary",
           "path": "/project/beneficiary/v1/_create"
         },
         {
           "action": "update",
+          "entityName": "ProjectBeneficiary",
           "path": "/project/beneficiary/v1/_update"
         },
         {
           "action": "search",
+          "entityName": "ProjectBeneficiary",
           "path": "/project/beneficiary/v1/_search"
         }
       ]
@@ -106,14 +122,17 @@
       "actions": [
         {
           "action": "create",
+          "entityName": "ProjectTask",
           "path": "/project/task/v1/_create"
         },
         {
           "action": "update",
+          "entityName": "ProjectTask",
           "path": "/project/task/v1/_update"
         },
         {
           "action": "search",
+          "entityName": "ProjectTask",
           "path": "/project/task/v1/_search"
         }
       ]
@@ -123,14 +142,17 @@
       "actions": [
         {
           "action": "create",
+          "entityName": "Stock",
           "path": "/stock/task/v1/_create"
         },
         {
           "action": "update",
+          "entityName": "Stock",
           "path": "/stock/task/v1/_update"
         },
         {
           "action": "search",
+          "entityName": "Stock",
           "path": "/stock/task/v1/_search"
         }
       ]
