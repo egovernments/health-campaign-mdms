@@ -6,11 +6,11 @@
       "service": "USER",
       "actions": [
         {
-          "name": "login",
+          "action": "login",
           "path": "/user/oauth/token"
         },
         {
-          "name": "search",
+          "action": "search",
           "path": "/user/v1/_search"
         }
       ]
@@ -19,7 +19,7 @@
       "service": "MDMS",
       "actions": [
         {
-          "name": "search",
+          "action": "search",
           "path": "/egov-mdms-service/v1/_search"
         }
       ]
@@ -28,7 +28,7 @@
       "service": "LOCALIZATION",
       "actions": [
         {
-          "name": "search",
+          "action": "search",
           "path": "/localization-service/messages/v1/_search"
         }
       ]
@@ -37,15 +37,15 @@
       "service": "INDIVIDUAL",
       "actions": [
         {
-          "name": "create",
+          "action": "create",
           "path": "/individual/v1/_create"
         },
         {
-          "name": "update",
+          "action": "update",
           "path": "/individual/v1/_update"
         },
         {
-          "name": "search",
+          "action": "search",
           "path": "/individual/v1/_search"
         }
       ]
@@ -54,15 +54,15 @@
       "service": "HOUSEHOLD",
       "actions": [
         {
-          "name": "create",
+          "action": "create",
           "path": "/household/v1/_create"
         },
         {
-          "name": "update",
+          "action": "update",
           "path": "/household/v1/_update"
         },
         {
-          "name": "search",
+          "action": "search",
           "path": "/household/v1/_search"
         }
       ]
@@ -71,15 +71,15 @@
       "service": "HOUSEHOLD-MEMBER",
       "actions": [
         {
-          "name": "create",
+          "action": "create",
           "path": "/household/member/v1/_create"
         },
         {
-          "name": "update",
+          "action": "update",
           "path": "/household/member/v1/_update"
         },
         {
-          "name": "search",
+          "action": "search",
           "path": "/household/member/v1/_search"
         }
       ]
@@ -88,15 +88,15 @@
       "service": "PROJECT-BENEFICIARY",
       "actions": [
         {
-          "name": "create",
+          "action": "create",
           "path": "/project/beneficiary/v1/_create"
         },
         {
-          "name": "update",
+          "action": "update",
           "path": "/project/beneficiary/v1/_update"
         },
         {
-          "name": "search",
+          "action": "search",
           "path": "/project/beneficiary/v1/_search"
         }
       ]
@@ -105,15 +105,15 @@
       "service": "PROJECT-TASK",
       "actions": [
         {
-          "name": "create",
+          "action": "create",
           "path": "/project/task/v1/_create"
         },
         {
-          "name": "update",
+          "action": "update",
           "path": "/project/task/v1/_update"
         },
         {
-          "name": "search",
+          "action": "search",
           "path": "/project/task/v1/_search"
         }
       ]
@@ -122,15 +122,15 @@
       "service": "STOCK",
       "actions": [
         {
-          "name": "create",
+          "action": "create",
           "path": "/stock/task/v1/_create"
         },
         {
-          "name": "update",
+          "action": "update",
           "path": "/stock/task/v1/_update"
         },
         {
-          "name": "search",
+          "action": "search",
           "path": "/stock/task/v1/_search"
         }
       ]
