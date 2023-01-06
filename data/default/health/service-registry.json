@@ -6,10 +6,14 @@
       "service": "USER",
       "actions": [
         {
-          "login": "/user/oauth/token"
+          "action": "login",
+          "entityName": "User",
+          "path": "/user/oauth/token"
         },
         {
-          "search": "/user/v1/_search"
+          "action": "search",
+          "entityName": "User",
+          "path": "/user/v1/_search"
         }
       ]
     },
@@ -17,7 +21,9 @@
       "service": "MDMS",
       "actions": [
         {
-          "search": "/egov-mdms-service/v1/_search"
+          "action": "search",
+          "entityName": "MDMS",
+          "path": "/egov-mdms-service/v1/_search"
         }
       ]
     },
@@ -25,7 +31,9 @@
       "service": "LOCALIZATION",
       "actions": [
         {
-          "search": "/localization-service/messages/v1/_search"
+          "action": "search",
+          "entityName": "Localization",
+          "path": "/localization-service/messages/v1/_search"
         }
       ]
     },
@@ -33,13 +41,19 @@
       "service": "INDIVIDUAL",
       "actions": [
         {
-          "create": "/individual/v1/_create"
+          "action": "create",
+          "entityName": "Individual",
+          "path": "/individual/v1/_create"
         },
         {
-          "update": "/individual/v1/_update"
+          "action": "update",
+          "entityName": "Individual",
+          "path": "/individual/v1/_update"
         },
         {
-          "search": "/individual/v1/_search"
+          "action": "search",
+          "entityName": "Individual",
+          "path": "/individual/v1/_search"
         }
       ]
     },
@@ -47,13 +61,19 @@
       "service": "HOUSEHOLD",
       "actions": [
         {
-          "create": "/household/v1/_create"
+          "action": "create",
+          "entityName": "Household",
+          "path": "/household/v1/_create"
         },
         {
-          "update": "/household/v1/_update"
+          "action": "update",
+          "entityName": "Household",
+          "path": "/household/v1/_update"
         },
         {
-          "search": "/household/v1/_search"
+          "action": "search",
+          "entityName": "Household",
+          "path": "/household/v1/_search"
         }
       ]
     },
@@ -61,13 +81,19 @@
       "service": "HOUSEHOLD-MEMBER",
       "actions": [
         {
-          "create": "/household/member/v1/_create"
+          "action": "create",
+          "entityName": "HouseholdMember",
+          "path": "/household/member/v1/_create"
         },
         {
-          "update": "/household/member/v1/_update"
+          "action": "update",
+          "entityName": "HouseholdMember",
+          "path": "/household/member/v1/_update"
         },
         {
-          "search": "/household/member/v1/_search"
+          "action": "search",
+          "entityName": "HouseholdMember",
+          "path": "/household/member/v1/_search"
         }
       ]
     },
@@ -75,13 +101,19 @@
       "service": "PROJECT-BENEFICIARY",
       "actions": [
         {
-          "create": "/project/beneficiary/v1/_create"
+          "action": "create",
+          "entityName": "ProjectBeneficiary",
+          "path": "/project/beneficiary/v1/_create"
         },
         {
-          "update": "/project/beneficiary/v1/_update"
+          "action": "update",
+          "entityName": "ProjectBeneficiary",
+          "path": "/project/beneficiary/v1/_update"
         },
         {
-          "search": "/project/beneficiary/v1/_search"
+          "action": "search",
+          "entityName": "ProjectBeneficiary",
+          "path": "/project/beneficiary/v1/_search"
         }
       ]
     },
@@ -89,13 +121,19 @@
       "service": "PROJECT-TASK",
       "actions": [
         {
-          "create": "/project/task/v1/_create"
+          "action": "create",
+          "entityName": "ProjectTask",
+          "path": "/project/task/v1/_create"
         },
         {
-          "update": "/project/task/v1/_update"
+          "action": "update",
+          "entityName": "ProjectTask",
+          "path": "/project/task/v1/_update"
         },
         {
-          "search": "/project/task/v1/_search"
+          "action": "search",
+          "entityName": "ProjectTask",
+          "path": "/project/task/v1/_search"
         }
       ]
     },
@@ -103,13 +141,19 @@
       "service": "STOCK",
       "actions": [
         {
-          "create": "/stock/task/v1/_create"
+          "action": "create",
+          "entityName": "Stock",
+          "path": "/stock/task/v1/_create"
         },
         {
-          "update": "/stock/task/v1/_update"
+          "action": "update",
+          "entityName": "Stock",
+          "path": "/stock/task/v1/_update"
         },
         {
-          "search": "/stock/task/v1/_search"
+          "action": "search",
+          "entityName": "Stock",
+          "path": "/stock/task/v1/_search"
         }
       ]
     }
