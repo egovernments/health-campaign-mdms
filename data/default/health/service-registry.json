@@ -143,17 +143,107 @@
         {
           "action": "create",
           "entityName": "Stock",
-          "path": "/stock/task/v1/_create"
+          "path": "/stock/v1/_create"
         },
         {
           "action": "update",
           "entityName": "Stock",
-          "path": "/stock/task/v1/_update"
+          "path": "/stock/v1/_update"
         },
         {
           "action": "search",
           "entityName": "Stock",
-          "path": "/stock/task/v1/_search"
+          "path": "/stock/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "STOCK-RECONCILIATION",
+      "actions": [
+        {
+          "action": "create",
+          "entityName": "StockReconciliation",
+          "path": "/stock/reconciliation/v1/_create"
+        },
+        {
+          "action": "update",
+          "entityName": "StockReconciliation",
+          "path": "/stock/reconciliation/v1/_update"
+        },
+        {
+          "action": "search",
+          "entityName": "StockReconciliation",
+          "path": "/stock/reconciliation/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "PROJECT-STAFF",
+      "actions": [
+        {
+          "action": "search",
+          "entityName": "ProjectStaff",
+          "path": "/project/staff/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "PROJECT",
+      "actions": [
+        {
+          "action": "search",
+          "entityName": "ProjectStaff",
+          "path": "/project/staff/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "PROJECT-RESOURCE",
+      "actions": [
+        {
+          "action": "search",
+          "entityName": "ProjectResource",
+          "path": "/project/resource/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "PRODUCT",
+      "actions": [
+        {
+          "action": "search",
+          "entityName": "Product",
+          "path": "/product/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "PRODUCT-VARIANT",
+      "actions": [
+        {
+          "action": "search",
+          "entityName": "ProductVariant",
+          "path": "/product/variant/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "PROJECT-FACILITY",
+      "actions": [
+        {
+          "action": "search",
+          "entityName": "ProjectFacility",
+          "path": "/project/facility/v1/_search"
+        }
+      ]
+    },
+    {
+      "service": "FACILITY",
+      "actions": [
+        {
+          "action": "search",
+          "entityName": "Facility",
+          "path": "/facility/v1/_search"
         }
       ]
     }
