@@ -1,7 +1,8 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-FIELD-APP-CONFIG",
-  "appConfig": [{
+  "appConfig": [
+    {
       "NETWORK_DETECTION": "OFF | ON",
       "PERSISTENCE_MODE": "OFFLINE_FIRST | ONLINE",
       "SYNC_METHOD": "API | OPLOG_UPLOAD",
@@ -16,40 +17,171 @@
           "value": "en_MZ"
         }
       ],
-      "LOCALIZATION_MODULES": [
-        {
-          "label": "hcm-common",
-          "value": "hcm-common"
-        }
-      ],
       "BACKEND_INTERFACE": {
-        "MDMS_MODULES": [
-          "HCM-FIELD-APP-CONFIG",
-          "ACCESSCONTROL-ROLES",
-          "ACCESSCONTROL-ACTIONS-TEST",
-          "ACCESSCONTROL-ROLEACTIONS",
-          "HCM-SERVICE-REGISTRY",
-          "HCM-PROJECT-TYPES",
-          "HCM-ADDITIONAL-FIELD-SCHEMAS"
-        ],
-        "METADATA_SERVICES": [
-          "PROJECT-STAFF",
-          "PROJECT",
-          "PROJECT-RESOURCE",
-          "PRODUCT",
-          "PRODUCT-VARIANT",
-          "PROJECT-FACILITY",
-          "FACILITY"
-        ],
-        "DATA_SERVICES": [
-          "INDIVIDUAL",
-          "HOUSEHOLD",
-          "HOUSEHOLD-MEMBER",
-          "PROJECT-BENEFICIARY",
-          "PROJECT-TASK",
-          "STOCK",
-          "STOCK-RECONCILIATION"
+        "interfaces": [
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-common",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "HCM-FIELD-APP-CONFIG",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "ACCESSCONTROL-ROLES",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "ACCESSCONTROL-ACTIONS-TEST",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "ACCESSCONTROL-ROLEACTIONS",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "ACCESSCONTROL-ROLES",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "HCM-SERVICE-REGISTRY",
+            "config": {
+              "localStoreTTL": 86400
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "HCM-PROJECT-TYPES",
+            "config": {
+              "localStoreTTL": 86400
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "HCM-ADDITIONAL-FIELD-SCHEMAS",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PROJECT-STAFF",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PROJECT",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PROJECT-RESOURCE",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PRODUCT",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PRODUCT-VARIANT",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PROJECT-FACILITY",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "FACILITY",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "INDIVIDUAL",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "HOUSEHOLD",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "HOUSEHOLD-MEMBER",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "PROJECT-BENEFICIARY",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "PROJECT-TASK",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "STOCK",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "STOCK-RECONCILIATION",
+            "config": {
+              "localStoreTTL": 0
+            }
+          }
         ]
       }
-    }]
+    }
+  ]
 }
