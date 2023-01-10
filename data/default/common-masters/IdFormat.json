@@ -33,6 +33,10 @@
     {
       "format": "PT-[cy:yyyy-MM-dd]-[SEQ_PROJECT_TASK_PT]",
       "idname": "project.task.id"
+    },
+    {
+      "format": "PTB-[cy:yyyy-MM-dd]-[SEQ_PROJECT_BENEFICIARY_PTB]",
+      "idname": "project.beneficiary.id"
     }
   ]
 }
