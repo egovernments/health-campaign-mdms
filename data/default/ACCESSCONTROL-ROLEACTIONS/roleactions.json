@@ -14095,6 +14095,24 @@
       "actionid": 1980,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1555,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1555,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1555,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
