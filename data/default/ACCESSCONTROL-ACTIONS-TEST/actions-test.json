@@ -11000,6 +11000,42 @@
     },
     {
       "id": 1555,
+      "name": "Project Beneficiary Create",
+      "url": "/project/beneficiary/v1/_create",
+      "displayName": "Project Beneficiary Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1556,
+      "name": "Project Beneficiary Update",
+      "url": "/project/beneficiary/v1/_update",
+      "displayName": "Project Beneficiary Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1557,
+      "name": "Project Beneficiary Search",
+      "url": "/project/beneficiary/v1/_search",
+      "displayName": "Project Beneficiary Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1555,
       "name": "DSS Dashboard Config Home",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/home",
       "parentModule": "",
