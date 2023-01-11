@@ -10933,6 +10933,106 @@
       "serviceCode": "individual",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1552,
+      "name": "Project Task Create",
+      "url": "/project/task/v1/_create",
+      "displayName": "Project Task Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1553,
+      "name": "Project Task Update",
+      "url": "/project/task/v1/_update",
+      "displayName": "Project Task Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1554,
+      "name": "Project Task Search",
+      "url": "/project/task/v1/_search",
+      "displayName": "Project Task Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1734,
+      "name": "LocalizationMessagesUpsert",
+      "url": "/localization/messages/v1/_upsert",
+      "displayName": "Localization Messages Upsert",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "filestore url",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1980,
+      "name": "rainmaker-localization-screen",
+      "url": "url",
+      "displayName": "Localization",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "Localization",
+      "navigationURL": "integration/ui-localisation/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1555,
+      "name": "Project Beneficiary Create",
+      "url": "/project/beneficiary/v1/_create",
+      "displayName": "Project Beneficiary Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1556,
+      "name": "Project Beneficiary Update",
+      "url": "/project/beneficiary/v1/_update",
+      "displayName": "Project Beneficiary Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1557,
+      "name": "Project Beneficiary Search",
+      "url": "/project/beneficiary/v1/_search",
+      "displayName": "Project Beneficiary Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
