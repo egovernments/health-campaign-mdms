@@ -19,11 +19,11 @@
         ],
         "resources": [
           {
-            "productVariantId": "943dd353-7641-4984-a59d-a01891cb05ca",
+            "productVariantId": "PVAR-2022-12-20-000034",
             "isBaseUnitVariant": false
           },
           {
-            "productVariantId": "07bf993a-0d6a-4ff6-a1e6-58562e900d81",
+            "productVariantId": "PVAR-2022-12-20-000035",
             "isBaseUnitVariant": true
           }
         ]
@@ -45,11 +45,11 @@
         ],
         "resources": [
           {
-            "productVariantId": "ff940b7a-b990-4ab9-a699-13db261306ed",
+            "productVariantId": "PVAR-2022-12-20-000036",
             "isBaseUnitVariant": false
           },
           {
-            "productVariantId": "07bf993a-0d6a-4ff6-a1e6-58562e900d81",
+            "productVariantId": "PVAR-2022-12-20-000037",
             "isBaseUnitVariant": true
           }
         ]
@@ -71,11 +71,11 @@
       ],
       "resources": [
         {
-          "productVariantId": "ff940b7a-b990-4ab9-a699-13db261306ed",
+          "productVariantId": "PVAR-2022-12-20-000038",
           "isBaseUnitVariant": false
         },
         {
-          "productVariantId": "07bf993a-0d6a-4ff6-a1e6-58562e900d81",
+          "productVariantId": "PVAR-2022-12-20-000039",
           "isBaseUnitVariant": true
         }
       ]
