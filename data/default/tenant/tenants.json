@@ -24,7 +24,8 @@
         "latitude": 15.82223689,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "defa"
+        "code": "defa",
+        "ddrName": "default-DDR"
       },
       "address": null,
       "contactNumber": "9980770587",
