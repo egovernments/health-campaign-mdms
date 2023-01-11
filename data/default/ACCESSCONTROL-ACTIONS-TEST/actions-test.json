@@ -11035,7 +11035,7 @@
       "path": ""
     },
     {
-      "id": 1555,
+      "id": 1889,
       "name": "DSS Dashboard Config Home",
       "url": "/dashboard-analytics/dashboard/getDashboardConfig/home",
       "parentModule": "",
@@ -11045,6 +11045,87 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1886,
+      "name": "Dashboard Home",
+      "url": "url",
+      "displayName": "SURE Dashboard",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Home",
+      "navigationURL": "/digit-ui/employee/dss/landing/home",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1890,
+      "name": "DSS Dashboard Charts",
+      "url": "/dashboard-analytics/dashboard/getChartV2",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1937,
+      "name": "DSS Dashboard Config Overview",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/overview",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1941,
+      "name": "Dashboard Overview",
+      "url": "url",
+      "displayName": "Overview",
+      "orderNumber": 3,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Overview",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/overview",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 2196,
+      "name": "Dashboard National Overview",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-overview",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2197,
+      "name": "Dashboard National Overview",
+      "url": "url",
+      "displayName": "National Overview",
+      "orderNumber": 4,
+      "parentModule": "ndss-dashboard",
+      "enabled": true,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": "NatDashboard.Overview",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/national-overview",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     }
   ]
 }
