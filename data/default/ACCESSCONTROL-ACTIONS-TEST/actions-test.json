@@ -11081,7 +11081,7 @@
       "serviceCode": "DSS",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/national-health-dashboard",
+      "navigationURL": "/digit-ui/employee/dss/landing/national-health-dashboard",
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": ""
