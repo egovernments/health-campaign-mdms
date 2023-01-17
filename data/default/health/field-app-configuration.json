@@ -7,6 +7,7 @@
       "PERSISTENCE_MODE": "OFFLINE_FIRST | ONLINE",
       "SYNC_METHOD": "API | OPLOG_UPLOAD",
       "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
+      "TENANT_ID":"default",
       "LANGUAGES": [
         {
           "label": "Portuguese",
