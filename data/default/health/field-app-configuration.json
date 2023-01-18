@@ -28,8 +28,8 @@
               "name": "FEMALE",
             },
             {
-              "code": "OTHERS",
-              "name": "OTHERS",
+              "code": "OTHER",
+              "name": "OTHER",
             },
       ],
       "BACKEND_INTERFACE": {
