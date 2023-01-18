@@ -7,6 +7,7 @@
       "PERSISTENCE_MODE": "OFFLINE_FIRST | ONLINE",
       "SYNC_METHOD": "API | OPLOG_UPLOAD",
       "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
+      "TENANT_ID": "default",
       "LANGUAGES": [
         {
           "label": "Portuguese",
@@ -16,6 +17,20 @@
           "label": "English",
           "value": "en_MZ"
         }
+      ],
+      "GENDER_OPTIONS_POPULATOR":[
+           {
+              "code": "MALE",
+              "name": "MALE",
+            },
+            {
+              "code": "FEMALE",
+              "name": "FEMALE",
+            },
+            {
+              "code": "OTHER",
+              "name": "OTHER",
+            },
       ],
       "BACKEND_INTERFACE": {
         "interfaces": [
