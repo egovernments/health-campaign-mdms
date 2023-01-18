@@ -29,8 +29,8 @@
             },
             {
               "code": "OTHER",
-              "name": "OTHER",
-            },
+              "name": "OTHER"
+            }
       ],
       "BACKEND_INTERFACE": {
         "interfaces": [
