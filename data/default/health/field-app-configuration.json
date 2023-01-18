@@ -30,7 +30,7 @@
             {
               "code": "OTHER",
               "name": "OTHER"
-            },
+            }
       ],
       "BACKEND_INTERFACE": {
         "interfaces": [
