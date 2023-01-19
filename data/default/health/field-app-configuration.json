@@ -55,6 +55,22 @@
               "localStoreTTL": 172800
             }
           },
+          
+           {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-login",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          
+           {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-forgot-password",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-household",
@@ -79,13 +95,6 @@
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-home",
-            "config": {
-              "localStoreTTL": 172800
-            }
-          },
-          {
-            "type": "LOCALIZATION_MODULE",
-            "name": "hcm-forgot-password",
             "config": {
               "localStoreTTL": 172800
             }
