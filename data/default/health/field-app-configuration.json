@@ -62,6 +62,13 @@
               "localStoreTTL": 172800
             }
           },
+             {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-login",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-acknowledgement",
