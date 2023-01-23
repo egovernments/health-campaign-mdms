@@ -14164,12 +14164,6 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1891,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1892,
       "actioncode": "",
       "tenantId": "default"
@@ -14177,12 +14171,6 @@
     {
       "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1893,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1894,
       "actioncode": "",
       "tenantId": "default"
     },
@@ -14200,19 +14188,7 @@
     },
     {
       "rolecode": "PROVINCIAL_SUPERVISOR",
-      "actionid": 1891,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1893,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "PROVINCIAL_SUPERVISOR",
-      "actionid": 1894,
       "actioncode": "",
       "tenantId": "default"
     },
