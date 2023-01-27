@@ -14239,6 +14239,60 @@
       "actionid": 1895,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1558,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1558,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1558,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1559,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1559,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1559,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1560,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1560,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1560,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
