@@ -11129,6 +11129,42 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1558,
+      "name": "Household Member Create",
+      "url": "/household/member/v1/_create",
+      "displayName": "Household Member Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1559,
+      "name": "Household Member Update",
+      "url": "/household/member/v1/_update",
+      "displayName": "Household Member Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1560,
+      "name": "Household Member Search",
+      "url": "/household/member/v1/_search",
+      "displayName": "Household Member Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
     }
   ]
 }

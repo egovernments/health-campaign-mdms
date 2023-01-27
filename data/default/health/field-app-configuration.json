@@ -18,25 +18,81 @@
           "value": "en_MZ"
         }
       ],
-      "GENDER_OPTIONS_POPULATOR":[
-           {
-              "code": "MALE",
-              "name": "MALE"
-            },
-            {
-              "code": "FEMALE",
-              "name": "FEMALE"
-            },
-            {
-              "code": "OTHER",
-              "name": "OTHER"
-            }
+      "GENDER_OPTIONS_POPULATOR": [
+        {
+          "code": "MALE",
+          "name": "MALE"
+        },
+        {
+          "code": "FEMALE",
+          "name": "FEMALE"
+        },
+        {
+          "code": "OTHER",
+          "name": "OTHER"
+        }
       ],
       "BACKEND_INTERFACE": {
         "interfaces": [
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-common",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-delivery",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-member",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-household",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+             {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-login",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-acknowledgement",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-beneficiary",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-home",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-forgot-password",
             "config": {
               "localStoreTTL": 172800
             }
