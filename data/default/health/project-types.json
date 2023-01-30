@@ -26,6 +26,17 @@
             "productVariantId": "PVAR-2022-12-20-000035",
             "isBaseUnitVariant": true
           }
+        ],
+        "reasonForDeletion":[
+
+          {
+            "code":"PERSON_RELOCATED",
+            "value":"PERSON_RELOCATED"
+          },
+          {
+            "code":"HOUSEHOLD_DOES_NOT_EXIST",
+            "value":"HOUSEHOLD_DOES_NOT_EXIST"
+          }
         ]
       },
       {
@@ -52,6 +63,16 @@
             "productVariantId": "PVAR-2022-12-20-000037",
             "isBaseUnitVariant": true
           }
+        ],
+        "reasonForDeletion":[
+          {
+            "code":"PERSON_RELOCATED",
+            "value":"PERSON_RELOCATED"
+          },
+          {
+            "code":"HOUSEHOLD_DOES_NOT_EXIST",
+            "value":"HOUSEHOLD_DOES_NOT_EXIST"
+          }
         ]
       },
       {
@@ -77,6 +98,20 @@
         {
           "productVariantId": "PVAR-2022-12-20-000039",
           "isBaseUnitVariant": true
+        }
+      ],
+      "reasonForDeletion":[
+        {
+          "code":"DEATH",
+          "value":"DEATH"
+        },
+        {
+          "code":"PERSON_RELOCATED",
+          "value":"PERSON_RELOCATED"
+        },
+        {
+          "code":"PERSON_UNKNOW_TO_THE_HOUSEHOLD",
+          "value":"PERSON_UNKNOW_TO_THE_HOUSEHOLD"
         }
       ]
     }
