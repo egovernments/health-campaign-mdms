@@ -33,7 +33,6 @@
         }
       ],
       "HOUSEHOLD_DELETION_REASON_OPTIONS":[
-
         {
           "code":"HOUSEHOLD_RELOCATED",
           "value":"HOUSEHOLD_RELOCATED"
