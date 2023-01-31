@@ -18,6 +18,20 @@
           "value": "en_MZ"
         }
       ],
+      "ID_TYPE_OPTIONS_POPULATOR": [
+        {
+          "code": "DEFAULT",
+          "name": "DEFAULT"
+        },
+        {
+          "code": "AADHAR",
+          "name": "AADHAR"
+        },
+        {
+          "code": "PAN",
+          "name": "PAN"
+        }
+      ],
       "GENDER_OPTIONS_POPULATOR": [
         {
           "code": "MALE",
@@ -30,6 +44,20 @@
         {
           "code": "OTHER",
           "name": "OTHER"
+        }
+      ],
+      "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
+        {
+          "code": "INSUFFICIENT_RESOURCES",
+          "name": "INSUFFICIENT RESOURCES"
+        },
+        {
+          "code": "BENEFICIARY_REFUSED",
+          "name": "BENEFICIARY REFUSED"
+        },
+        {
+          "code": "BENEFICIARY_ABSENT",
+          "name": "BENEFICIARY ABSENT"
         }
       ],
       "BACKEND_INTERFACE": {
@@ -62,7 +90,7 @@
               "localStoreTTL": 172800
             }
           },
-             {
+          {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-login",
             "config": {
