@@ -32,7 +32,6 @@
           "name": "OTHER"
         }
       ],
-
       "HOUSEHOLD_DELETION_REASON_OPTIONS":[
 
         {
@@ -44,7 +43,6 @@
           "value":"HOUSEHOLD_DOES_NOT_EXIST"
         }
       ],
-
       "HOUSEHOLD_MEMBER_DELETION_REASON_OPTIONS":[
         {
           "code":"DEATH",
@@ -55,8 +53,8 @@
           "value":"PERSON_RELOCATED"
         },
         {
-          "code":"PERSON_UNKNOW_TO_THE_HOUSEHOLD",
-          "value":"PERSON_UNKNOW_TO_THE_HOUSEHOLD"
+          "code":"PERSON_UNKNOWN_TO_THE_HOUSEHOLD",
+          "value":"PERSON_UNKNOWN_TO_THE_HOUSEHOLD"
         }
       ],
       "BACKEND_INTERFACE": {
