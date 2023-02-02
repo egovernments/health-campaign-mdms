@@ -11166,8 +11166,6 @@
       "code": "null",
       "path": ""
     },
-
-
     {
       "id": 1561,
       "name": "Individual Bulk Create",
@@ -11213,6 +11211,54 @@
       "parentModule": "",
       "enabled": false,
       "serviceCode": "individual",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1565,
+      "name": "Project Task Bulk Create",
+      "url": "/project/task/v1/bulk/_create",
+      "displayName": "Project Task Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1566,
+      "name": "Project Task Bulk Update",
+      "url": "/project/task/v1/bulk/_update",
+      "displayName": "Project Task Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1567,
+      "name": "Project Task Delete",
+      "url": "/project/task/v1/_delete",
+      "displayName": "Project Task Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1568,
+      "name": "Project Task Bulk Delete",
+      "url": "/project/task/v1/bulk/_delete",
+      "displayName": "Project Task Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
       "code": "null",
       "path": ""
     }
