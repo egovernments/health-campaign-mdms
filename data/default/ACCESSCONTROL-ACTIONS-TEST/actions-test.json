@@ -11165,6 +11165,56 @@
       "serviceCode": "household",
       "code": "null",
       "path": ""
+    },
+
+
+    {
+      "id": 1561,
+      "name": "Individual Bulk Create",
+      "url": "/individual/v1/bulk/_create",
+      "displayName": "Individual Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1562,
+      "name": "Individual Bulk Update",
+      "url": "/individual/v1/bulk/_update",
+      "displayName": "Individual Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1563,
+      "name": "Individual Delete",
+      "url": "/individual/v1/_delete",
+      "displayName": "Individual Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1564,
+      "name": "Individual Bulk Delete",
+      "url": "/individual/v1/bulk/_delete",
+      "displayName": "Individual Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "individual",
+      "code": "null",
+      "path": ""
     }
   ]
 }
