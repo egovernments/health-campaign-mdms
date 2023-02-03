@@ -14546,8 +14546,7 @@
       "actionid": 1574,
       "actioncode": "",
       "tenantId": "default"
-    }
-  ,
+    },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1575,
@@ -14565,8 +14564,7 @@
       "actionid": 1575,
       "actioncode": "",
       "tenantId": "default"
-    }
-  ,
+    },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1576,
