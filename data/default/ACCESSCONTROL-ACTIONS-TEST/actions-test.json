@@ -11357,6 +11357,54 @@
       "serviceCode": "household",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1577,
+      "name": "Project Staff Bulk Create",
+      "url": "/project/staff/v1/bulk/_create",
+      "displayName": "Project Staff Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1578,
+      "name": "Project Staff Bulk Update",
+      "url": "/project/staff/v1/bulk/_update",
+      "displayName": "Project Staff Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1579,
+      "name": "Project Staff Delete",
+      "url": "/project/staff/v1/_delete",
+      "displayName": "Project Staff Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1580,
+      "name": "Project Staff Bulk Delete",
+      "url": "/project/staff/v1/bulk/_delete",
+      "displayName": "Project Staff Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
