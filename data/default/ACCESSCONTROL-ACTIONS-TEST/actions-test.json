@@ -11405,6 +11405,54 @@
       "serviceCode": "project",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1581,
+      "name": "Household Member Bulk Create",
+      "url": "/household/member/v1/bulk/_create",
+      "displayName": "Household Member Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1582,
+      "name": "Household Member Bulk Update",
+      "url": "/household/member/v1/bulk/_update",
+      "displayName": "Household Member Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1583,
+      "name": "Household Member Delete",
+      "url": "/household/member/v1/_delete",
+      "displayName": "Household Member Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1584,
+      "name": "Household Member Bulk Delete",
+      "url": "/household/member/v1/bulk/_delete",
+      "displayName": "Household Member Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "household",
+      "code": "null",
+      "path": ""
     }
   ]
 }
