@@ -11453,6 +11453,78 @@
       "serviceCode": "household",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1585,
+      "name": "Stock Create",
+      "url": "/stock/v1/_create",
+      "displayName": "Stock Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1586,
+      "name": "Stock Update",
+      "url": "/stock/v1/_update",
+      "displayName": "Stock Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1587,
+      "name": "Stock Delete",
+      "url": "/stock/v1/_delete",
+      "displayName": "Stock Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1588,
+      "name": "Stock Bulk Create",
+      "url": "/stock/v1/bulk/_create",
+      "displayName": "Stock Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1589,
+      "name": "Stock Bulk Update",
+      "url": "/stock/v1/bulk/_update",
+      "displayName": "Stock Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1590,
+      "name": "Stock Bulk Delete",
+      "url": "/stock/v1/bulk/_delete",
+      "displayName": "Stock Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
     }
   ]
 }
