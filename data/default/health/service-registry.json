@@ -54,6 +54,26 @@
           "action": "search",
           "entityName": "Individual",
           "path": "/individual/v1/_search"
+        },
+        {
+          "action": "delete",
+          "entityName": "Individual",
+          "path": "/individual/v1/_delete"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "Individual",
+          "path": "/household/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "Individual",
+          "path": "/household/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "Individual",
+          "path": "/household/v1/bulk/_delete"
         }
       ]
     },
@@ -74,6 +94,26 @@
           "action": "search",
           "entityName": "Household",
           "path": "/household/v1/_search"
+        },
+        {
+          "action": "delete",
+          "entityName": "Household",
+          "path": "/household/v1/_delete"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "Household",
+          "path": "/household/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "Household",
+          "path": "/household/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "Household",
+          "path": "/household/v1/bulk/_delete"
         }
       ]
     },
@@ -94,6 +134,26 @@
           "action": "search",
           "entityName": "HouseholdMember",
           "path": "/household/member/v1/_search"
+        },
+        {
+          "action": "delete",
+          "entityName": "HouseholdMember",
+          "path": "/household/member/v1/_delete"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "HouseholdMember",
+          "path": "/household/member/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "HouseholdMember",
+          "path": "/household/member/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "HouseholdMember",
+          "path": "/household/member/v1/bulk/_delete"
         }
       ]
     },
@@ -114,6 +174,26 @@
           "action": "search",
           "entityName": "ProjectBeneficiary",
           "path": "/project/beneficiary/v1/_search"
+        },
+        {
+          "action": "delete",
+          "entityName": "ProjectBeneficiary",
+          "path": "/project/beneficiary/v1/_delete"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "ProjectBeneficiary",
+          "path": "/project/beneficiary/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "ProjectBeneficiary",
+          "path": "/project/beneficiary/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "ProjectBeneficiary",
+          "path": "/project/beneficiary/v1/bulk/_delete"
         }
       ]
     },
@@ -134,6 +214,26 @@
           "action": "search",
           "entityName": "ProjectTask",
           "path": "/project/task/v1/_search"
+        },
+        {
+          "action": "delete",
+          "entityName": "ProjectTask",
+          "path": "/project/task/v1/_delete"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "ProjectTask",
+          "path": "/project/task/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "ProjectTask",
+          "path": "/project/task/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "ProjectTask",
+          "path": "/project/task/v1/bulk/_delete"
         }
       ]
     },
@@ -154,6 +254,21 @@
           "action": "search",
           "entityName": "Stock",
           "path": "/stock/v1/_search"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "Stock",
+          "path": "/stock/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "Stock",
+          "path": "/stock/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "Stock",
+          "path": "/stock/v1/bulk/_delete"
         }
       ]
     },
