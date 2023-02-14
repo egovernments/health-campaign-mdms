@@ -63,17 +63,17 @@
         {
           "action": "bulk_create",
           "entityName": "Individual",
-          "path": "/household/v1/bulk/_create"
+          "path": "/individual/v1/bulk/_create"
         },
         {
           "action": "bulk_update",
           "entityName": "Individual",
-          "path": "/household/v1/bulk/_update"
+          "path": "/individual/v1/bulk/_update"
         },
         {
           "action": "bulk_delete",
           "entityName": "Individual",
-          "path": "/household/v1/bulk/_delete"
+          "path": "/individual/v1/bulk/_delete"
         }
       ]
     },
