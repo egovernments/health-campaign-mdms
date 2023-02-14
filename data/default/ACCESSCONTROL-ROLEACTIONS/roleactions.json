@@ -14865,6 +14865,18 @@
       "actionid": 1599,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 1594,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 1545,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
