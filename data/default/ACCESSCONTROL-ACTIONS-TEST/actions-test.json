@@ -11573,6 +11573,78 @@
       "serviceCode": "project",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1595,
+      "name": "Survey Create",
+      "url": "/egov-survey-services/egov-ss/survey/_create",
+      "displayName": "Survey Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "egov-survey-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1596,
+      "name": "Survey Search",
+      "url": "/egov-survey-services/egov-ss/survey/_search",
+      "displayName": "Survey Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "egov-survey-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1597,
+      "name": "Survey Update",
+      "url": "/egov-survey-services/egov-ss/survey/_update",
+      "displayName": "Survey Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "egov-survey-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1598,
+      "name": "Survey Delete",
+      "url": "/egov-survey-services/egov-ss/survey/_delete",
+      "displayName": "Survey Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "egov-survey-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1599,
+      "name": "Survey Response Submit",
+      "url": "/egov-survey-services/egov-ss/survey/response/_submit",
+      "displayName": "Survey Response Submit",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "egov-survey-service",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1600,
+      "name": "Survey Response Results",
+      "url": "/egov-survey-services/egov-ss/survey/response/_results",
+      "displayName": "Survey Response Results",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "egov-survey-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
