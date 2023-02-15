@@ -14032,6 +14032,12 @@
     },
     {
       "rolecode": "REGISTRAR",
+      "actionid": 1544,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
       "actionid": 1545,
       "actioncode": "",
       "tenantId": "default"
