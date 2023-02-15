@@ -45,6 +45,10 @@
     {
       "format": "PJT-[cy:yyyy-MM-dd]-[SEQ_PROJECT_PJT]",
       "idname": "project.number"
+    },
+    {
+      "format": "SY-[cy:yyyy-MM-dd]-[SEQ_EG_DOC_ID]",
+      "idname": "ss.surveyid"
     }
   ]
 }
