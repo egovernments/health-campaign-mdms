@@ -37,6 +37,14 @@
     {
       "format": "PTB-[cy:yyyy-MM-dd]-[SEQ_PROJECT_BENEFICIARY_PTB]",
       "idname": "project.beneficiary.id"
+    },
+    {
+      "format": "S-[cy:yyyy-MM-dd]-[SEQ_STOCK_S]",
+      "idname": "stock.id"
+    },
+    {
+      "format": "PJT-[cy:yyyy-MM-dd]-[SEQ_PROJECT_PJT]",
+      "idname": "project.number"
     }
   ]
 }
