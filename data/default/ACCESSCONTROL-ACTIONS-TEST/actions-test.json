@@ -11645,6 +11645,90 @@
       "serviceCode": "egov-survey-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1601,
+      "name": "Stock Reconciliation Create",
+      "url": "/stock/reconciliation/v1/_create",
+      "displayName": "Stock Reconciliation Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1602,
+      "name": "Stock Reconciliation Update",
+      "url": "/stock/reconciliation/v1/_update",
+      "displayName": "Stock Reconciliation Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1603,
+      "name": "Stock Reconciliation Delete",
+      "url": "/stock/reconciliation/v1/_delete",
+      "displayName": "Stock Reconciliation Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1604,
+      "name": "Stock Reconciliation Bulk Create",
+      "url": "/stock/reconciliation/v1/bulk/_create",
+      "displayName": "Stock Reconciliation Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1605,
+      "name": "Stock Reconciliation Bulk Update",
+      "url": "/stock/reconciliation/v1/bulk/_update",
+      "displayName": "Stock Reconciliation Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1606,
+      "name": "Stock Reconciliation Bulk Delete",
+      "url": "/stock/reconciliation/v1/bulk/_delete",
+      "displayName": "Stock Reconciliation Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1607,
+      "name": "Stock Reconciliation Search",
+      "url": "/stock/reconciliation/v1/_search",
+      "displayName": "Stock Reconciliation Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "stock",
+      "code": "null",
+      "path": ""
     }
   ]
 }
