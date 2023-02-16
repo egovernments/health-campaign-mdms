@@ -49,6 +49,10 @@
     {
       "format": "SY-[cy:yyyy-MM-dd]-[SEQ_EG_DOC_ID]",
       "idname": "ss.surveyid"
+    },
+    {
+      "format": "SR-[cy:yyyy-MM-dd]-[SEQ_STOCK_SR]",
+      "idname": "stock.reconciliation.id"
     }
   ]
 }
