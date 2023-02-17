@@ -47,7 +47,7 @@
       "idname": "project.number"
     },
     {
-      "format": "SY-[cy:yyyy-MM-dd]-[SEQ_EG_DOC_ID]",
+      "format": "SY-[cy:yyyy-MM-dd]-[SEQ_SURVEY_SY]",
       "idname": "ss.surveyid"
     },
     {
