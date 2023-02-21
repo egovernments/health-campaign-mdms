@@ -14992,6 +14992,24 @@
       "actionid": 1607,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1600,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1600,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1600,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
