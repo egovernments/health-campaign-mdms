@@ -14038,6 +14038,14 @@
     },
     {
       "rolecode": "REGISTRAR",
+      "actionid": 1594,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    
+    
+    {
+      "rolecode": "REGISTRAR",
       "actionid": 1544,
       "actioncode": "",
       "tenantId": "default"
@@ -14063,6 +14071,12 @@
     {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1546,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1594,
       "actioncode": "",
       "tenantId": "default"
     },
@@ -14988,6 +15002,24 @@
     {
       "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1607,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1600,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1600,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1600,
       "actioncode": "",
       "tenantId": "default"
     }
