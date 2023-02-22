@@ -11729,6 +11729,90 @@
       "serviceCode": "stock",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1608,
+      "name": "Project Resource Create",
+      "url": "/project/resource/v1/_create",
+      "displayName": "Project Resource Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1609,
+      "name": "Project Resource Bulk Create",
+      "url": "/project/resource/v1/bulk/_create",
+      "displayName": "Project Resource Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1610,
+      "name": "Project Resource Update",
+      "url": "/project/resource/v1/_update",
+      "displayName": "Project Resource Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1611,
+      "name": "Project Resource Bulk Update",
+      "url": "/project/resource/v1/bulk/_update",
+      "displayName": "Project Resource Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1612,
+      "name": "Project Resource Delete",
+      "url": "/project/resource/v1/_delete",
+      "displayName": "Project Resource Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1613,
+      "name": "Project Resource Bulk Delete",
+      "url": "/project/resource/v1/bulk/_delete",
+      "displayName": "Project Resource Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1614,
+      "name": "Project Resource Search",
+      "url": "/project/resource/v1/_search",
+      "displayName": "Project Resource Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }

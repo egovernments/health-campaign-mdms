@@ -53,6 +53,10 @@
     {
       "format": "SR-[cy:yyyy-MM-dd]-[SEQ_STOCK_SR]",
       "idname": "stock.reconciliation.id"
+    },
+    {
+      "format": "PR-[cy:yyyy-MM-dd]-[SEQ-PROJECT_PR]",
+      "idname": "project.resource.id"
     }
   ]
 }
