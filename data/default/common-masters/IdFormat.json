@@ -57,6 +57,10 @@
     {
       "format": "F-[cy:yyyy-MM-dd]-[SEQ_FACILITY_SR]",
       "idname": "facility.id"
+    },
+    {
+      "format": "PR-[cy:yyyy-MM-dd]-[SEQ-PROJECT_PR]",
+      "idname": "project.resource.id"
     }
   ]
 }
