@@ -14055,12 +14055,6 @@
       "tenantId": "default"
     },
     {
-      "rolecode": "REGISTRAR",
-      "actionid": 1552,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1552,
       "actioncode": "",
@@ -14075,12 +14069,6 @@
     {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1594,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "DISTRIBUTOR",
-      "actionid": 1552,
       "actioncode": "",
       "tenantId": "default"
     },
