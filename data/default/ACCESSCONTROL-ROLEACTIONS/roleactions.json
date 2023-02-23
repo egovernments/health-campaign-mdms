@@ -14056,13 +14056,13 @@
     },
     {
       "rolecode": "REGISTRAR",
-      "actionid": 1554,
+      "actionid": 1552,
       "actioncode": "",
       "tenantId": "default"
     },
     {
       "rolecode": "DISTRIBUTOR",
-      "actionid": 1554,
+      "actionid": 1552,
       "actioncode": "",
       "tenantId": "default"
     },
