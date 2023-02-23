@@ -11813,6 +11813,90 @@
       "serviceCode": "project",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1615,
+      "name": "Facility Create",
+      "url": "/facility/v1/_create",
+      "displayName": "Facility Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "facility",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1616,
+      "name": "Facility Bulk Create",
+      "url": "/facility/v1/bulk/_create",
+      "displayName": "Facility Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "facility",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1617,
+      "name": "Facility Update",
+      "url": "/facility/v1/_update",
+      "displayName": "Facility Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "facility",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1618,
+      "name": "Facility Bulk Update",
+      "url": "/facility/v1/bulk/_update",
+      "displayName": "Facility Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "facility",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1619,
+      "name": "Facility Delete",
+      "url": "/facility/v1/_delete",
+      "displayName": "Facility Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "facility",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1620,
+      "name": "Facility Bulk Delete",
+      "url": "/facility/v1/bulk/_delete",
+      "displayName": "Facility Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "facility",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1621,
+      "name": "Facility Search",
+      "url": "/facility/v1/_search",
+      "displayName": "Facility Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "facility",
+      "code": "null",
+      "path": ""
     }
   ]
 }
