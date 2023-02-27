@@ -15122,6 +15122,90 @@
       "actionid": 1621,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1622,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1623,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1624,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1625,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1626,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1627,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1622,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1623,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1624,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1625,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1626,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1627,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
