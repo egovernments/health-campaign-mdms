@@ -8,9 +8,9 @@
                 -19
             ],
             "zoomLevels": {
-                "default": 13,
-                "minZoom": 13,
-                "maxZoom": 20
+                "default": 12,
+                "minZoom": 12,
+                "maxZoom": 25
             },
             "geoJSON": {
                 "type": "FeatureCollection",
