@@ -15206,6 +15206,126 @@
       "actionid": 1628,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1630,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1630,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1631,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1631,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1632,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1632,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1632,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1632,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1634,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1634,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1634,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1634,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
