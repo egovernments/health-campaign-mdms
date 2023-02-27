@@ -14139,6 +14139,18 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "REGISTRAR",
+      "actionid": 1554,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1554,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1734,
       "actioncode": "",
@@ -14557,8 +14569,7 @@
       "actionid": 1573,
       "actioncode": "",
       "tenantId": "default"
-    }
-  ,
+    },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1574,
