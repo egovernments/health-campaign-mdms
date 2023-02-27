@@ -8,8 +8,8 @@
                 -19
             ],
             "zoomLevels": {
-                "default": 12,
-                "minZoom": 12,
+                "default": 13,
+                "minZoom": 13,
                 "maxZoom": 25
             },
             "geoJSON": {
