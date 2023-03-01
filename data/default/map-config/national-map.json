@@ -12,6 +12,7 @@
                 "minZoom": 13,
                 "maxZoom": 25
             },
+            "fontSize": "10%",
             "geoJSON": {
                 "type": "FeatureCollection",
                 "features": [
