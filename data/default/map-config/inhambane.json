@@ -12,7 +12,10 @@
         "minZoom": 60,
         "maxZoom": 60
       },
-      "fontSize": "0.03rem",
+      "fontSize": {
+        "desktop": "0.5px",
+        "mobile": "1px"
+      },
       "geoJSON": {
         "type": "FeatureCollection",
         "features": [
