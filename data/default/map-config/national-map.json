@@ -8,9 +8,9 @@
                 -19
             ],
             "zoomLevels": {
-                "default": 13,
-                "minZoom": 13,
-                "maxZoom": 25
+                "default": 20,
+                "minZoom": 15,
+                "maxZoom": 50
             },
             "fontSize": {
                 "desktop": "1px",

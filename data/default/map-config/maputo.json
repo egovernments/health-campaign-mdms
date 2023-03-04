@@ -9,11 +9,11 @@
       ],
       "zoomLevels": {
         "default": 65,
-        "minZoom": 77,
-        "maxZoom": 77
+        "minZoom": 55,
+        "maxZoom": 100
       },
       "fontSize": {
-        "desktop": "0.5px",
+        "desktop": "0.3px",
         "mobile": "1px"
       },
       "geoJSON": {
