@@ -14788,6 +14788,12 @@
     },
     {
       "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1545,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1585,
       "actioncode": "",
       "tenantId": "default"
@@ -14825,6 +14831,12 @@
     {
       "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1591,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1594,
       "actioncode": "",
       "tenantId": "default"
     },
