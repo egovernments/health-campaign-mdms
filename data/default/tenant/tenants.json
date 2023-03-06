@@ -13,6 +13,7 @@
       "twitterUrl": null,
       "facebookUrl": null,
       "emailId": null,
+      "integrateProjectService": true,
       "city": {
         "name": "Default Corporation",
         "localName": null,
