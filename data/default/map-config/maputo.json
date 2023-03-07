@@ -13,7 +13,7 @@
         "maxZoom": 100
       },
       "fontSize": {
-        "desktop": "0.3px",
+        "desktop": "0.2px",
         "mobile": "1px"
       },
       "geoJSON": {
