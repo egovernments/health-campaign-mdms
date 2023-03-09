@@ -15261,6 +15261,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "SUPERVISOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1630,
       "actioncode": "",
@@ -15328,6 +15334,12 @@
     },
     {
       "rolecode": "REGISTRAR",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERVISOR",
       "actionid": 1633,
       "actioncode": "",
       "tenantId": "default"
