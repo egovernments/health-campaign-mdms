@@ -18,6 +18,20 @@
           "value": "en_MZ"
         }
       ],
+      "CHECKLIST_TYPES": [
+        {
+          "name": "WAREHOUSE",
+          "code": "WAREHOUSE"
+        },
+        {
+          "name": "TRAINING_SUPERVISION",
+          "code": "TRAINING_SUPERVISION"
+        },
+        {
+          "name": "TEAM_FORMATION",
+          "code": "TEAM_FORMATION"
+        }
+      ],
       "ID_TYPE_OPTIONS_POPULATOR": [
         {
           "code": "DEFAULT",
@@ -93,7 +107,7 @@
               "localStoreTTL": 172800
             }
           },
-             {
+          {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-checklist",
             "config": {
