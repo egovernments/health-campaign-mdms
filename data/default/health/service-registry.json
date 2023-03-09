@@ -299,6 +299,21 @@
           "action": "search",
           "entityName": "StockReconciliation",
           "path": "/stock/reconciliation/v1/_search"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "StockReconciliation",
+          "path": "/stock/reconciliation/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "StockReconciliation",
+          "path": "/stock/reconciliation/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "StockReconciliation",
+          "path": "/stock/reconciliation/v1/bulk/_delete"
         }
       ]
     },
