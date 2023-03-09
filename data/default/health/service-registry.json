@@ -18,6 +18,16 @@
       ]
     },
     {
+      "service": "SERVICE",
+      "actions": [
+        {
+          "action": "create",
+          "entityName": "service",
+          "path": "/service-request/service/v1/_create"
+        }
+      ]
+    },
+    {
       "service": "MDMS",
       "actions": [
         {
