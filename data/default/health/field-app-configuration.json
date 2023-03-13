@@ -199,6 +199,13 @@
             }
           },
           {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-warehouse-details",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
             "type": "MDMS",
             "name": "HCM-FIELD-APP-CONFIG",
             "config": {
