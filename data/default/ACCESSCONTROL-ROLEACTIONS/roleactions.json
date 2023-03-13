@@ -14145,6 +14145,18 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "REGISTRAR",
+      "actionid": 1554,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1554,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1734,
       "actioncode": "",
@@ -14563,8 +14575,7 @@
       "actionid": 1573,
       "actioncode": "",
       "tenantId": "default"
-    }
-  ,
+    },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1574,
@@ -15250,6 +15261,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "SUPERVISOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1630,
       "actioncode": "",
@@ -15317,6 +15334,12 @@
     },
     {
       "rolecode": "REGISTRAR",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERVISOR",
       "actionid": 1633,
       "actioncode": "",
       "tenantId": "default"
