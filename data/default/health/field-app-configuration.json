@@ -107,6 +107,20 @@
               "localStoreTTL": 172800
             }
           },
+             {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-checklist",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-checklist",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-checklist",
