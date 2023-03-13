@@ -107,7 +107,7 @@
               "localStoreTTL": 172800
             }
           },
-             {
+          {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-checklist",
             "config": {
@@ -180,6 +180,20 @@
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-forgot-password",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-stock",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-stock-reconciliation",
             "config": {
               "localStoreTTL": 172800
             }
