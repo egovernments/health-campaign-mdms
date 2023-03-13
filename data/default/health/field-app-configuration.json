@@ -185,6 +185,20 @@
             }
           },
           {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-stock",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-stock-reconciliation",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
             "type": "MDMS",
             "name": "HCM-FIELD-APP-CONFIG",
             "config": {
