@@ -337,8 +337,8 @@
       "actions": [
         {
           "action": "search",
-          "entityName": "ProjectStaff",
-          "path": "/project/staff/v1/_search"
+          "entityName": "Project",
+          "path": "/project/v1/_search"
         }
       ]
     },
