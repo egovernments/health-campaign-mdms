@@ -27,7 +27,7 @@
         },
           {
           "action": "search",
-          "entityName": "service",
+          "entityName": "ServiceDefinition",
           "path": "/service-request/service/definition/v1/_search"
         }
       ]
