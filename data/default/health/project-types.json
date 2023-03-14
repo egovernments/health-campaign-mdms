@@ -12,11 +12,6 @@
           "All households are eligible.",
           "Prison inmates are eligible."
         ],
-        "dashboardUrls": [
-          "/digit-ui/employee/dss/landing/national-health-dashboard",
-          "/digit-ui/employee/dss/dashboard/provincial-health-dashboard",
-          "/digit-ui/employee/dss/dashboard/district-health-dashboard"
-        ],
         "taskProcedure": [
           "1 bednet is to be distributed per 2 household members.",
           "If there are 4 household members, 2 bednets should be distributed.",
