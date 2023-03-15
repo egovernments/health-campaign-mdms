@@ -1,0 +1,367 @@
+{
+  "tenantId": "default",
+  "moduleName": "HCM-FIELD-APP-CONFIG",
+  "appConfig": [
+    {
+      "NETWORK_DETECTION": "OFF | ON",
+      "PERSISTENCE_MODE": "OFFLINE_FIRST | ONLINE",
+      "SYNC_METHOD": "API | OPLOG_UPLOAD",
+      "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
+      "TENANT_ID": "default",
+      "LANGUAGES": [
+        {
+          "label": "Portuguese",
+          "value": "pt_MZ"
+        },
+        {
+          "label": "English",
+          "value": "en_MZ"
+        }
+      ],
+      "CHECKLIST_TYPES": [
+        {
+          "name": "WAREHOUSE",
+          "code": "WAREHOUSE"
+        },
+        {
+          "name": "TRAINING_SUPERVISION",
+          "code": "TRAINING_SUPERVISION"
+        },
+        {
+          "name": "TEAM_FORMATION",
+          "code": "TEAM_FORMATION"
+        }
+      ],
+      "ID_TYPE_OPTIONS_POPULATOR": [
+        {
+          "code": "DEFAULT",
+          "name": "DEFAULT"
+        },
+        {
+          "code": "AADHAR",
+          "name": "AADHAR"
+        },
+        {
+          "code": "PAN",
+          "name": "PAN"
+        }
+      ],
+      "GENDER_OPTIONS_POPULATOR": [
+        {
+          "code": "MALE",
+          "name": "MALE"
+        },
+        {
+          "code": "FEMALE",
+          "name": "FEMALE"
+        },
+        {
+          "code": "OTHER",
+          "name": "OTHER"
+        }
+      ],
+      "HOUSEHOLD_DELETION_REASON_OPTIONS": [
+        {
+          "code": "HOUSEHOLD_RELOCATED",
+          "value": "HOUSEHOLD_RELOCATED"
+        },
+        {
+          "code": "HOUSEHOLD_DOES_NOT_EXIST",
+          "value": "HOUSEHOLD_DOES_NOT_EXIST"
+        }
+      ],
+      "HOUSEHOLD_MEMBER_DELETION_REASON_OPTIONS": [
+        {
+          "code": "DEATH",
+          "value": "DEATH"
+        },
+        {
+          "code": "PERSON_RELOCATED",
+          "value": "PERSON_RELOCATED"
+        },
+        {
+          "code": "PERSON_UNKNOWN_TO_THE_HOUSEHOLD",
+          "value": "PERSON_UNKNOWN_TO_THE_HOUSEHOLD"
+        }
+      ],
+      "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
+        {
+          "code": "INSUFFICIENT_RESOURCES",
+          "name": "INSUFFICIENT_RESOURCES"
+        },
+        {
+          "code": "BENEFICIARY_REFUSED",
+          "name": "BENEFICIARY_REFUSED"
+        },
+        {
+          "code": "BENEFICIARY_ABSENT",
+          "name": "BENEFICIARY_ABSENT"
+        }
+      ],
+      "BACKEND_INTERFACE": {
+        "interfaces": [
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-common",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-checklist",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-checklist",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-checklist",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-delivery",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-member",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-household",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-login",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-acknowledgement",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-beneficiary",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-home",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-forgot-password",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-stock",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-stock-reconciliation",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-warehouse-details",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+
+            "type": "MDMS",
+            "name": "HCM-FIELD-APP-CONFIG",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "ACCESSCONTROL-ROLES",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "ACCESSCONTROL-ACTIONS-TEST",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "ACCESSCONTROL-ROLEACTIONS",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "ACCESSCONTROL-ROLES",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "HCM-SERVICE-REGISTRY",
+            "config": {
+              "localStoreTTL": 86400
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "HCM-PROJECT-TYPES",
+            "config": {
+              "localStoreTTL": 86400
+            }
+          },
+          {
+            "type": "MDMS",
+            "name": "HCM-ADDITIONAL-FIELD-SCHEMAS",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PROJECT-STAFF",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PROJECT",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PROJECT-RESOURCE",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PRODUCT",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PRODUCT-VARIANT",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "PROJECT-FACILITY",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "METADATA_SERVICE",
+            "name": "FACILITY",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "INDIVIDUAL",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "HOUSEHOLD",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "HOUSEHOLD-MEMBER",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "PROJECT-BENEFICIARY",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "PROJECT-TASK",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "STOCK",
+            "config": {
+              "localStoreTTL": 0
+            }
+          },
+          {
+            "type": "DATA_SERVICE",
+            "name": "STOCK-RECONCILIATION",
+            "config": {
+              "localStoreTTL": 0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
