@@ -206,6 +206,7 @@
             }
           },
           {
+
             "type": "MDMS",
             "name": "HCM-FIELD-APP-CONFIG",
             "config": {
