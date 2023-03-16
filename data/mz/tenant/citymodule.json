@@ -1,0 +1,17 @@
+{
+  "tenantId": "mz",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
+    }
+  ]
+}

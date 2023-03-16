@@ -3,9 +3,49 @@
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
     {
-      "code": "EMPLOYEE",
-      "name": "Field worker",
-      "description": "Field worker who can register an entity"
+      "code": "SYSTEM_ADMINISTRATOR",
+      "name": "System Administrator",
+      "description": "System Administrator"
+    },
+    {
+      "code": "REGISTRAR",
+      "name": "Registrar",
+      "description": "Registrar"
+    },
+    {
+      "code": "DISTRIBUTOR",
+      "name": "Distributor",
+      "description": "Distributor"
+    },
+    {
+      "code": "SUPERUSER",
+      "name": "Super User",
+      "description": "Super User. Can change all master data and has access to all the system screens."
+    },
+    {
+      "code": "NATIONAL_SUPERVISOR",
+      "name": "National Supervisor",
+      "description": "Supervisor who can view National health dashboard"
+    },
+    {
+      "code": "PROVINCIAL_SUPERVISOR",
+      "name": "Provincial Supervisor",
+      "description": "Supervisor who can view Provincial health dashboard"
+    },
+    {
+      "code": "DISTRICT_SUPERVISOR",
+      "name": "District Supervisor",
+      "description": "Supervisor who can view District health dashboard"
+    },
+    {
+      "code": "SUPERVISOR",
+      "name": "Supervisor",
+      "description": "Supervisor who can access services required for viewing dashboards at all levels"
+    },
+    {
+      "code": "WAREHOUSE_MANAGER",
+      "name": "Warehouse Manager",
+      "description": "Warehouse manager"
     }
   ]
 }
