@@ -43,6 +43,11 @@
       "description": "Supervisor who can view Field health dashboard"
     },
     {
+      "code": "SUPERVISOR",
+      "name": "Supervisor",
+      "description": "Supervisor"
+    },
+    {
       "code": "WAREHOUSE_MANAGER",
       "name": "Warehouse Manager",
       "description": "Warehouse manager"
