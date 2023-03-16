@@ -14097,6 +14097,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "REGISTRAR",
+      "actionid": 1547,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1548,
       "actioncode": "",
@@ -14105,18 +14111,6 @@
     {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1549,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "REGISTRAR",
-      "actionid": 1554,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "DISTRIBUTOR",
-      "actionid": 1554,
       "actioncode": "",
       "tenantId": "default"
     },
@@ -14140,6 +14134,18 @@
     },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1553,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1553,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
       "actionid": 1553,
       "actioncode": "",
       "tenantId": "default"
