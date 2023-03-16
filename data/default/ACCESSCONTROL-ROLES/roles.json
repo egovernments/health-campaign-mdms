@@ -38,9 +38,9 @@
       "description": "Supervisor who can view District health dashboard"
     },
     {
-      "code": "SUPERVISOR",
-      "name": "Supervisor",
-      "description": "Supervisor who can access services required for viewing dashboards at all levels"
+      "code": "FIELD_SUPERVISOR",
+      "name": "Field Supervisor",
+      "description": "Supervisor who can view Field health dashboard"
     },
     {
       "code": "WAREHOUSE_MANAGER",
