@@ -98,6 +98,16 @@
           "name": "BENEFICIARY_ABSENT"
         }
       ],
+      "TRANSPORT_TYPES": [
+        {
+          "code": "TRANSPORT_TYPE_1",
+          "name": "TRANSPORT_TYPE_1"
+        },
+        {
+          "code": "TRANSPORT_TYPE_2",
+          "name": "TRANSPORT_TYPE_2"
+        }
+      ],
       "BACKEND_INTERFACE": {
         "interfaces": [
           {
@@ -206,7 +216,6 @@
             }
           },
           {
-
             "type": "MDMS",
             "name": "HCM-FIELD-APP-CONFIG",
             "config": {

@@ -14,7 +14,7 @@
       },
       "fontSize": {
         "desktop": "0.2px",
-        "mobile": "1px"
+        "mobile": "0.5px"
       },
       "geoJSON": {
         "type": "FeatureCollection",
