@@ -202,6 +202,192 @@
                                 ]
                             }
                         ]
+                    },
+                    {
+                        "id": "17",
+                        "boundaryNum": 1,
+                        "name": "Changara",
+                        "localname": "Changara",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "code": "LC000017",
+                        "children": [
+                            {
+                                "id": "18",
+                                "boundaryNum": 1,
+                                "name": "Chioco",
+                                "localname": "Chioco",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "AdministrativeProvince",
+                                "code": "LC000018",
+                                "area": "",
+                                "children": [
+                                    {
+                                        "id": "19",
+                                        "boundaryNum": 1,
+                                        "name": "Chioco L1",
+                                        "localname": "Chioco L1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "LC0000119",
+                                        "area": "",
+                                        "children": [
+                                            {
+                                                "id": "20",
+                                                "boundaryNum": 1,
+                                                "name": "Chioco Piroro",
+                                                "localname": "Chioco Piroro",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Village",
+                                                "code": "LC000020",
+                                                "area": "",
+                                                "children": []
+                                            },
+                                            {
+                                                "id": "21",
+                                                "boundaryNum": 1,
+                                                "name": "Nhancualacua",
+                                                "localname": "Nhancualacua",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Village",
+                                                "code": "LC000021",
+                                                "area": "",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "22",
+                                        "boundaryNum": 1,
+                                        "name": "Luenha L1",
+                                        "localname": "Luenha L1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "LC000022",
+                                        "area": "",
+                                        "children": [
+                                            {
+                                                "id": "23",
+                                                "boundaryNum": 1,
+                                                "name": "Changara",
+                                                "localname": "Changara",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Village",
+                                                "code": "LC000023",
+                                                "area": "",
+                                                "children": []
+                                            },
+                                            {
+                                                "id": "24",
+                                                "boundaryNum": 1,
+                                                "name": "Chinguere",
+                                                "localname": "Chinguere",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Village",
+                                                "code": "LC000024",
+                                                "area": "",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "25",
+                                "boundaryNum": 1,
+                                "name": "Kazula",
+                                "localname": "Kazula",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "AdministrativeProvince",
+                                "code": "LC000025",
+                                "area": "",
+                                "children": [
+                                    {
+                                        "id": "26",
+                                        "boundaryNum": 1,
+                                        "name": "Kazula L1",
+                                        "localname": "Kazula L1",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "LC000026",
+                                        "area": "",
+                                        "children": [
+                                            {
+                                                "id": "27",
+                                                "boundaryNum": 1,
+                                                "name": "Ntindiza",
+                                                "localname": "Ntindiza",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Village",
+                                                "code": "LC000027",
+                                                "area": "",
+                                                "children": []
+                                            },
+                                            {
+                                                "id": "28",
+                                                "boundaryNum": 1,
+                                                "name": "Chithe",
+                                                "localname": "Chithe",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Village",
+                                                "code": "LC000028",
+                                                "area": "",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id": "29",
+                                        "boundaryNum": 1,
+                                        "name": "Kazula L2",
+                                        "localname": "Kazula L2",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "LC000029",
+                                        "area": "",
+                                        "children": [
+                                            {
+                                                "id": "30",
+                                                "boundaryNum": 1,
+                                                "name": "Kazula",
+                                                "localname": "Kazula",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Village",
+                                                "code": "LC000030",
+                                                "area": "",
+                                                "children": []
+                                            },
+                                            {
+                                                "id": "31",
+                                                "boundaryNum": 1,
+                                                "name": "Massamba",
+                                                "localname": "Massamba",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Village",
+                                                "code": "LC000031",
+                                                "area": "",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
