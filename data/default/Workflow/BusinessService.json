@@ -1,0 +1,106 @@
+{
+  "tenantId": "default",
+  "moduleName": "Workflow",
+  "BusinessService": [
+    {
+      "tenantId": "default",
+      "businessService": "hcm-complaints",
+      "getUri": "",
+      "postUri": "",
+      "states": [
+        {
+          "sla": null,
+          "state": null,
+          "applicationStatus": null,
+          "docUploadRequired": false,
+          "isStartState": true,
+          "isTerminateState": false,
+          "isStateUpdatable": true,
+          "actions": [
+            {
+              "action": "CREATE",
+              "nextState": "PENDING_ASSIGNMENT",
+              "roles": [
+                "REGISTRAR",
+                "DISTRIBUTOR",
+                "WAREHOUSE_MANAGER",
+                "HELPDESK_USER",
+                "FRONTLINE_WORKER"
+              ]
+            }
+          ]
+        },
+        {
+          "sla": null,
+          "state": "PENDING_ASSIGNMENT",
+          "applicationStatus": "PENDING_ASSIGNMENT",
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": false,
+          "isStateUpdatable": false,
+          "actions": [
+            {
+              "action": "RESOLVE",
+              "nextState": "RESOLVED",
+              "roles": [
+                "HELPDESK_USER",
+                "L2_SUPPORT",
+                "PROGRAMMATIC_SUPPORT"
+              ]
+            },
+            {
+              "action": "ASSIGN",
+              "nextState": "PENDING_ASSIGNMENT",
+              "roles": [
+                "HELPDESK_USER",
+                "L2_SUPPORT",
+                "PROGRAMMATIC_SUPPORT"
+              ]
+            },
+            {
+              "action": "REJECT",
+              "nextState": "REJECTED",
+              "roles": [
+                "HELPDESK_USER"
+              ]
+            },
+            {
+              "action": "CANCEL",
+              "nextState": "CANCELLED",
+              "roles": [
+                "FRONTLINE_WORKER"
+              ]
+            }
+          ]
+        },
+        {
+          "sla": null,
+          "state": "RESOLVED",
+          "applicationStatus": "RESOLVED",
+          "isStateUpdatable": false,
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": true
+        },
+        {
+          "sla": null,
+          "state": "REJECTED",
+          "applicationStatus": "REJECTED",
+          "isStateUpdatable": false,
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": true
+        },
+        {
+          "sla": null,
+          "state": "CANCELLED",
+          "applicationStatus": "CANCELLED",
+          "isStateUpdatable": false,
+          "docUploadRequired": false,
+          "isStartState": false,
+          "isTerminateState": true
+        }
+      ]
+    }
+  ]
+}

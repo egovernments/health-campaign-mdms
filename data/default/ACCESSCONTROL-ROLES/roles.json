@@ -51,6 +51,21 @@
       "code": "WAREHOUSE_MANAGER",
       "name": "Warehouse Manager",
       "description": "Warehouse manager"
+    },
+    {
+      "code": "HELPDESK_USER",
+      "name": "Helpdesk User",
+      "description": "Helpdesk User"
+    },
+    {
+      "code": "L2_SUPPORT",
+      "name": "L2 Support",
+      "description": "L2 Support"
+    },
+    {
+      "code": "PROGRAMMATIC_SUPPORT",
+      "name": "Programmatic Support",
+      "description": "Programmatic Support"
     }
   ]
 }
