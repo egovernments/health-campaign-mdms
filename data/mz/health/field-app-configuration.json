@@ -86,16 +86,30 @@
       ],
       "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
         {
+          "code": "SUCCESSFUL_DELIVERY",
+          "name": "Delivery Successful"
+        },
+        {
           "code": "INSUFFICIENT_RESOURCES",
-          "name": "INSUFFICIENT_RESOURCES"
+          "name": "Insufficient Resources"
         },
         {
           "code": "BENEFICIARY_REFUSED",
-          "name": "BENEFICIARY_REFUSED"
+          "name": "Beneficiary Refused"
         },
         {
           "code": "BENEFICIARY_ABSENT",
-          "name": "BENEFICIARY_ABSENT"
+          "name": "Beneficiary Absent"
+        }
+      ],
+      "TRANSPORT_TYPES": [
+        {
+          "code": "TRANSPORT_TYPE_1",
+          "name": "TRANSPORT_TYPE_1"
+        },
+        {
+          "code": "TRANSPORT_TYPE_2",
+          "name": "TRANSPORT_TYPE_2"
         }
       ],
       "BACKEND_INTERFACE": {
