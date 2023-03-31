@@ -1,0 +1,10 @@
+{
+  "tenantId": "mz",
+  "moduleName": "roles",
+  "rolesMapping": [{
+    "Register": "REGISTRAR",
+    "Logístico distrital": "DISTRIBUTOR",
+    "Superuser": "SUPERUSER",
+    "Distrital": "DISTRICT_SUPERVISOR"
+  }]
+}
