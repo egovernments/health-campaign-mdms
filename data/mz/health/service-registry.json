@@ -24,6 +24,11 @@
           "action": "create",
           "entityName": "service",
           "path": "/service-request/service/v1/_create"
+        },
+        {
+          "action": "search",
+          "entityName": "ServiceDefinition",
+          "path": "/service-request/service/definition/v1/_search"
         }
       ]
     },
@@ -332,8 +337,8 @@
       "actions": [
         {
           "action": "search",
-          "entityName": "ProjectStaff",
-          "path": "/project/staff/v1/_search"
+          "entityName": "Project",
+          "path": "/project/v1/_search"
         }
       ]
     },
