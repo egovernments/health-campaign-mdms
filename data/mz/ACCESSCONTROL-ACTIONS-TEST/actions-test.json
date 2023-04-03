@@ -12053,6 +12053,66 @@
       "serviceCode": "service-request",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1635,
+      "name": "BusinessService Create",
+      "url": "/egov-workflow-v2/egov-wf/businessservice/_create",
+      "parentModule": "",
+      "displayName": "BusinessService Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1636,
+      "name": "BusinessService Update",
+      "url": "/egov-workflow-v2/egov-wf/businessservice/_update",
+      "parentModule": "",
+      "displayName": "BusinessService Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1637,
+      "name": "BusinessService Search",
+      "url": "/egov-workflow-v2/egov-wf/businessservice/_search",
+      "parentModule": "",
+      "displayName": "BusinessService Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1638,
+      "name": "Workflow transition",
+      "url": "/egov-workflow-v2/egov-wf/process/_transition",
+      "parentModule": "",
+      "displayName": "Workflow transition",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1639,
+      "name": "Workflow search",
+      "url": "/egov-workflow-v2/egov-wf/process/_search",
+      "parentModule": "",
+      "displayName": "Workflow search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
     }
   ]
 }
