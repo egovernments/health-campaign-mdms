@@ -9,7 +9,7 @@
       "order": 1,
       "tenants": [
         {
-          "code": "default"
+          "code": "mz"
         }
       ]
     },
@@ -20,7 +20,7 @@
       "order": 2,
       "tenants": [
         {
-          "code": "default"
+          "code": "mz"
         }
       ]
     }
