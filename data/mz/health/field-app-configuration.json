@@ -109,11 +109,15 @@
       "TRANSPORT_TYPES": [
         {
           "code": "TRANSPORT_TYPE_1",
-          "name": "TRANSPORT_TYPE_1"
+          "name": "Motorcycle"
         },
         {
           "code": "TRANSPORT_TYPE_2",
-          "name": "TRANSPORT_TYPE_2"
+          "name": "Pickup"
+        },
+        {
+          "code": "TRANSPORT_TYPE_3",
+          "name": "Truck"
         }
       ],
       "BACKEND_INTERFACE": {
