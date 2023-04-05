@@ -1,5 +1,5 @@
 {
-  "tenantId": "default",
+  "tenantId": "default.level1",
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
