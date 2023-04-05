@@ -53,15 +53,11 @@
       "GENDER_OPTIONS_POPULATOR": [
         {
           "code": "MALE",
-          "name": "MALE"
+          "name": "MASCULINO"
         },
         {
           "code": "FEMALE",
-          "name": "FEMALE"
-        },
-        {
-          "code": "OTHER",
-          "name": "OTHER"
+          "name": "MUJER"
         }
       ],
       "HOUSEHOLD_DELETION_REASON_OPTIONS": [
@@ -91,19 +87,23 @@
       "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
         {
           "code": "SUCCESSFUL_DELIVERY",
-          "name": "Delivery Successful"
+          "name": "Entrega com sucesso"
         },
         {
           "code": "INSUFFICIENT_RESOURCES",
-          "name": "Insufficient Resources"
+          "name": "Recursos insuficientes"
         },
         {
           "code": "BENEFICIARY_REFUSED",
-          "name": "Beneficiary Refused"
+          "name": "Beneficiário Recusado"
         },
         {
           "code": "BENEFICIARY_ABSENT",
-          "name": "Beneficiary Absent"
+          "name": "Beneficiário Ausente"
+        },
+        {
+          "code": "PROGRAM_MANDATE",
+          "name": "Orientação nacional"
         }
       ],
       "TRANSPORT_TYPES": [
