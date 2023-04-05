@@ -109,7 +109,7 @@
       "TRANSPORT_TYPES": [
         {
           "code": "TRANSPORT_TYPE_1",
-          "name": "Motorcycle"
+          "name": "Motocicleta"
         },
         {
           "code": "TRANSPORT_TYPE_2",
@@ -117,7 +117,7 @@
         },
         {
           "code": "TRANSPORT_TYPE_3",
-          "name": "Truck"
+          "name": "Camião"
         }
       ],
       "BACKEND_INTERFACE": {
