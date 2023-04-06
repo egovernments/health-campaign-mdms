@@ -53,11 +53,11 @@
       "GENDER_OPTIONS_POPULATOR": [
         {
           "code": "MALE",
-          "name": "MALE"
+          "name": "MASCULINO"
         },
         {
           "code": "FEMALE",
-          "name": "FEMALE"
+          "name": "MUJER"
         }
       ],
       "HOUSEHOLD_DELETION_REASON_OPTIONS": [
