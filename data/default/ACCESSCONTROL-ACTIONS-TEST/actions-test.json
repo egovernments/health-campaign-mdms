@@ -11087,6 +11087,38 @@
       "queryParams": ""
     },
     {
+      "id": 1896,
+      "name": "National About",
+      "url": "url",
+      "displayName": "National About",
+      "orderNumber": 1,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "",
+      "path": "national.about",
+      "navigationURL": "/digit-ui/employee/dss/national-about",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1897,
+      "name": "National FAQ",
+      "url": "url",
+      "displayName": "National FAQ",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "",
+      "path": "national.faq",
+      "navigationURL": "/digit-ui/employee/dss/national-faqs",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
       "id": 1893,
       "name": "Provincial Health Dashboard",
       "url": "url",
