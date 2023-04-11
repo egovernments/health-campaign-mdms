@@ -45,7 +45,7 @@
                                         "localname": "TAU L1",
                                         "longitude": null,
                                         "latitude": null,
-                                        "label": "Locality",
+                                        "label": "Localidade",
                                         "code": "LC00004",
                                         "area": "",
                                         "children": [
@@ -56,7 +56,7 @@
                                                 "localname": "TAU L1 V1",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC00005",
                                                 "area": "",
                                                 "children": []
@@ -68,7 +68,7 @@
                                                 "localname": "TAU L1 V2",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC00006",
                                                 "area": "",
                                                 "children": []
@@ -82,7 +82,7 @@
                                         "localname": "TAU L2",
                                         "longitude": null,
                                         "latitude": null,
-                                        "label": "Locality",
+                                        "label": "Localidade",
                                         "code": "LC00007",
                                         "area": "",
                                         "children": [
@@ -93,7 +93,7 @@
                                                 "localname": "TAU L2 V1",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC00008",
                                                 "area": "",
                                                 "children": []
@@ -105,7 +105,7 @@
                                                 "localname": "TAU L2 V2",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC00009",
                                                 "area": "",
                                                 "children": []
@@ -132,7 +132,7 @@
                                         "localname": "TAD L1",
                                         "longitude": null,
                                         "latitude": null,
-                                        "label": "Locality",
+                                        "label": "Localidade",
                                         "code": "LC000011",
                                         "area": "",
                                         "children": [
@@ -143,7 +143,7 @@
                                                 "localname": "TAD L1 V1",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000012",
                                                 "area": "",
                                                 "children": []
@@ -155,7 +155,7 @@
                                                 "localname": "TAD L1 V2",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000013",
                                                 "area": "",
                                                 "children": []
@@ -169,7 +169,7 @@
                                         "localname": "TAD L2",
                                         "longitude": null,
                                         "latitude": null,
-                                        "label": "Locality",
+                                        "label": "Localidade",
                                         "code": "LC000014",
                                         "area": "",
                                         "children": [
@@ -180,7 +180,7 @@
                                                 "localname": "TAD L2 V1",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000015",
                                                 "area": "",
                                                 "children": []
@@ -192,7 +192,7 @@
                                                 "localname": "TAD L2 V2",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000016",
                                                 "area": "",
                                                 "children": []
@@ -231,7 +231,7 @@
                                         "localname": "Chioco L1",
                                         "longitude": null,
                                         "latitude": null,
-                                        "label": "Locality",
+                                        "label": "Localidade",
                                         "code": "LC000019",
                                         "area": "",
                                         "children": [
@@ -242,7 +242,7 @@
                                                 "localname": "Chioco Piroro",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000020",
                                                 "area": "",
                                                 "children": []
@@ -254,7 +254,7 @@
                                                 "localname": "Nhancualacua",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000021",
                                                 "area": "",
                                                 "children": []
@@ -268,7 +268,7 @@
                                         "localname": "Luenha L1",
                                         "longitude": null,
                                         "latitude": null,
-                                        "label": "Locality",
+                                        "label": "Localidade",
                                         "code": "LC000022",
                                         "area": "",
                                         "children": [
@@ -279,7 +279,7 @@
                                                 "localname": "Changara",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000023",
                                                 "area": "",
                                                 "children": []
@@ -291,7 +291,7 @@
                                                 "localname": "Chinguere",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000024",
                                                 "area": "",
                                                 "children": []
@@ -318,7 +318,7 @@
                                         "localname": "Kazula L1",
                                         "longitude": null,
                                         "latitude": null,
-                                        "label": "Locality",
+                                        "label": "Localidade",
                                         "code": "LC000026",
                                         "area": "",
                                         "children": [
@@ -329,7 +329,7 @@
                                                 "localname": "Ntindiza",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000027",
                                                 "area": "",
                                                 "children": []
@@ -341,7 +341,7 @@
                                                 "localname": "Chithe",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000028",
                                                 "area": "",
                                                 "children": []
@@ -355,7 +355,7 @@
                                         "localname": "Kazula L2",
                                         "longitude": null,
                                         "latitude": null,
-                                        "label": "Locality",
+                                        "label": "Localidade",
                                         "code": "LC000029",
                                         "area": "",
                                         "children": [
@@ -366,7 +366,7 @@
                                                 "localname": "Kazula",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000030",
                                                 "area": "",
                                                 "children": []
@@ -378,7 +378,7 @@
                                                 "localname": "Massamba",
                                                 "longitude": null,
                                                 "latitude": null,
-                                                "label": "Village",
+                                                "label": "Aldeia",
                                                 "code": "LC000031",
                                                 "area": "",
                                                 "children": []
