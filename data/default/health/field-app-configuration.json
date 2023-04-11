@@ -38,12 +38,12 @@
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
         {
-          "code": "DEFAULT",
+          "code": "SYSTEM_GENERATED",
           "name": "DEFAULT"
         },
         {
-          "code": "AADHAR",
-          "name": "AADHAR"
+          "code": "AADHAAR",
+          "name": "AADHAAR"
         },
         {
           "code": "PAN",
