@@ -24,16 +24,20 @@
       ],
       "CHECKLIST_TYPES": [
         {
-          "name": "WAREHOUSE",
-          "code": "WAREHOUSE"
+          "name": "REGISTRATION_BASIC",
+          "code": "REGISTRATION_BASIC"
         },
         {
-          "name": "TRAINING_SUPERVISION",
-          "code": "TRAINING_SUPERVISION"
+          "name": "LOCAL_MONITOR_TRAINING",
+          "code": "LOCAL_MONITOR_TRAINING"
         },
         {
-          "name": "TEAM_FORMATION",
-          "code": "TEAM_FORMATION"
+          "name": "DISTRICT_MONITOR_TRAINING",
+          "code": "DISTRICT_MONITOR_TRAINING"
+        },
+        {
+          "name": "REGISTRATION_TEAM_TRAINING",
+          "code": "REGISTRATION_TEAM_TRAINING"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
