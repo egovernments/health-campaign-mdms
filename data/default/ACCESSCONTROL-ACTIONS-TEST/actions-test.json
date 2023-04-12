@@ -12173,6 +12173,42 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1645,
+      "name": "Employee Create",
+      "url": "/egov-hrms/employees/_create",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee Create",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1646,
+      "name": "Employee Update",
+      "url": "/egov-hrms/employees/_update",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee Update",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1647,
+      "name": "Employee count",
+      "url": "/egov-hrms/employees/_count",
+      "parentModule": "egov-hrms",
+      "displayName": "Employee count",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
   ]
 }
