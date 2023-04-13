@@ -247,6 +247,16 @@
 			]
 		}
 	},
+	"egov-location": {
+		"TenantBoundary": {
+			"masterName": "TenantBoundary",
+			"moduleDefinition": null,
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.hierarchyType"
+			]
+		}
+	},
 	"swm": {
 		"VehicleType": {
 			"masterName": "VehicleType",
