@@ -12137,6 +12137,18 @@
       "serviceCode": "hcm-moz-impl",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1642,
+      "name": "Ingest DHIS2 Organization units",
+      "url": "/hcm-moz-impl/v1/dhis2/OU/ingest",
+      "displayName": "Ingest DHIS2 Organization units",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "hcm-moz-impl",
+      "code": "null",
+      "path": ""
     }
   ]
 }
