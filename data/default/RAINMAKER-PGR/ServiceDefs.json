@@ -21,6 +21,16 @@
       "menuPath": "Sync",
       "active": true,
       "order": 1
+    },
+    {
+      "serviceCode": "Other",
+      "name": "Other",
+      "keywords": "other",
+      "department": "ADM",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
     }
   ]
 }
