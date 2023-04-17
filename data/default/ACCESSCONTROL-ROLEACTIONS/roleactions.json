@@ -14248,6 +14248,18 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1893,
       "actioncode": "",
       "tenantId": "default"
@@ -14277,6 +14289,18 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1898,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1891,
       "actioncode": "",
@@ -14291,6 +14315,18 @@
     {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1901,
       "actioncode": "",
       "tenantId": "default"
     },
@@ -15620,6 +15656,78 @@
     },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1647,
       "actioncode": "",
       "tenantId": "default"

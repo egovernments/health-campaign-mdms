@@ -1,0 +1,10 @@
+{
+  "tenantId": "default",
+  "moduleName": "egov-hrms",
+  "EmployeeDepartment": [
+    {
+      "code": "NMCP",
+      "active": true
+    }
+  ]
+}
