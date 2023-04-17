@@ -8,6 +8,18 @@
       "actioncode": "",
       "tenantid": "default"
     },
+      {
+      "rolecode": "REGISTRAR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 629,
