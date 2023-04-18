@@ -8,18 +8,6 @@
       "actioncode": "",
       "tenantid": "default"
     },
-      {
-      "rolecode": "REGISTRAR",
-      "actionid": 1629,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "DISTRIBUTOR",
-      "actionid": 1629,
-      "actioncode": "",
-      "tenantId": "default"
-    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 629,
@@ -14260,18 +14248,6 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1896,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
-      "actionid": 1897,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1893,
       "actioncode": "",
       "tenantId": "default"
@@ -14301,18 +14277,6 @@
       "tenantId": "default"
     },
     {
-      "rolecode": "PROVINCIAL_SUPERVISOR",
-      "actionid": 1898,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "PROVINCIAL_SUPERVISOR",
-      "actionid": 1899,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1891,
       "actioncode": "",
@@ -14327,18 +14291,6 @@
     {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1895,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1900,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
-      "rolecode": "DISTRICT_SUPERVISOR",
-      "actionid": 1901,
       "actioncode": "",
       "tenantId": "default"
     },
@@ -15376,6 +15328,18 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
       "actionid": 1629,
       "actioncode": "",
       "tenantId": "default"
