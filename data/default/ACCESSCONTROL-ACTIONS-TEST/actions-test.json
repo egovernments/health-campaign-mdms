@@ -12305,6 +12305,36 @@
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1648,
+      "name": "HRMS Employee Creation",
+      "url": "url",
+      "displayName": "Create HRMS Employee",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/hrms/create",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1649,
+      "name": "HRMS",
+      "url": "url",
+      "displayName": "Search Employee",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "HRMS",
+      "code": "null",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
+      "path": "HRMS.Search",
+      "leftIcon": "social:people"
     }
   ]
 }
