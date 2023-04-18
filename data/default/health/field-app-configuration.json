@@ -13,10 +13,24 @@
           "label": "Portuguese",
           "value": "pt_MZ"
         },
+           {
+          "label": "Hindi",
+          "value": "hi_MZ"
+        },
         {
           "label": "English",
           "value": "en_MZ"
         }
+      ],
+      "CALL_SUPPORT":[
+        {
+          "name":"Support DeskLine 1",
+          "code ": "9686151676"
+        },
+          {
+          "name":"Support DeskLine 2",
+          "code ": "9686151676"
+        },
       ],
       "CHECKLIST_TYPES": [
         {
@@ -34,12 +48,12 @@
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
         {
-          "code": "DEFAULT",
+          "code": "SYSTEM_GENERATED",
           "name": "DEFAULT"
         },
         {
-          "code": "AADHAR",
-          "name": "AADHAR"
+          "code": "AADHAAR",
+          "name": "AADHAAR"
         },
         {
           "code": "PAN",
