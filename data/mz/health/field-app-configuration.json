@@ -95,15 +95,7 @@
         },
         {
           "code": "INSUFFICIENT_RESOURCES",
-          "name": "Recursos insuficientes"
-        },
-        {
-          "code": "BENEFICIARY_REFUSED",
-          "name": "Beneficiário Recusado"
-        },
-        {
-          "code": "BENEFICIARY_ABSENT",
-          "name": "Beneficiário Ausente"
+          "name": "Insuficiência de redes"
         },
         {
           "code": "PROGRAM_MANDATE",
