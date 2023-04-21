@@ -6,7 +6,7 @@
       "id": "1",
       "name": "NMCP",
       "code": "NMCP",
-      "active": "true",
+      "active": true,
       "tenantId": "default"
     }
   ]
