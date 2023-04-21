@@ -15815,6 +15815,30 @@
       "actionid": 1649,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
