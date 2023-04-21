@@ -105,15 +105,31 @@
       "TRANSPORT_TYPES": [
         {
           "code": "TRANSPORT_TYPE_1",
-          "name": "Motocicleta"
+          "name": "Camião"
         },
         {
           "code": "TRANSPORT_TYPE_2",
-          "name": "Pickup"
+          "name": "Cabina duple"
         },
         {
           "code": "TRANSPORT_TYPE_3",
-          "name": "Camião"
+          "name": "Cabina Simple"
+        },
+        {
+          "code": "TRANSPORT_TYPE_4",
+          "name": "Carrinha"
+        },
+        {
+          "code": "TRANSPORT_TYPE_5",
+          "name": "Motorizadas"
+        },
+        {
+          "code": "TRANSPORT_TYPE_6",
+          "name": "Barco"
+        },
+        {
+          "code": "TRANSPORT_TYPE_7",
+          "name": "Estivadores"
         }
       ],
       "BACKEND_INTERFACE": {
