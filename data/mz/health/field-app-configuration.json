@@ -38,6 +38,10 @@
         {
           "name": "REGISTRATION_TEAM_TRAINING",
           "code": "REGISTRATION_TEAM_TRAINING"
+        },
+        {
+          "name": "AS_MONITORING",
+          "code": "AS_MONITORING"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
