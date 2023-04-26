@@ -11119,6 +11119,22 @@
       "queryParams": ""
     },
     {
+      "id": 1902,
+      "name": "National Calculations",
+      "url": "url",
+      "displayName": "National Calculations",
+      "orderNumber": 3,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "",
+      "path": "national.calculations",
+      "navigationURL": "/digit-ui/employee/dss/calculations",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
       "id": 1893,
       "name": "Provincial Health Dashboard",
       "url": "url",
@@ -11167,6 +11183,22 @@
       "queryParams": ""
     },
     {
+      "id": 1903,
+      "name": "Provincial Calculations",
+      "url": "url",
+      "displayName": "Provincial Calculations",
+      "orderNumber": 3,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "",
+      "path": "provincial.calculations",
+      "navigationURL": "/digit-ui/employee/dss/calculations",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
       "id": 1900,
       "name": "District About",
       "url": "url",
@@ -11194,6 +11226,22 @@
       "code": "",
       "path": "district.faq",
       "navigationURL": "/digit-ui/employee/dss/faqs",
+      "leftIcon": "",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 1904,
+      "name": "District Calculations",
+      "url": "url",
+      "displayName": "District Calculations",
+      "orderNumber": 3,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "",
+      "path": "district.calculations",
+      "navigationURL": "/digit-ui/employee/dss/calculations",
       "leftIcon": "",
       "rightIcon": "",
       "queryParams": ""
