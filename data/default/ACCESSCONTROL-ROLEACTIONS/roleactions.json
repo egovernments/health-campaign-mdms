@@ -14,6 +14,12 @@
       "actioncode": "",
       "tenantId": "default"
     },
+      {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
     {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1629,
@@ -14283,6 +14289,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1902,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "PROVINCIAL_SUPERVISOR",
       "actionid": 1890,
       "actioncode": "",
@@ -14313,6 +14325,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1903,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1891,
       "actioncode": "",
@@ -14333,6 +14351,12 @@
     {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1904,
       "actioncode": "",
       "tenantId": "default"
     },
