@@ -3,7 +3,7 @@
     "moduleName": "egov-hrms",
     "CommonFieldsConfig": [
         {
-            "head": "Personal Details",
+            "head": "HR_PERSONAL_DETAILS_HEADER",
             "body": [
                 {
                     "type": "component",
