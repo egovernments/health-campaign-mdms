@@ -8,6 +8,27 @@
       "code": "NMCP",
       "active": true,
       "tenantId": "default"
+    },
+    {
+      "id": "2",
+      "name": "TECH",
+      "code": "TECH",
+      "active": true,
+      "tenantId": "default"
+    },
+    {
+      "id": "3",
+      "name": "WAREHOUSE",
+      "code": "WAREHOUSE",
+      "active": true,
+      "tenantId": "default"
+    },
+    {
+      "id": "4",
+      "name": "ADMINISTRATION",
+      "code": "ADM",
+      "active": true,
+      "tenantId": "default"
     }
   ]
 }
