@@ -76,6 +76,11 @@
       "code": "L2_SUPPORT",
       "name": "L2 Support",
       "description": "L2 Support"
+    },
+    {
+      "code": "CSR",
+      "name": "CSR",
+      "description": "CSR"
     }
   ]
 }
