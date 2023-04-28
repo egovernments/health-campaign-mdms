@@ -8,6 +8,24 @@
       "actioncode": "",
       "tenantid": "default"
     },
+      {
+      "rolecode": "REGISTRAR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+      {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 629,
@@ -14248,6 +14266,18 @@
     },
     {
       "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1893,
       "actioncode": "",
       "tenantId": "default"
@@ -14255,6 +14285,12 @@
     {
       "rolecode": "NATIONAL_SUPERVISOR",
       "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1902,
       "actioncode": "",
       "tenantId": "default"
     },
@@ -14277,6 +14313,24 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1898,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1899,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1903,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1891,
       "actioncode": "",
@@ -14291,6 +14345,24 @@
     {
       "rolecode": "DISTRICT_SUPERVISOR",
       "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1900,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1904,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1901,
       "actioncode": "",
       "tenantId": "default"
     },
@@ -15333,6 +15405,18 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "REGISTRAR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1630,
       "actioncode": "",
@@ -15566,6 +15650,30 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1637,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1639,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1429,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1643,
       "actioncode": "",
@@ -15574,6 +15682,30 @@
     {
       "rolecode": "L2_SUPPORT",
       "actionid": 1643,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "L2_SUPPORT",
+      "actionid": 1637,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "L2_SUPPORT",
+      "actionid": 1639,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1429,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1644,
       "actioncode": "",
       "tenantId": "default"
     },
@@ -15599,7 +15731,186 @@
       "actionid": 1643,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1648,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1648,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1648,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1648,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1648,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 1649,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 1649,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1649,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1649,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1649,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1645,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1646,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1647,
+      "actioncode": "",
+      "tenantId": "default"
     }
-
   ]
 }
