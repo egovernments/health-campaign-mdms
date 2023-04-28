@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "default",
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
