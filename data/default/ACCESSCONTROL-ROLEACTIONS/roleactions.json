@@ -15650,6 +15650,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1637,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1643,
       "actioncode": "",
@@ -15658,6 +15664,12 @@
     {
       "rolecode": "L2_SUPPORT",
       "actionid": 1643,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "L2_SUPPORT",
+      "actionid": 1637,
       "actioncode": "",
       "tenantId": "default"
     },
