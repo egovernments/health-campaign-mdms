@@ -8,9 +8,9 @@
       "bannerUrl": "https://raw.githubusercontent.com/egovernments/egov-web-app/rainmaker-v1-dynamic-state/web/rainmaker/packages/assets/images/kar/state-images/Jog%20falls%20High%20Resolution%20images.jpg",
       "logoUrl":"https://raw.githubusercontent.com/egovernments/egov-web-app/rainmaker-v1-dynamic-state/web/rainmaker/packages/assets/images/kar/state-images/250px-Seal_of_Karnataka.svg.png",
       "hasLocalisation": true,
-      "isLanguageSelectionDisabled": true,
+      "isLanguageSelectionDisabled": false,
       "defaultLanguage": "pt_MZ",
-      "isCitySelectionDisabled": true,
+      "isCitySelectionDisabled": false,
       "defaultCity": "mz",
       "languages": [
         {
