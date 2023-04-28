@@ -65,6 +65,10 @@
     {
       "format": "PF-[cy:yyyy-MM-dd]-[SEQ_PROJECT_FACILITY_PF]",
       "idname": "project.facility.id"
+    },
+    {
+      "format": "PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+      "idname": "pgr.servicerequestid"
     }
   ]
 }
