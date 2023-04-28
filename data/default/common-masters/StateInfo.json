@@ -11,7 +11,7 @@
       "isLanguageSelectionDisabled": true,
       "defaultLanguage": "pt_MZ",
       "isCitySelectionDisabled": true,
-      "defaultCity": "default",
+      "defaultCity": "mz",
       "languages": [
         {
           "label": "ENGLISH",
