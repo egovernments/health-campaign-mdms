@@ -51,6 +51,11 @@
       "code": "WAREHOUSE_MANAGER",
       "name": "Warehouse Manager",
       "description": "Warehouse manager"
+    },
+    {
+      "code": "INTERNAL_MICROSERVICE_ROLE",
+      "name": "Internal Microservice Role",
+      "description": "Internal role for plain access"
     }
   ]
 }
