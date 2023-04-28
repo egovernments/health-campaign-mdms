@@ -15656,6 +15656,24 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1639,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1429,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1643,
       "actioncode": "",
@@ -15670,6 +15688,24 @@
     {
       "rolecode": "L2_SUPPORT",
       "actionid": 1637,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "L2_SUPPORT",
+      "actionid": 1639,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1429,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1644,
       "actioncode": "",
       "tenantId": "default"
     },
