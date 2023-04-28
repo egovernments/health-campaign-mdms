@@ -15698,6 +15698,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "L2_SUPPORT",
+      "actionid": 1644,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "HELPDESK_USER",
       "actionid": 1429,
       "actioncode": "",
