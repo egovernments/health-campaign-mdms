@@ -10,7 +10,7 @@
       "hasLocalisation": true,
       "isLanguageSelectionDisabled": false,
       "defaultLanguage": "pt_MZ",
-      "isCitySelectionDisabled": false,
+      "isCitySelectionDisabled": true,
       "defaultCity": "mz",
       "languages": [
         {
