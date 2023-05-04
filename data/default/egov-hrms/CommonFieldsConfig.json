@@ -87,28 +87,6 @@
                     "withoutLabel": true
                 }
             ]
-        },
-        {
-            "head": "HR_ASSIGN_DET_HEADER",
-            "body": [
-                {
-                    "type": "component",
-                    "component": "HRBanner",
-                    "key": "Banner2",
-                    "withoutLabel": true,
-                    "texts": {
-                        "nosideText": true,
-                        "headerCaption": "Info",
-                        "header": "HR_ASSIGN_DET_SUB_HEADER"
-                    }
-                },
-                {
-                    "type": "component",
-                    "component": "Assignments",
-                    "key": "Assignments",
-                    "withoutLabel": true
-                }
-            ]
         }
     ]
 }
