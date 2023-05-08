@@ -391,6 +391,21 @@
           "path": "/facility/v1/_search"
         }
       ]
+    },
+    {
+      "service": "PGR",
+      "actions": [
+        {
+          "action": "search",
+          "entityName": "Complaints",
+          "path": "/pgr-services/v2/request/_search"
+        },
+        {
+          "action": "create",
+          "entityName": "Complaints",
+          "path": "/pgr-services/v2/request/_create"
+        }
+      ]
     }
   ]
 }
