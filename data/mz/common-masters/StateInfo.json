@@ -10,7 +10,7 @@
       "digitLogoUrl":"https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/digit-logo.png",
       "headerProgramLogoUrl": "https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-prg-logo.png",
       "hasLocalisation": true,
-      "isLanguageSelectionDisabled": false,
+      "isLanguageSelectionDisabled": true,
       "defaultLanguage": "pt_MZ",
       "isCitySelectionDisabled": true,
       "defaultCity": "mz",
