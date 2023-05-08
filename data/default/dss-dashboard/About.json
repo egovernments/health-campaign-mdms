@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "default",
   "moduleName": "dss-dashboard",
   "About": [
     {
@@ -7,110 +7,86 @@
         "About": [
           {
             "titleHeader": "DSS_ABOUT_PURPOSE",
-            "define": [
-              "DSS_ABOUT_PURPOSE_DEFINE",
-              "DASHBOARD_BUILT_WITH_PURPOSE"
-            ],
-            "subdefine": ["NATIONAL_URBAN_DASHBOARD_ENABLES"],
-            "subdefinePoints": [
+            "define": ["DSS_ABOUT_PURPOSE_INFO","DSS_ABOUT_PURPOSE_DEFINE","DSS_ABOUT_DASHBOARD_USE"]
+          },
+          {
+            "titleHeader": "DSS_ABOUT_QUES_DASHBOARD_USE",
+            "define": ["DSS_ABOUT_ANS_DASHBOARD_USECASE_A","DSS_ABOUT_ANS_DASHBOARD_USECASE_B"]
+          },
+          {
+            "titleHeader": "DSS_ABOUT_KEY_TERMS",
+            "define": ["DSS_ABOUT_CLARITY_ON_DASHBOARD"],
+            "definePoints": [
               {
-                "point": "QUICKLY_IDENTIFY_DATA"
+                "point": "DSS_ABOUT_USERS_DEFINE"
               },
               {
-                "point": "GENERATE_DETAILED_REPORTS"
+                "point": "DSS_ABOUT_BOUNDARIES_DATA"
               },
               {
-                "point": "MEASURE_EFFICIENCY"
+                "point": "DSS_ABOUT_UNIQUE_CHAR"
               }
             ]
           },
           {
-            "titleHeader": "KEY_TERMS",
-            "define": ["CLARITY_ON_DASHBOARD"],
+            "titleHeader": "DSS_ABOUT_QUES_WHAT_IS_DATA",
+            "define": ["DSS_ABOUT_DASHBOARD_DESIGN","DSS_ABOUT_DASHBOARD_OBJECTIVE","DSS_ABOUT_DASHBOARD_USE_IDENTIFIERS"]
+          },
+          {
+            "titleHeader": "DSS_ABOUT_QUES_GET_DATA_FROM_DASHBOARD",
+            "define": ["DSS_ABOUT_ANS_GET_CAMPAIGN","DSS_ABOUT_ANS_GET_CAMPAIGN_FLW","DSS_ABOUT_ANS_GET_MANAGERS","DSS_ABOUT_ANS_GET_HCM","DSS_ABOUT_ANS_GET_ALTERNATIVE"]
+          },
+          {
+            "titleHeader": "DSS_ABOUT_QUES_WHAT_CAN_DASHBOARD_VIEWER_SEE_AND_DO",
+            "define": ["DSS_ABOUT_ANS_WHAT_CAN_DASHBOARD_VIEWER_SEE_AND_DO"],
+            "subdefine": ["DSS_ABOUT_FOLLOWING_VIEWER_DO_ON_DASHBOARD"],
             "definePoints": [
               {
-                "point": "USERS_DEFINE"
+                "point": "DSS_ABOUT_PERFORMANCE_METRICS"
               },
               {
-                "point": "STATES_DEFINE"
+                "point": "DSS_ABOUT_SERVICE_LEVEL_PERFORMANCE"
               },
               {
-                "point": "URBAN_DEVELOPMENT_SERVICES_DEFINE"
-              }
-            ]
-          },
-          {
-            "titleHeader": "DSS_QUES_WHAT_IS_DATA",
-            "define": ["DSS_ANS_DATA"]
-          },
-          {
-            "titleHeader": "DSS_QUES_GET_DATA_FROM_DASHBOARD",
-            "define": ["DSS_ANS_GET_DATA_FROM_DASHBOARD"],
-            "subdefine": ["STATE_AGGREGATES_THE_DATA"]
-          },
-          {
-            "titleHeader": "DSS_QUES_WHAT_CAN_DASBOARD_VIEWER_SEE_N_DO",
-            "define": ["DSS_ANS_WHAT_CAN_DASBOARD_VIEWER_SEE_N_DO"],
-            "subdefine": ["FOLLOWING_VIEWER_DO_ON_DASHBOARD"],
-            "definePoints": [
-              {
-                "point": "PERFORMANCE_METRICS"
+                "point": "DSS_ABOUT_PERFORMANCES_IN_FORM_VISUALIZATIONS"
               },
               {
-                "point": "RESPECTIVE_STATE'S_PERFORMANCE"
-              },
-              {
-                "point": "PERFORMANCES_IN_FORM_VISUALIZATIONS"
-              },
-              {
-                "point": "SERVICE-WISE_PERFORMANCE"
-              },
-              {
-                "point": "YEAR_PERFORMANCE"
+                "point": "DSS_ABOUT_AREA_BOUNDARY"
               }
             ],
             "subdefinePoints": [
               {
-                "point": "STUDY_THE_PERFORMANCES"
+                "point": "DSS_ABOUT_ANALYZE_PERFORMANCE"
               },
               {
-                "point": "SEE_COMPARISONS_OF_INTER-STATE"
+                "point": "DSS_ABOUT_MONITOR_PERFORMANCE"
               },
               {
-                "point": "SEE_COMPARISON_ON_YEAR-WISE"
-              },
-              {
-                "point": "DOWNLOAD_THE_DATASET"
-              },
-              {
-                "point": "SHARE_DATA_ANALYTICS"
+                "point": "DSS_ABOUT_COMPARE_PERFORMANCE"
               }
             ]
           },
           {
-            "titleHeader": "HOW_DATA_SECURED",
-            "define": [],
+            "titleHeader": "DSS_ABOUT_QUES_HOW_DATA_SECURED",
+            "define": ["DSS_ABOUT_ANS_DATA_SECURITY"],
             "definePoints": [
               {
-                "point": "DATA_FROM_STATES_TRANSMITTED"
+                "point": "DSS_ABOUT_ACCESS_CONTROL"
               },
               {
-                "point": "API_AUTHENTICATION"
+                "point": "DSS_ABOUT_ENCRYPTION"
               },
               {
-                "point": "ALL_DATASETS_ARE_ENCRYPTED"
+                "point": "DSS_ABOUT_DATA_MASKING"
               },
               {
-                "point": "ACCESS-TO_DASHBOARD"
+                "point": "DSS_ABOUT_REGULAR_BACKUPS"
               },
               {
-                "point": "REGULAR_SECURITY_AUDITS"
+                "point": "DSS_ABOUT_SECURE_HOSTING"
               },
               {
-                "point": "PERSONALLY_IDENTIFIABLE_INFORMATION"
-              },
-              {
-                "point": "NO_LINKAGE_OF_DATA"
+                "point": "DSS_ABOUT_REGULAR_SECURITY_AUDITS"
               }
             ]
           }

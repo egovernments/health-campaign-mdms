@@ -23,6 +23,17 @@
           "code": "mz"
         }
       ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
     }
   ]
 }

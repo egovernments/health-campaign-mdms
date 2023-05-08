@@ -14,12 +14,22 @@
           "value": "pt_MZ"
         },
         {
-          "label": "Hindi",
-          "value": "hi_MZ"
+          "label": "French",
+          "value": "fr_MZ"
         },
         {
           "label": "English",
           "value": "en_MZ"
+        }
+      ],
+      "CALL_SUPPORT":[
+        {
+          "name": "Support DeskLine 1",
+          "code": "9686151676"
+        },
+        {
+          "name": "Support DeskLine 2",
+          "code": "7060431109"
         }
       ],
       "CHECKLIST_TYPES": [
@@ -38,10 +48,6 @@
         {
           "name": "REGISTRATION_TEAM_TRAINING",
           "code": "REGISTRATION_TEAM_TRAINING"
-        },
-        {
-          "name": "AS_MONITORING",
-          "code": "AS_MONITORING"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
@@ -50,8 +56,8 @@
           "name": "DEFAULT"
         },
         {
-          "code": "AADHAR",
-          "name": "AADHAR"
+          "code": "AADHAAR",
+          "name": "AADHAAR"
         },
         {
           "code": "PAN",
@@ -66,6 +72,10 @@
         {
           "code": "FEMALE",
           "name": "FEMALE"
+        },
+        {
+          "code": "OTHER",
+          "name": "OTHER"
         }
       ],
       "HOUSEHOLD_DELETION_REASON_OPTIONS": [
@@ -95,45 +105,29 @@
       "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
         {
           "code": "SUCCESSFUL_DELIVERY",
-          "name": "Entrega com sucesso"
+          "name": "Delivery Successful"
         },
         {
           "code": "INSUFFICIENT_RESOURCES",
-          "name": "Insuficiência de redes"
+          "name": "Insufficient Resources"
         },
         {
-          "code": "PROGRAM_MANDATE",
-          "name": "Orientação nacional"
+          "code": "BENEFICIARY_REFUSED",
+          "name": "Beneficiary Refused"
+        },
+        {
+          "code": "BENEFICIARY_ABSENT",
+          "name": "Beneficiary Absent"
         }
       ],
       "TRANSPORT_TYPES": [
         {
           "code": "TRANSPORT_TYPE_1",
-          "name": "Camião"
+          "name": "TRANSPORT_TYPE_1"
         },
         {
           "code": "TRANSPORT_TYPE_2",
-          "name": "Cabina duple"
-        },
-        {
-          "code": "TRANSPORT_TYPE_3",
-          "name": "Cabina Simple"
-        },
-        {
-          "code": "TRANSPORT_TYPE_4",
-          "name": "Carrinha"
-        },
-        {
-          "code": "TRANSPORT_TYPE_5",
-          "name": "Motorizadas"
-        },
-        {
-          "code": "TRANSPORT_TYPE_6",
-          "name": "Barco"
-        },
-        {
-          "code": "TRANSPORT_TYPE_7",
-          "name": "Estivadores"
+          "name": "TRANSPORT_TYPE_2"
         }
       ],
       "BACKEND_INTERFACE": {

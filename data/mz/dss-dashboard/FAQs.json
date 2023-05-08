@@ -6,206 +6,272 @@
       "DSS": {
         "FAQs": [
           {
-            "question": "QUES_ONE_VARIOUS_ACRYNOMS_DSS_STAND",
+            "question": "DSS_FAQ_QUES_ONE_VARIOUS_ACRYNOMS_DSS_STAND",
             "answer": [
               {
-                "ans": "ACRYNOMS_LISTED_BELOW"
+                "ans": "DSS_FAQ_ACRYNOMS_LISTED_BELOW"
               }
             ],
             "acrynom": [
               {
-                "acr": "DSS_#",
-                "fullForm": "DSS_NUMBER"
+                "acr": "DSS_FAQ_#",
+                "fullForm": "DSS_FAQ_NUMBER"
               },
               {
-                "acr": "DSS_AVG",
-                "fullForm": "DSS_AVERAGE"
-              },
-              {
-                "acr": "DSS_BPA",
-                "fullForm": "DSS_BUILDING_PLAN_APPROVAL"
-              },
-              {
-                "acr": "DSS_CSC",
-                "fullForm": "DSS_CITIZEN_SERVICE_CENTER"
-              },
-              {
-                "acr": "DSS_DSS",
-                "fullForm": "DSS_DECISION_SUPPORT_SYSTEM"
-              },
-              {
-                "acr": "DSS_LY",
-                "fullForm": "DSS_LAST_YEAR"
-              },
-              {
-                "acr": "DSS_NOC",
-                "fullForm": "DSS_NO_OBJECTION_CERTIFICATE"
-              },
-              {
-                "acr": "DSS_OBPA",
-                "fullForm": "DSS_ONLINE_BUILDING_PLAN_APPROVAL_SYSTEM"
-              },
-              {
-                "acr": "DSS_OC",
-                "fullForm": "DSS_OCCUPANCY_CERTIFICATE"
-              },
-              {
-                "acr": "DSS_POS",
-                "fullForm": "DSS_POINT_OF_SALE"
-              },
-              {
-                "acr": "DSS_PT",
-                "fullForm": "DSS_PROPERTY_TAX"
-              },
-              {
-                "acr": "DSS_SLA",
-                "fullForm": "DSS_SERVICE_LEVEL_AGREEMENT"
-              },
-              {
-                "acr": "DSS_SM",
-                "fullForm": "DSS_SQUARE_METER"
-              },
-              {
-                "acr": "DSS_UPI",
-                "fullForm": "DSS_UNIFIED_PAYMENT_INTERFACE"
-              },
-              {
-                "acr": "DSS_W&S",
-                "fullForm": "DSS_WATER_AND_SEWERAGE"
+                "acr": "DSS_FAQ_%",
+                "fullForm": "DSS_FAQ_PERCENTAGE"
+              },{
+                "acr": "DSS_FAQ_HH",
+                "fullForm": "DSS_FAQ_HOUSEHOLD"
+              },{
+                "acr": "DSS_FAQ_FLW",
+                "fullForm": "DSS_FAQ_FIELD_LEVEL_WORKERS"
+              },{
+                "acr": "DSS_FAQ_AP",
+                "fullForm": "DSS_FAQ_ADMINISTRATIVE_POST"
               }
+
             ]
           },
           {
-            "question": "QUES_TWO_HOW_CAN_I_SEE_THE_TOTAL_TAX_COLLECTION",
+            "question": "DSS_FAQ_QUES_TWO_CAMPAIGN_LEVEL_USER_VIEW",
             "answer": [
               {
-                "point": "CLICK_ON_PROPERTY_TAX"
-              },
-              {
-                "point": "TOP_OF_THE_SCREEN"
-              },
-              {
-                "point": "CLICK_ON_THE_DROPDOWN"
-              },
-              {
-                "point": "TO_VIEW_THE_DATA"
-              },
-              {
-                "point": "TOTAL_COLLECTION"
-              }
-            ]
-          },
-          {
-            "question": "QUES_THREE_HOW_CAN_I_VIEW_VALUES_GRAPH",
-            "answer": [
-              {
-                "ans": "FOR_PIE_CHARTS"
-              },
-              {
-                "point": "HOVER_OVER_THE_INDIVIDUAL_SLICES"
+                "ans": "DSS_FAQ_ANS_CAMPAIGN_LEVEL_USER_VIEW"
               }
             ],
-            "subAnswer": [
+            "nestedAnswer": [
+              [
+                {
+                  "ans": "DSS_FAQ_NATIONAL_USER"
+                },
+                {
+                  "point": "DSS_FAQ_NATIONAL_ACCESS_TO_NATIONAL"
+                },
+                {
+                  "point": "DSS_FAQ_NATIONAL_ABILITY_TO_VIEW"
+                },
+                {
+                  "point": "DSS_FAQ_NATIONAL_VIEW_DISTRICT"
+                },
+                {
+                  "point": "DSS_FAQ_NATIONAL_CAN_DRILL_DOWN"
+                }
+              ],
+              [
+                {
+                  "ans": "DSS_FAQ_PROVINCIAL_USER"
+                },
+                {
+                  "point": "DSS_FAQ_PROVINCIAL_NO_ACCESS_TO_NATIONAL"
+                },
+                {
+                  "point": "DSS_FAQ_PROVINCIAL_LANDS_ON_PROVINCE"
+                },
+                {
+                  "point": "DSS_FAQ_PROVINCIAL_CAN_VIEW_DISTRICT"
+                }
+              ],
+              [
+                {
+                  "ans": "DSS_FAQ_DISTRICT_USER_ROLE"
+                },
+                {
+                  "point": "DSS_FAQ_DISTRICT_NO_ACCESS_TO_NATIONAL"
+                },
+                {
+                  "point": "DSS_FAQ_DISTRICT_CAN_ONLY_KPI"
+                },
+                {
+                  "point": "DSS_FAQ_DISTRICT_CAN_DRILL_DOWN"
+                }
+              ]
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_THREE_SEE_TOTAL_NUMBER_OF_TEAMS",
+            "answer": [
               {
-                "ans": "FOR_LINE/BAR_GRAPHS"
+                "ans": "DSS_FAQ_ANS_SEE_TOTAL_NUMBER_OF_TEAMS"
               },
               {
-                "point": "HOVER_OVER_HE_INE/BAR"
-              }
-            ]
-          },
-          {
-            "question": "QUES_FOUR_HOW_CAN_I_COMPARE_THE_METRICS",
-            "answer": [
-              {
-                "ans": "VALUES_OF_EACH_METRIC_CORRESPONDING_SAME_TIME"
-              }
-            ]
-          },
-          {
-            "question": "QUES_FIVE_CAN_I_DOWNLOAD_THE_DASHBOARD",
-            "answer": [
-              {
-                "ans": "THE_DASHBOARD_CAN_BE_DOWNLOADED"
+                "point": "DSS_FAQ_ACCESS_TO_OVERVIEW_SECTION"
               },
               {
-                "ans": "TO_DOWNLOAD_ANY_INDIVIDUAL_CARDS"
-              }
-            ]
-          },
-          {
-            "question": "QUES_SIX_CAN_I_DOWNLOAD_THE_TABULAR_CHARTS",
-            "answer": [
-              {
-                "ans": "THE_TABULAR_CHARTS_ARE_DOWNLOADED"
-              }
-            ]
-          },
-          {
-            "question": "QUES_SEVEN_HOW_CAN_I_SEE_PERFORMANCE_RANKING",
-            "answer": [
-              {
-                "ans": "BELOW_THE_TOP"
-              }
-            ]
-          },
-          {
-            "question": "QUES_EIGHT_HOW_PERFORMING_STATES_ASSESSED",
-            "answer": [
-              {
-                "ans": "PERFORMING_STATES_IN_THE_REVENUE_TABS"
-              }
-            ]
-          },
-          {
-            "question": "QUES_NINE_HOW_CAN_I_VIEW_IMPLEMENTATION_STATUS_PROGRAM",
-            "answer": [
-              {
-                "point": "MAP_OF_INDIA_ON_THE_LANDING_PAGE"
+                "point": "DSS_FAQ_LOOK_FOR_DATA_SYNC"
               },
               {
-                "point": "CLICK_ON_ANY_ONE_LIVE_STATE"
+                "point": "DSS_FAQ_TOTAL_USER_CREATED_COUNT"
               }
             ]
           },
           {
-            "question": "QUES_TEN_CAN_I_VIEW_DATA_MULTIPLE_STATES",
+            "question": "DSS_FAQ_QUES_FOUR_NATIONAL_USER_VIEW_TOTAL_HOUSEHOLD",
             "answer": [
               {
-                "point": "FIND_THE_FILTER_BOX"
+                "ans": "DSS_FAQ_ANS_NATIONAL_USER_VIEW_TOTAL_HOUSEHOLD"
               },
               {
-                "point": "CLICK_ON_THE_DROPDOWN_ARROW"
+                "point": "DSS_FAQ_HOUSEHOLD_LOGIN_TO_DASHBOARD"
               },
               {
-                "point": "VIEW_THE_DATA_FOR_ANY_PARTICULAR_ULBS"
-              }
-            ]
-          },
-          {
-            "question": "QUES_ELEVEN_CAN_I_SHARE_INDIVIDUAL_CARDS",
-            "answer": [
-              {
-                "ans": "SHARE_ANY_INDIVIDUAL_CARDS_SUCH_AS_OVERVIEW"
-              }
-            ]
-          },
-          {
-            "question": "QUES_TWELVE_HOW_CAN_I_SEE_WHICH_MODULES_ARE_LIVE",
-            "answer": [
-              {
-                "point": "ON_THE_MAP_OF_INDIA_ON_THE_LANDING_PAGE"
+                "point": "DSS_FAQ_HOUSEHOLD_NAVIGATE"
               },
               {
-                "point": "CLICK_ON_THE_ANY_ONE_LIVE_STATE"
+                "point": "DSS_FAQ_TOTAL_HOUSEHOLD_VISITED_DATA"
               }
             ]
           },
           {
-            "question": "QUES_THIRTEEN_WHERE_CAN_I_FIND_DEFINITIONS_FOR_VARIOUS_KPIS",
+            "question": "DSS_FAQ_QUES_FIVE_NATIONAL_USER_VIEW_TOTAL_BEDNETS",
             "answer": [
               {
-                "ans": "VARIOUS_KPIS_CAN_BE_VIEWED_BY_HOVERING"
+                "ans": "DSS_FAQ_ANS_NATIONAL_USER_VIEW_TOTAL_BEDNETS"
+              },
+              {
+                "point": "DSS_FAQ_LOGIN_TO_DASHBOARD"
+              },
+              {
+                "point": "DSS_FAQ_USER_WILL_BE_DIRECTED"
+              },
+              {
+                "point": "DSS_FAQ_TOP_BEDNETS_CARD"
+              },
+              {
+                "point": "DSS_FAQ_TOTAL_METRICS_DISTRIBUTED_METRIC"
+              }
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_SIX_VIEW_DASHBOARD_DATA_SYNCED",
+            "answer": [
+              {
+                "ans": "DSS_FAQ_ANS_VIEW_DASHBOARD_DATA_SYNCED"
+              },
+              {
+                "point": "DSS_FAQ_GO_TO_PROVINCE"
+              },
+              {
+                "point": "DSS_FAQ_SELECT_THE_OVERVIEW"
+              },
+              {
+                "point": "DSS_FAQ_LOOK_FOR_DATA_SYNC"
+              },
+              {
+                "point": "DSS_FAQ_SYNC_RATE_METRIC"
+              },
+              {
+                "point": "DSS_FAQ_SYNC_RATE_SHOWS_PROPORTION"
+              }
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_SEVEN_QUES_SEE_POPULATION_COVERED",
+            "answer":[
+              {
+                "ans": "DSS_FAQ_ANS_SEE_POPULATION_COVERED"
+              }
+            ],
+            "nestedAnswer": [
+              [
+                {
+                  "ans": "DSS_FAQ_NATIONAL_OR_PROVINCIAL"
+                },
+                {
+                  "point": "DSS_FAQ_NAVIGATE_TO_PROVINCE"
+                },
+                {
+                  "point": "DSS_FAQ_CLICK_ON_REGISTRATION_DELIVERY"
+                },
+                {
+                  "point": "DSS_FAQ_VIEW_POPULATION_COVERAGE"
+                },
+                {
+                  "point": "DSS_FAQ_BAR_GRAPH_LISTS_ALL_DISTRICTS"
+                },
+                {
+                  "point": "DSS_FAQ_BAR_GRAPH_SHOWS_COUNT"
+                }
+              ],
+              [
+                {
+                  "ans" : "DSS_FAQ_DISTRICT_USER"
+                },
+                {
+                  "point": "DSS_FAQ_NAVIGATE_TO_DASHBOARD"
+                },
+                {
+                  "point": "DSS_FAQ_OVERVIEW_SECTION"
+                },
+                {
+                  "point": "DSS_FAQ_POPULATION_COVERED_METRIC"
+                }
+              ]
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_EIGHT_HOW_CAN_I_DRILL_DOWN",
+            "answer":[
+              {
+                "ans": "DSS_FAQ_TO_DRILL_DOWN_BOUNDARY"
+              },
+              {
+                "ans": "DSS_FAQ_TO_USER_CAN_NAVIGATE"
+              }
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_NINE_VIEW_VALUES_ON_GRAPH",
+            "answer":[
+              {
+                "point": "DSS_FAQ_VIEW_VALUES_ON_LINE"
+              },
+              {
+                "point": "DSS_FAQ_VIEW_VALUES_ON_PIE"
+              }
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_TEN_DOWNLOAD_DASHBOARD",
+            "answer": [
+              {
+                "ans": "DSS_FAQ_STEPS_TO_DOWNLOAD"
+              },
+              {
+                "point": "DSS_FAQ_TO_DOWNLOAD_ENTIRE_PAGE"
+              },
+              {
+                "point": "DSS_FAQ_TO_SHARE_ENTIRE_PAGE"
+              },
+              {
+                "point": "DSS_FAQ_TO_DOWNLOAD_INDIVIDUAL_CARD"
+              }
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_ELEVEN_HH_VIEW_COVERAGE_RANKING",
+            "answer":[
+              {
+                "ans": "DSS_FAQ_VIEW_COMPARE_COVERAGE"
+              }
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_TWELVE_VIEW_LIST_OF_PROVINCES",
+            "answer":[
+              {
+                "ans": "DSS_FAQ_ANS_LIST_OF_PROVINCES"
+              },
+              {
+                "ans": "DSS_FAQ_PROVINCIAL_DISTRICT_ACCESS_NATIONAL"
+              }
+            ]
+          },
+          {
+            "question": "DSS_FAQ_QUES_THIRTEEN_FIND_DEFINITION_OF_KPI",
+            "answer":[
+              {
+                "ans": "DSS_FAQ_ANS_DEFINITION_OF_KPI"
               }
             ]
           }
