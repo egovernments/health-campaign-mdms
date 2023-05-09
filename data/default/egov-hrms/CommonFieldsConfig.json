@@ -74,6 +74,12 @@
                     "component": "SelectDateofEmployment",
                     "key": "SelectDateofEmployment",
                     "withoutLabel": true
+                },
+                {
+                    "type": "component",
+                    "component": "SelectEmployeeDepartment",
+                    "key": "SelectEmployeeDepartment",
+                    "withoutLabel": true
                 }
             ]
         },
