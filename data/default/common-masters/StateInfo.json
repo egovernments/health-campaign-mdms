@@ -30,6 +30,10 @@
         {
           "label": "rainmaker-hcm-dss",
           "value": "rainmaker-hcm-dss"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
         }
       ]
     }
