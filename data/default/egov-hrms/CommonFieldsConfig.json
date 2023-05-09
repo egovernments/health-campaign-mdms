@@ -3,6 +3,23 @@
     "moduleName": "egov-hrms",
     "CommonFieldsConfig": [
         {
+            "head": "HR_LOGIN_DETAILS_HEADER",
+            "body": [
+                {
+                    "type": "component",
+                    "component": "SelectEmployeeId",
+                    "key": "SelectEmployeeId",
+                    "withoutLabel": true
+                },
+                {
+                    "type": "component",
+                    "component": "SelectEmployeePassword",
+                    "key": "SelectEmployeePassword",
+                    "withoutLabel": true
+                }
+            ]
+        },
+        {
             "head": "HR_PERSONAL_DETAILS_HEADER",
             "body": [
                 {
@@ -57,22 +74,6 @@
                     "component": "SelectDateofEmployment",
                     "key": "SelectDateofEmployment",
                     "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "SelectEmployeeId",
-                    "key": "SelectEmployeeId",
-                    "withoutLabel": true
-                },
-                {
-                    "type": "component",
-                    "component": "Banner",
-                    "key": "Banner1",
-                    "withoutLabel": true,
-                    "texts": {
-                        "headerCaption": "Info",
-                        "header": "HR_EMP_ID_MESSAGE"
-                    }
                 }
             ]
         },
