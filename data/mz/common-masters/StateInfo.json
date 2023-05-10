@@ -11,6 +11,7 @@
       "headerProgramLogoUrl": "https://raw.githubusercontent.com/HCM-MOZ-IMPEL/egov-web-assets/main/Mozambique/images/moz-prg-logo.png",
       "hasLocalisation": true,
       "isLanguageSelectionDisabled": false,
+      "isForgotPwdDisabled": true,
       "defaultLanguage": "pt_MZ",
       "isCitySelectionDisabled": true,
       "defaultCity": "mz",
