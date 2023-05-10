@@ -76,10 +76,6 @@
         {
           "code": "FEMALE",
           "name": "FEMALE"
-        },
-        {
-          "code": "OTHER",
-          "name": "OTHER"
         }
       ],
       "HOUSEHOLD_DELETION_REASON_OPTIONS": [
@@ -109,29 +105,45 @@
       "DELIVERY_COMMENT_OPTIONS_POPULATOR": [
         {
           "code": "SUCCESSFUL_DELIVERY",
-          "name": "Delivery Successful"
+          "name": "Entrega com sucesso"
         },
         {
           "code": "INSUFFICIENT_RESOURCES",
-          "name": "Insufficient Resources"
+          "name": "Insuficiência de redes"
         },
         {
-          "code": "BENEFICIARY_REFUSED",
-          "name": "Beneficiary Refused"
-        },
-        {
-          "code": "BENEFICIARY_ABSENT",
-          "name": "Beneficiary Absent"
+          "code": "PROGRAM_MANDATE",
+          "name": "Orientação nacional"
         }
       ],
       "TRANSPORT_TYPES": [
         {
           "code": "TRANSPORT_TYPE_1",
-          "name": "TRANSPORT_TYPE_1"
+          "name": "Camião"
         },
         {
           "code": "TRANSPORT_TYPE_2",
-          "name": "TRANSPORT_TYPE_2"
+          "name": "Cabina duple"
+        },
+        {
+          "code": "TRANSPORT_TYPE_3",
+          "name": "Cabina Simple"
+        },
+        {
+          "code": "TRANSPORT_TYPE_4",
+          "name": "Carrinha"
+        },
+        {
+          "code": "TRANSPORT_TYPE_5",
+          "name": "Motorizadas"
+        },
+        {
+          "code": "TRANSPORT_TYPE_6",
+          "name": "Barco"
+        },
+        {
+          "code": "TRANSPORT_TYPE_7",
+          "name": "Estivadores"
         }
       ],
       "BACKEND_INTERFACE": {
