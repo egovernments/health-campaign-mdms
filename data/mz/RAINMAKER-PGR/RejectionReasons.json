@@ -4,7 +4,23 @@
   "RejectionReasons": [
     {
       "code": "REASON1",
-      "name": "Invalid Complaint"
+      "name": "Invalid"
+    },
+    {
+      "code": "REASON2",
+      "name": "Misdirected"
+    },
+    {
+      "code": "REASON3",
+      "name": "Duplicate"
+    },
+    {
+      "code": "REASON4",
+      "name": "Resolved through alternate channels"
+    },
+    {
+      "code": "REASON5",
+      "name": "Insufficient Information"
     }
   ]
 }
