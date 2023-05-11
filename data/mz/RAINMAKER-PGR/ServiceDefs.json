@@ -3,9 +3,9 @@
   "moduleName": "RAINMAKER-PGR",
   "ServiceDefs": [
     {
-      "serviceCode": "SyncNotWorking",
-      "name": "Sync Not Working",
-      "keywords": "sync, not, working",
+      "serviceCode": "TechnicalIssues",
+      "name": "Technical Issues",
+      "keywords": "technical, tech",
       "department": "TECH",
       "slaHours": 336,
       "menuPath": "Sync",
@@ -13,10 +13,40 @@
       "order": 1
     },
     {
-      "serviceCode": "NotEnoughStock",
-      "name": "Not Enough Stock",
-      "keywords": "not, enough, stock",
-      "department": "WAREHOUSE",
+      "serviceCode": "UserAccountIssues",
+      "name": "User Account Issues",
+      "keywords": "user, account",
+      "department": "TECH",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "DataIssues",
+      "name": "Data Issues",
+      "keywords": "data",
+      "department": "TECH",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "SecurityIssues",
+      "name": "Security Issues",
+      "keywords": "security",
+      "department": "TECH",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "PerformanceIssue",
+      "name": "Performance Issue",
+      "keywords": "performance",
+      "department": "TECH",
       "slaHours": 336,
       "menuPath": "Sync",
       "active": true,
