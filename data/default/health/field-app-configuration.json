@@ -234,6 +234,20 @@
             }
           },
           {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-inventory-selection",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-inventory-details",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
             "type": "MDMS",
             "name": "HCM-FIELD-APP-CONFIG",
             "config": {
