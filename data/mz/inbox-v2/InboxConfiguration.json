@@ -1,0 +1,67 @@
+{
+  "tenantId": "mz",
+  "moduleName": "INBOX",
+  "InboxQueryConfiguration": [
+    {
+      "module": "RAINMAKER-PGR",
+      "index": "pgr-services",
+      "allowedSearchCriteria": [
+        {
+          "name": "area",
+          "path": "Data.service.address.locality.code",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "status",
+          "path": "Data.service.applicationStatus",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "assignedToMe",
+          "path": "Data.workflow.assignes.*.uuid",
+          "isMandatory": false,
+          "isHashingRequired": true,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "assignedToOthers",
+          "path": "Data.workflow.assignes.*.uuid",
+          "isMandatory": false,
+          "isHashingRequired": true,
+          "operator": "NOT"
+        },
+        {
+          "name": "fromDate",
+          "path": "Data.service.auditDetails.createdTime",
+          "isMandatory": false,
+          "operator": "GTE"
+        },
+        {
+          "name": "toDate",
+          "path": "Data.service.auditDetails.createdTime",
+          "isMandatory": false,
+          "operator": "LTE"
+        },
+        {
+          "name": "complaintNumber",
+          "path": "Data.service.serviceCode",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        },
+        {
+          "name": "mobileNumber",
+          "path": "Data.service.user.mobileNumber",
+          "isMandatory": false,
+          "operator": "EQUAL"
+        }
+      ],
+      "sortBy": {
+        "path": "Data.service.auditDetails.createdTime",
+        "defaultOrder": "ASC"
+      },
+      "sourceFilterPathList": ["Data.service.serviceCode", "Data.service.address.locality.code", "Data.service.applicationStatus", "Data.workflow.assignes.*.uuid", "Data.service.auditDetails.createdTime"]
+    }
+  ]
+}
