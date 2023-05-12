@@ -12383,6 +12383,18 @@
       "navigationURL": "/digit-ui/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
+    },
+    {
+      "id": 1650,
+      "name": "Inbox Search",
+      "url": "/inbox/v2/_search",
+      "parentModule": "inbox",
+      "displayName": "Inbox Search",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "inbox",
+      "code": "null",
+      "path": ""
     }
   ]
 }
