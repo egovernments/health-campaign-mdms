@@ -8,19 +8,19 @@
       "allowedSearchCriteria": [
         {
           "name": "area",
-          "path": "Data.service.address.locality.code",
+          "path": "Data.service.address.locality.code.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
         },
         {
           "name": "status",
-          "path": "Data.service.applicationStatus",
+          "path": "Data.service.applicationStatus.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
         },
         {
           "name": "assignedToMe",
-          "path": "Data.workflow.assignes.*.uuid",
+          "path": "Data.workflow.assignes.*.uuid.keyword",
           "isMandatory": false,
           "isHashingRequired": true,
           "operator": "EQUAL"
@@ -39,13 +39,13 @@
         },
         {
           "name": "complaintNumber",
-          "path": "Data.service.serviceRequestId",
+          "path": "Data.service.serviceRequestId.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
         },
         {
           "name": "mobileNumber",
-          "path": "Data.service.user.mobileNumber",
+          "path": "Data.service.user.mobileNumber.keyword",
           "isMandatory": false,
           "operator": "EQUAL"
         }
