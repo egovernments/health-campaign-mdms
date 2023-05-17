@@ -15923,6 +15923,12 @@
       "actionid": 1650,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 1651,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }

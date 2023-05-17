@@ -12395,6 +12395,18 @@
       "serviceCode": "inbox",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1651,
+      "name": "Check bandwidth",
+      "url": "/project/check/bandwidth",
+      "parentModule": "project",
+      "displayName": "Check bandwidth",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
