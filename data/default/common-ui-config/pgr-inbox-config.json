@@ -1,0 +1,183 @@
+{
+    "tenantId": "default",
+    "moduleName": "common-ui-config",
+    "PGRInboxConfig": [
+        {
+            "label": "ES_COMMON_INBOX",
+            "postProcessResult": true,
+            "type": "inbox",
+            "apiDetails": {
+                "serviceName": "/inbox/v2/_search",
+                "requestParam": {},
+                "requestBody": {
+                    "inbox": {
+                        "processSearchCriteria": {
+                            "businessService": [
+                                "PGR"
+                            ],
+                            "moduleName": "RAINMAKER-PGR"
+                        },
+                        "moduleSearchCriteria": {}
+                    }
+                },
+                "minParametersForSearchForm": 1,
+                "masterName": "PGRInboxConfig",
+                "moduleName": "common-ui-config",
+                "tableFormJsonPath": "requestBody.inbox",
+                "filterFormJsonPath": "requestBody.inbox.moduleSearchCriteria",
+                "searchFormJsonPath": "requestBody.inbox.moduleSearchCriteria"
+            },
+            "sections": {
+                "search": {
+                    "uiConfig": {
+                        "headerStyle": null,
+                        "primaryLabel": "ES_COMMON_SEARCH",
+                        "secondaryLabel": "ES_COMMON_CLEAR_SEARCH",
+                        "minReqFields": 1,
+                        "defaultValues": {
+                            "complaintNumber": "",
+                            "mobileNumber": ""
+                        },
+                        "fields": [
+                            {
+                                "label": "CS_COMMON_COMPLAINT_NO",
+                                "type": "text",
+                                "isMandatory": false,
+                                "disable": false,
+                                "populators": {
+                                    "name": "complaintNumber"
+                                }
+                            },
+                            {
+                                "label": "CS_COMMON_MOBILE_NO",
+                                "type": "text",
+                                "isMandatory": false,
+                                "disable": false,
+                                "populators": {
+                                    "name": "mobileNumber"
+                                }
+                            }
+                        ]
+                    },
+                    "label": "",
+                    "children": {},
+                    "show": true
+                },
+                "links": {
+                    "uiConfig": {
+                        "links": [
+                            {
+                                "text": "CS_PGR_CREATE_COMPLAINT",
+                                "url": "/digit-ui/employee/pgr/complaint/create",
+                                "roles": []
+                            }
+                        ],
+                        "label": "ES_PGR_HEADER_COMPLAINT",
+                        "logoIcon": {
+                            "component": "CaseIcon",
+                            "customClass": "logo"
+                        }
+                    },
+                    "children": {},
+                    "show": true
+                },
+                "filter": {
+                    "uiConfig": {
+                        "type": "filter",
+                        "headerStyle": null,
+                        "primaryLabel": "ES_COMMON_APPLY",
+                        "minReqFields": 0,
+                        "secondaryLabel": "",
+                        "defaultValues": {
+                            "musterRolldateRange": "",
+                            "musterRollStatus": ""
+                        },
+                        "fields": [
+                            {
+                                "label": "ES_ASSIGNMENT_TYPE",
+                                "type": "radio",
+                                "isMandatory": false,
+                                "disable": false,
+                                "populators": {
+                                    "name": "assignmentType"
+                                }
+                            },
+                            {
+                                "label": "CS_ADDCOMPLAINT_COMPLAINT_TYPE",
+                                "type": "dropdown",
+                                "isMandatory": false,
+                                "disable": false,
+                                "populators": {
+                                    "name": "complaintType",
+                                    "optionsKey": "name",
+                                    "mdmsConfig": {
+                                        "masterName": "ServiceDefs",
+                                        "moduleName": "RAINMAKER-PGR",
+                                        "localePrefix": "SERVICEDEFS"
+                                    }
+                                }
+                            },
+                            {
+                                "label": "CS_COMPLAINT_LOCATION_LOCALIDADE",
+                                "type": "dropdown",
+                                "isMandatory": false,
+                                "disable": false,
+                                "populators": {
+                                    "name": "locality",
+                                    "optionsKey": "code",
+                                    "mdmsConfig": {
+                                        "masterName": "TenantBoundary",
+                                        "moduleName": "egov-location",
+                                        "localePrefix": "DEFAULT_ADMIN"
+                                    }
+                                }
+                            },
+                            {
+                                "label": "ES_PGR_FILTER_STATUS",
+                                "type": "checkbox",
+                                "isMandatory": false,
+                                "disable": false,
+                                "populators": {
+                                    "name": "status",
+                                    "optionsKey": "name"
+                                }
+                            }
+                        ]
+                    },
+                    "label": "ES_COMMON_FILTERS",
+                    "show": true
+                },
+                "searchResult": {
+                    "label": "",
+                    "uiConfig": {
+                        "columns": [
+                            {
+                                "label": "CS_PGR_COMPLAINT_NUMBER",
+                                "jsonPath": "businessObject.serviceRequestId",
+                                "additionalCustomization": true
+                            },
+                            {
+                                "label": "WF_INBOX_HEADER_LOCALITY",
+                                "jsonPath": "businessObject.address.localityCode"
+                            },
+                            {
+                                "label": "CS_COMPLAINT_DETAILS_APPLICATION_STATUS",
+                                "jsonPath": "businessObject.applicationStatus"
+                            },
+                            {
+                                "label": "WF_INBOX_HEADER_CURRENT_OWNER",
+                                "jsonPath": "businessObject.assignee.name"
+                            }
+                        ],
+                        "enableGlobalSearch": false,
+                        "enableColumnSort": true,
+                        "resultsJsonPath": "items"
+                    },
+                    "children": {},
+                    "show": true
+                }
+            },
+            "additionalSections": {}
+        }
+    ]
+}
