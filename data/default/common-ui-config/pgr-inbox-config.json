@@ -13,9 +13,9 @@
                     "inbox": {
                         "processSearchCriteria": {
                             "businessService": [
-                                "pgr"
+                                "PGR"
                             ],
-                            "moduleName": "pgr"
+                            "moduleName": "RAINMAKER-PGR"
                         },
                         "moduleSearchCriteria": {}
                     }
