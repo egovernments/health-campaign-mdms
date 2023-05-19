@@ -60,7 +60,8 @@
         "Data.service.applicationStatus",
         "Data.workflow",
         "Data.service.user",
-        "Data.service.auditDetails.createdTime"]
+        "Data.service.auditDetails.createdTime",
+        "Data.service.applicationStatus"]
     }
   ]
 }
