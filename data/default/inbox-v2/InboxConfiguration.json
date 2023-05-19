@@ -54,7 +54,13 @@
         "path": "Data.service.auditDetails.createdTime",
         "defaultOrder": "ASC"
       },
-      "sourceFilterPathList": ["Data.service.serviceRequestId", "Data.service.address.locality.code", "Data.service.applicationStatus", "Data.workflow.assignes.*.uuid", "Data.service.auditDetails.createdTime"]
+      "sourceFilterPathList": [
+        "Data.service.serviceRequestId",
+        "Data.service.address.locality.code",
+        "Data.service.applicationStatus",
+        "Data.workflow",
+        "Data.service.user",
+        "Data.service.auditDetails.createdTime"]
     }
   ]
 }
