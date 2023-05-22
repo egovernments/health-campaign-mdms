@@ -66,13 +66,13 @@
         {
           "name": "permanentAddress",
           "jsonPath": "permanentAddress/address",
-          "patternId": "005",
+          "patternId": "003",
           "defaultVisibility": "PLAIN"
         },
         {
           "name": "correspondenceAddress",
           "jsonPath": "correspondenceAddress/address",
-          "patternId": "005",
+          "patternId": "003",
           "defaultVisibility": "PLAIN"
         },
         {
@@ -90,51 +90,25 @@
       ],
       "roleBasedDecryptionPolicy": [
         {
-          "roles": ["REINDEXING_ROLE"],
+          "roles": ["PGR_LME", "GRO"],
           "attributeAccessList": [
-            {
-              "attribute": "mobileNumber",
-              "firstLevelVisibility": "ENCRYPTED",
-              "secondLevelVisibility": "PLAIN"
-            }
-          ]
-        },
-        {
-          "roles": ["WS_CEMP","WS_DOC_VERIFIER","WS_FIELD_INSPECTOR","WS_APPROVER","WS_CLERK","SW_CEMP","SW_DOC_VERIFIER","SW_FIELD_INSPECTOR","SW_APPROVER","SW_CLERK"
-          ],
-          "attributeAccessList": [
-            {
-              "attribute": "mobileNumber",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
-              "attribute": "fatherOrHusbandName",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
-              "attribute": "correspondenceAddress",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            },
             {
               "attribute": "name",
-              "firstLevelVisibility": "PLAIN",
+              "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
-              "attribute": "emailId",
+              "attribute": "mobileNumber",
+              "firstLevelVisibility": "MASKED",
+              "secondLevelVisibility": "PLAIN"
+            },
+            {
+              "attribute": "username",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             },
             {
               "attribute": "permanentAddress",
-              "firstLevelVisibility": "MASKED",
-              "secondLevelVisibility": "PLAIN"
-            },
-            {
-              "attribute": "guardian",
               "firstLevelVisibility": "MASKED",
               "secondLevelVisibility": "PLAIN"
             }
@@ -382,7 +356,7 @@
           "name": "aadhaarNumber",
           "jsonPath": "identifiers/*/identifierId",
           "patternId": "001",
-          "defaultVisibility": "PLAIN"
+          "defaultVisibility": "MASKED"
         }
       ],
       "roleBasedDecryptionPolicy": []
