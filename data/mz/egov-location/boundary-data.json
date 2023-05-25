@@ -69383,7 +69383,66 @@
                 ]
               }
             ]
-          }
+          },
+		  {
+            "id": "wqmPoqfG93D",
+            "boundaryNum": 2,
+            "name": "CABO DELGADO",
+            "localname": "CABO DELGADO",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "wqmPoqfG93D",
+            "children": [
+              {
+                "id": "xi7pMPy3aLP",
+                "boundaryNum": 3,
+                "name": "ANCUABE",
+                "localname": "ANCUABE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "xi7pMPy3aLP",
+                "children": [
+                  {
+                    "id": "btcY6LTIlBj",
+                    "boundaryNum": 4,
+                    "name": "ANCUABE SEDE",
+                    "localname": "ANCUABE SEDE",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "btcY6LTIlBj",
+                    "children": [
+                        {
+                        "id": "Q7jOxkjDogH",
+                        "boundaryNum": 5,
+                        "name": "AC21 - MAHERA",
+                        "localname": "AC21 - MAHERA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "Q7jOxkjDogH",
+                        "children": [
+                            {
+                            "id": "aEO2QyDGUVa",
+                            "boundaryNum": 6,
+                            "name": "AC22- MAHERA |CENTRO DE REACENTAMENTO",
+                            "localname": "AC22- MAHERA |CENTRO DE REACENTAMENTO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "aEO2QyDGUVa",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+		  }
         ]
       }
     }
