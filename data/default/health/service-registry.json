@@ -406,6 +406,16 @@
           "path": "/pgr-services/v2/request/_create"
         }
       ]
+    },
+    {
+      "service": "BANDWIDTH-CHECK",
+      "actions": [
+        {
+          "action": "bandwidth",
+          "entityName": "InternetSpeed",
+          "path": "/project/check/bandwidth"
+        }
+      ]
     }
   ]
 }
