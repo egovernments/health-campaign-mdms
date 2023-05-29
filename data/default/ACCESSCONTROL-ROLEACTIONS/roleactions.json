@@ -27,6 +27,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1651,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 629,
       "actioncode": "",
