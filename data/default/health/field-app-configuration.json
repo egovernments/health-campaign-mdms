@@ -8,12 +8,29 @@
       "SYNC_METHOD": "API | OPLOG_UPLOAD",
       "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
       "TENANT_ID": "default",
+      "BACKGROUND_SERVICE_CONFIG": {
+        "BATTERY_PERCENT_CUT_OFF": 10,
+        "SERVICE_INTERVAL": 500,
+        "API_CONCURRENCY": 2
+      },
+      "BANDWIDTH_BATCH_SIZE": [
+        {
+          "MIN_RANGE": 0.02,
+          "MAX_RANGE": 0.20,
+          "BATCH_SIZE": 1
+        },
+        {
+          "MIN_RANGE": 0.20,
+          "MAX_RANGE": 0.50,
+          "BATCH_SIZE": 5
+        }
+      ],
       "LANGUAGES": [
         {
           "label": "Portuguese",
           "value": "pt_MZ"
         },
-           {
+        {
           "label": "French",
           "value": "fr_MZ"
         },
@@ -22,12 +39,12 @@
           "value": "en_MZ"
         }
       ],
-      "CALL_SUPPORT":[
+      "CALL_SUPPORT": [
         {
           "name": "Support DeskLine 1",
           "code": "9686151676"
         },
-          {
+        {
           "name": "Support DeskLine 2",
           "code": "7060431109"
         }
