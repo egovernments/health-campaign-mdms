@@ -16051,20 +16051,32 @@
       "tenantId": "mz"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "DHIS2_SUPERUSER",
       "actionid": 1650,
       "actioncode": "",
       "tenantId": "mz"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "DHIS2_SUPERUSER",
       "actionid": 1651,
       "actioncode": "",
       "tenantId": "mz"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "DHIS2_SUPERUSER",
       "actionid": 1652,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DHIS2_SUPERUSER",
+      "actionid": 1653,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
+      "rolecode": "DHIS2_SUPERUSER",
+      "actionid": 1654,
       "actioncode": "",
       "tenantId": "mz"
     }

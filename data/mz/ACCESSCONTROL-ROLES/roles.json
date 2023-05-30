@@ -86,6 +86,11 @@
       "code": "CSR",
       "name": "CSR",
       "description": "CSR"
+    },
+    {
+      "code": "DHIS2_SUPERUSER",
+      "name": "DHIS2 SUPERUSER",
+      "description": "DHIS2 Superuser"
     }
   ]
 }

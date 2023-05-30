@@ -12419,6 +12419,30 @@
       "serviceCode": "hcm-moz-impl",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1653,
+      "name": "Ingest DHIS2 households",
+      "url": "/hcm-moz-impl/v1/dhis2/household/ingest",
+      "displayName": "Ingest DHIS2 households",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "hcm-moz-impl",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1654,
+      "name": "Ingest DHIS2 stocks",
+      "url": "/hcm-moz-impl/v1/dhis2/stock/ingest",
+      "displayName": "Ingest DHIS2 stocks",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "hcm-moz-impl",
+      "code": "null",
+      "path": ""
     }
   ]
 }
