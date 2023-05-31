@@ -69440,6 +69440,17 @@
                     ]
                   }
                 ]
+              },
+              {
+                "id": "iLxtkZKg1ZT",
+                "boundaryNum": 3,
+                "name": "BALAMA",
+                "localname": "BALAMA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "iLxtkZKg1ZT",
+                "children": []
               }
             ]
 		  }
