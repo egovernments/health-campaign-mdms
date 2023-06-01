@@ -26,7 +26,19 @@
             "latitude": null,
             "label": "Provincia",
             "code": "eCer1W6aTne",
-            "children": []
+            "children": [
+              {
+                "id": "YnqyySOO3Kj",
+                "boundaryNum": 3,
+                "name": "NAMACURRA",
+                "localname": "NAMACURRA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "YnqyySOO3Kj",
+                "children": []
+              }
+            ]
           }
         ]
       }
