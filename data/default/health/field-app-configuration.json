@@ -419,6 +419,11 @@
             }
           }
         ]
+      },
+      "FIREBASE_CONFIGURATION": {
+        "CRASHLYTICS": {
+          "ENABLED": true
+        }
       }
     }
   ]
