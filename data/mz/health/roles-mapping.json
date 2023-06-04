@@ -4,7 +4,7 @@
   "rolesMapping": [{
     "Register": "REGISTRAR",
     "Logístico distrital": "DISTRIBUTOR",
-    "Superuser": "SUPERUSER",
+    "Superuser": "DHIS2_SUPERUSER",
     "Distrital": "DISTRICT_SUPERVISOR"
   }]
 }
