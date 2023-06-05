@@ -136,14 +136,6 @@
         {
           "code": "TRANSPORT_TYPE_5",
           "name": "Motorizadas"
-        },
-        {
-          "code": "TRANSPORT_TYPE_6",
-          "name": "Barco"
-        },
-        {
-          "code": "TRANSPORT_TYPE_7",
-          "name": "Estivadores"
         }
       ],
       "BACKEND_INTERFACE": {
