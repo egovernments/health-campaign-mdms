@@ -40,42 +40,42 @@
             "children": [
               {
                 "id": "test_id_2",
-                "boundaryNum": 3,
+                "boundaryNum": 2,
                 "name": "TEST_2",
                 "localname": "TEST_2",
                 "longitude": null,
                 "latitude": null,
-                "label": "Distrito",
+                "label": "Provincia",
                 "code": "test_id_2",
                 "children": [
                   {
                     "id": "test_id_3",
-                    "boundaryNum": 4,
+                    "boundaryNum": 2,
                     "name": "TEST_3",
                     "localname": "TEST_3",
                     "longitude": null,
                     "latitude": null,
-                    "label": "Posto Administrativo",
+                    "label": "Provincia",
                     "code": "test_id_3",
                     "children": [
                       {
                         "id": "test_id_4",
-                        "boundaryNum": 5,
+                        "boundaryNum": 2,
                         "name": "TEST_4",
                         "localname": "TEST_4",
                         "longitude": null,
                         "latitude": null,
-                        "label": "Localidade",
+                        "label": "Provincia",
                         "code": "test_id_4",
                         "children": [
                           {
                             "id": "test_id_5",
-                            "boundaryNum": 6,
+                            "boundaryNum": 2,
                             "name": "TEST_5",
                             "localname": "TEST_5",
                             "longitude": null,
                             "latitude": null,
-                            "label": "Aldeia",
+                            "label": "Provincia",
                             "code": "test_id_5",
                             "children": []
                           }
@@ -86,6 +86,122 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "test_id_2",
+            "boundaryNum": 2,
+            "name": "TEST_2",
+            "localname": "TEST_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "test_id_2",
+            "children": [
+              {
+                "id": "test_id_3",
+                "boundaryNum": 2,
+                "name": "TEST_3",
+                "localname": "TEST_3",
+                "longitude": null,
+                "latitude": null,
+                "label": "Provincia",
+                "code": "test_id_3",
+                "children": [
+                  {
+                    "id": "test_id_4",
+                    "boundaryNum": 2,
+                    "name": "TEST_4",
+                    "localname": "TEST_4",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Provincia",
+                    "code": "test_id_4",
+                    "children": [
+                      {
+                        "id": "test_id_5",
+                        "boundaryNum": 2,
+                        "name": "TEST_5",
+                        "localname": "TEST_5",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Provincia",
+                        "code": "test_id_5",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "test_id_3",
+            "boundaryNum": 2,
+            "name": "TEST_3",
+            "localname": "TEST_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "test_id_3",
+            "children": [
+              {
+                "id": "test_id_4",
+                "boundaryNum": 2,
+                "name": "TEST_4",
+                "localname": "TEST_4",
+                "longitude": null,
+                "latitude": null,
+                "label": "Provincia",
+                "code": "test_id_4",
+                "children": [
+                  {
+                    "id": "test_id_5",
+                    "boundaryNum": 2,
+                    "name": "TEST_5",
+                    "localname": "TEST_5",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Provincia",
+                    "code": "test_id_5",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "test_id_4",
+            "boundaryNum": 2,
+            "name": "TEST_4",
+            "localname": "TEST_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "test_id_4",
+            "children": [
+              {
+                "id": "test_id_5",
+                "boundaryNum": 2,
+                "name": "TEST_5",
+                "localname": "TEST_5",
+                "longitude": null,
+                "latitude": null,
+                "label": "Provincia",
+                "code": "test_id_5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "test_id_5",
+            "boundaryNum": 2,
+            "name": "TEST_5",
+            "localname": "TEST_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "test_id_5",
+            "children": []
           }
         ]
       }
