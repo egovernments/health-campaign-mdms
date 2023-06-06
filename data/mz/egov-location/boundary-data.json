@@ -75,6 +75,17 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "test_id_6",
+            "boundaryNum": 2,
+            "name": "TEST_1",
+            "localname": "TEST_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "test_id_6",
+            "children": []
           }
         ]
       }
