@@ -31,8 +31,8 @@
           {
             "id": "test_id_1",
             "boundaryNum": 2,
-            "name": "TEST_1",
-            "localname": "TEST_1",
+            "name": "Tumul_1",
+            "localname": "Tumul_1",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
@@ -41,8 +41,8 @@
               {
                 "id": "test_id_2",
                 "boundaryNum": 3,
-                "name": "TEST_2",
-                "localname": "TEST_2",
+                "name": "Tumul_2",
+                "localname": "Tumul_2",
                 "longitude": null,
                 "latitude": null,
                 "label": "Distrito",
@@ -51,8 +51,8 @@
                   {
                     "id": "test_id_3",
                     "boundaryNum": 4,
-                    "name": "TEST_3",
-                    "localname": "TEST_3",
+                    "name": "Tumul_3",
+                    "localname": "Tumul_3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Posto Administrativo",
