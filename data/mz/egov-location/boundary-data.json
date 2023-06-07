@@ -41,8 +41,8 @@
               {
                 "id": "test_id_2",
                 "boundaryNum": 3,
-                "name": "TEST_2",
-                "localname": "TEST_2",
+                "name": "Tumul_1",
+                "localname": "Tumul_1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Distrito",
@@ -51,8 +51,8 @@
                   {
                     "id": "test_id_3",
                     "boundaryNum": 4,
-                    "name": "TEST_3",
-                    "localname": "TEST_3",
+                    "name": "Tumul_1",
+                    "localname": "Tumul_1",
                     "longitude": null,
                     "latitude": null,
                     "label": "Posto Administrativo",
@@ -61,8 +61,8 @@
                       {
                         "id": "test_id_4",
                         "boundaryNum": 5,
-                        "name": "TEST_4",
-                        "localname": "TEST_4",
+                        "name": "Tumul_1",
+                        "localname": "Tumul_1",
                         "longitude": null,
                         "latitude": null,
                         "label": "Localidade",
@@ -71,8 +71,8 @@
                           {
                             "id": "test_id_5",
                             "boundaryNum": 6,
-                            "name": "TEST_5",
-                            "localname": "TEST_5",
+                            "name": "Tumul_1",
+                            "localname": "Tumul_1",
                             "longitude": null,
                             "latitude": null,
                             "label": "Aldeia",
