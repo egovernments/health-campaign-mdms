@@ -18,6 +18,65 @@
         "code": "mz",
         "children": [
           {
+            "id": "test_id_1",
+            "boundaryNum": 2,
+            "name": "Tumul_1",
+            "localname": "Tumul_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "test_id_1",
+            "children": [
+              {
+                "id": "test_id_2",
+                "boundaryNum": 3,
+                "name": "TEST_2",
+                "localname": "TEST_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "test_id_2",
+                "children": [
+                  {
+                    "id": "test_id_3",
+                    "boundaryNum": 4,
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "test_id_3",
+                    "children": [
+                      {
+                        "id": "test_id_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "test_id_4",
+                        "children": [
+                          {
+                            "id": "test_id_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "test_id_5",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": "test_id_6",
             "boundaryNum": 2,
             "name": "TEST_1",
@@ -8940,17 +8999,6 @@
                             "children": []
                           },
                           {
-                            "id": "WjFBKUzmwf4",
-                            "boundaryNum": 6,
-                            "name": "LALAUA",
-                            "localname": "LALAUA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "WjFBKUzmwf4",
-                            "children": []
-                          },
-                          {
                             "id": "KfcAbLN96Zo",
                             "boundaryNum": 6,
                             "name": "MOCHIWA  ",
@@ -8970,50 +9018,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "W8PvznEXMPp",
-                            "children": []
-                          },
-                          {
-                            "id": "SkaHnfrQxJz",
-                            "boundaryNum": 6,
-                            "name": "GELO ",
-                            "localname": "GELO ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "SkaHnfrQxJz",
-                            "children": []
-                          },
-                          {
-                            "id": "g5qD3njsFC9",
-                            "boundaryNum": 6,
-                            "name": "NAKHAI",
-                            "localname": "NAKHAI",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "g5qD3njsFC9",
-                            "children": []
-                          },
-                          {
-                            "id": "xSxyao6yQOc",
-                            "boundaryNum": 6,
-                            "name": "MUCUASSA",
-                            "localname": "MUCUASSA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "xSxyao6yQOc",
-                            "children": []
-                          },
-                          {
-                            "id": "keuuM1zwhSw",
-                            "boundaryNum": 6,
-                            "name": "NAMAZENE",
-                            "localname": "NAMAZENE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "keuuM1zwhSw",
                             "children": []
                           },
                           {
@@ -9039,17 +9043,6 @@
                             "children": []
                           },
                           {
-                            "id": "pn5PLQWnXGL",
-                            "boundaryNum": 6,
-                            "name": "MUTEQUERA  ",
-                            "localname": "MUTEQUERA  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "pn5PLQWnXGL",
-                            "children": []
-                          },
-                          {
                             "id": "mafej3e4eva",
                             "boundaryNum": 6,
                             "name": "NAMANHIMPIRE",
@@ -9072,50 +9065,6 @@
                             "children": []
                           },
                           {
-                            "id": "tez67ukeCMR",
-                            "boundaryNum": 6,
-                            "name": "NAMICHEIA  ",
-                            "localname": "NAMICHEIA  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "tez67ukeCMR",
-                            "children": []
-                          },
-                          {
-                            "id": "cqQMJjsExFY",
-                            "boundaryNum": 6,
-                            "name": "MASSIRISSA",
-                            "localname": "MASSIRISSA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "cqQMJjsExFY",
-                            "children": []
-                          },
-                          {
-                            "id": "YyaLIt6oEcE",
-                            "boundaryNum": 6,
-                            "name": "NAMAQUETE B  ",
-                            "localname": "NAMAQUETE B  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "YyaLIt6oEcE",
-                            "children": []
-                          },
-                          {
-                            "id": "OYLYoBaxta5",
-                            "boundaryNum": 6,
-                            "name": "CHACANE ",
-                            "localname": "CHACANE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "OYLYoBaxta5",
-                            "children": []
-                          },
-                          {
                             "id": "vMJjC3MtL93",
                             "boundaryNum": 6,
                             "name": "MURIWANE",
@@ -9135,28 +9084,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "lAKnj51TkaH",
-                            "children": []
-                          },
-                          {
-                            "id": "McWfOtnJJFT",
-                            "boundaryNum": 6,
-                            "name": "NAITACA",
-                            "localname": "NAITACA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "McWfOtnJJFT",
-                            "children": []
-                          },
-                          {
-                            "id": "pv2I9HWGy9l",
-                            "boundaryNum": 6,
-                            "name": "KHUTUNE",
-                            "localname": "KHUTUNE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "pv2I9HWGy9l",
                             "children": []
                           },
                           {
@@ -9204,17 +9131,6 @@
                             "children": []
                           },
                           {
-                            "id": "V5ntv7lcLGY",
-                            "boundaryNum": 6,
-                            "name": "LUCI",
-                            "localname": "LUCI",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "V5ntv7lcLGY",
-                            "children": []
-                          },
-                          {
                             "id": "qQKdqAiMz7b",
                             "boundaryNum": 6,
                             "name": "NATIGE",
@@ -9223,6 +9139,215 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "qQKdqAiMz7b",
+                            "children": []
+                          },
+                          {
+                            "id": "mIGXwVdTmJQ",
+                            "boundaryNum": 6,
+                            "name": "TIPONHA",
+                            "localname": "TIPONHA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "mIGXwVdTmJQ",
+                            "children": []
+                          },
+                          {
+                            "id": "bWtsWjeQlQ2",
+                            "boundaryNum": 6,
+                            "name": "NAMARATHA MAILE",
+                            "localname": "NAMARATHA MAILE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "bWtsWjeQlQ2",
+                            "children": []
+                          },
+                          {
+                            "id": "LWJuvmKvgpl",
+                            "boundaryNum": 6,
+                            "name": "CUNLE  ",
+                            "localname": "CUNLE  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "LWJuvmKvgpl",
+                            "children": []
+                          },
+                          {
+                            "id": "pKrJD8dFqAX",
+                            "boundaryNum": 6,
+                            "name": "NAMAQUETE A ",
+                            "localname": "NAMAQUETE A ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "pKrJD8dFqAX",
+                            "children": []
+                          },
+                          {
+                            "id": "uw7uzriHgo7",
+                            "boundaryNum": 6,
+                            "name": "NAHAJE",
+                            "localname": "NAHAJE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "uw7uzriHgo7",
+                            "children": []
+                          },
+                          {
+                            "id": "DsTXvLo2lZ8",
+                            "boundaryNum": 6,
+                            "name": "NACHILUA ",
+                            "localname": "NACHILUA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "DsTXvLo2lZ8",
+                            "children": []
+                          },
+                          {
+                            "id": "WjFBKUzmwf4",
+                            "boundaryNum": 6,
+                            "name": "LALAUA",
+                            "localname": "LALAUA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "WjFBKUzmwf4",
+                            "children": []
+                          },
+                          {
+                            "id": "SkaHnfrQxJz",
+                            "boundaryNum": 6,
+                            "name": "GELO ",
+                            "localname": "GELO ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "SkaHnfrQxJz",
+                            "children": []
+                          },
+                          {
+                            "id": "g5qD3njsFC9",
+                            "boundaryNum": 6,
+                            "name": "NAKHAI",
+                            "localname": "NAKHAI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "g5qD3njsFC9",
+                            "children": []
+                          },
+                          {
+                            "id": "xSxyao6yQOc",
+                            "boundaryNum": 6,
+                            "name": "MUCUASSA",
+                            "localname": "MUCUASSA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "xSxyao6yQOc",
+                            "children": []
+                          },
+                          {
+                            "id": "keuuM1zwhSw",
+                            "boundaryNum": 6,
+                            "name": "NAMAZENE",
+                            "localname": "NAMAZENE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "keuuM1zwhSw",
+                            "children": []
+                          },
+                          {
+                            "id": "pn5PLQWnXGL",
+                            "boundaryNum": 6,
+                            "name": "MUTEQUERA  ",
+                            "localname": "MUTEQUERA  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "pn5PLQWnXGL",
+                            "children": []
+                          },
+                          {
+                            "id": "tez67ukeCMR",
+                            "boundaryNum": 6,
+                            "name": "NAMICHEIA  ",
+                            "localname": "NAMICHEIA  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "tez67ukeCMR",
+                            "children": []
+                          },
+                          {
+                            "id": "cqQMJjsExFY",
+                            "boundaryNum": 6,
+                            "name": "MASSIRISSA",
+                            "localname": "MASSIRISSA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "cqQMJjsExFY",
+                            "children": []
+                          },
+                          {
+                            "id": "YyaLIt6oEcE",
+                            "boundaryNum": 6,
+                            "name": "NAMAQUETE B  ",
+                            "localname": "NAMAQUETE B  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "YyaLIt6oEcE",
+                            "children": []
+                          },
+                          {
+                            "id": "OYLYoBaxta5",
+                            "boundaryNum": 6,
+                            "name": "CHACANE ",
+                            "localname": "CHACANE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "OYLYoBaxta5",
+                            "children": []
+                          },
+                          {
+                            "id": "McWfOtnJJFT",
+                            "boundaryNum": 6,
+                            "name": "NAITACA",
+                            "localname": "NAITACA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "McWfOtnJJFT",
+                            "children": []
+                          },
+                          {
+                            "id": "pv2I9HWGy9l",
+                            "boundaryNum": 6,
+                            "name": "KHUTUNE",
+                            "localname": "KHUTUNE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "pv2I9HWGy9l",
+                            "children": []
+                          },
+                          {
+                            "id": "V5ntv7lcLGY",
+                            "boundaryNum": 6,
+                            "name": "LUCI",
+                            "localname": "LUCI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "V5ntv7lcLGY",
                             "children": []
                           },
                           {
@@ -9270,17 +9395,6 @@
                             "children": []
                           },
                           {
-                            "id": "mIGXwVdTmJQ",
-                            "boundaryNum": 6,
-                            "name": "TIPONHA",
-                            "localname": "TIPONHA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "mIGXwVdTmJQ",
-                            "children": []
-                          },
-                          {
                             "id": "SRc4mLOdErp",
                             "boundaryNum": 6,
                             "name": "MIROPO ",
@@ -9314,17 +9428,6 @@
                             "children": []
                           },
                           {
-                            "id": "bWtsWjeQlQ2",
-                            "boundaryNum": 6,
-                            "name": "NAMARATHA MAILE",
-                            "localname": "NAMARATHA MAILE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "bWtsWjeQlQ2",
-                            "children": []
-                          },
-                          {
                             "id": "azeNjliQnJh",
                             "boundaryNum": 6,
                             "name": "MUSSACANE   ",
@@ -9336,39 +9439,6 @@
                             "children": []
                           },
                           {
-                            "id": "LWJuvmKvgpl",
-                            "boundaryNum": 6,
-                            "name": "CUNLE  ",
-                            "localname": "CUNLE  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "LWJuvmKvgpl",
-                            "children": []
-                          },
-                          {
-                            "id": "pKrJD8dFqAX",
-                            "boundaryNum": 6,
-                            "name": "NAMAQUETE A ",
-                            "localname": "NAMAQUETE A ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "pKrJD8dFqAX",
-                            "children": []
-                          },
-                          {
-                            "id": "uw7uzriHgo7",
-                            "boundaryNum": 6,
-                            "name": "NAHAJE",
-                            "localname": "NAHAJE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "uw7uzriHgo7",
-                            "children": []
-                          },
-                          {
                             "id": "lQtZUZ4bnU1",
                             "boundaryNum": 6,
                             "name": "NAKWALE",
@@ -9377,17 +9447,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "lQtZUZ4bnU1",
-                            "children": []
-                          },
-                          {
-                            "id": "DsTXvLo2lZ8",
-                            "boundaryNum": 6,
-                            "name": "NACHILUA ",
-                            "localname": "NACHILUA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "DsTXvLo2lZ8",
                             "children": []
                           },
                           {
@@ -15758,6 +15817,62 @@
                         ]
                       },
                       {
+                        "id": "GWGzcqCNeHQ",
+                        "boundaryNum": 5,
+                        "name": "NAMILA",
+                        "localname": "NAMILA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "GWGzcqCNeHQ",
+                        "children": [
+                          {
+                            "id": "ziHolNk3gjw",
+                            "boundaryNum": 6,
+                            "name": "MILOVO",
+                            "localname": "MILOVO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ziHolNk3gjw",
+                            "children": []
+                          },
+                          {
+                            "id": "OMFnFEbbFNr",
+                            "boundaryNum": 6,
+                            "name": "NARAPONE",
+                            "localname": "NARAPONE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "OMFnFEbbFNr",
+                            "children": []
+                          },
+                          {
+                            "id": "OnE4vujT7cg",
+                            "boundaryNum": 6,
+                            "name": "SALAMUA",
+                            "localname": "SALAMUA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "OnE4vujT7cg",
+                            "children": []
+                          },
+                          {
+                            "id": "yVwfWA55h0t",
+                            "boundaryNum": 6,
+                            "name": "NAMILA",
+                            "localname": "NAMILA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "yVwfWA55h0t",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
                         "id": "qfVwCg8iV2Y",
                         "boundaryNum": 5,
                         "name": "MUCHICO",
@@ -16099,6 +16214,17 @@
                         "code": "WIGcMsK7srb",
                         "children": [
                           {
+                            "id": "Z3Nm7XQaEIh",
+                            "boundaryNum": 6,
+                            "name": "MAUZA",
+                            "localname": "MAUZA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Z3Nm7XQaEIh",
+                            "children": []
+                          },
+                          {
                             "id": "ds8vIk7dQ5N",
                             "boundaryNum": 6,
                             "name": "CONDOLA",
@@ -16121,17 +16247,6 @@
                             "children": []
                           },
                           {
-                            "id": "Z3Nm7XQaEIh",
-                            "boundaryNum": 6,
-                            "name": "MAUZA",
-                            "localname": "MAUZA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Z3Nm7XQaEIh",
-                            "children": []
-                          },
-                          {
                             "id": "G8Yz7POJxVN",
                             "boundaryNum": 6,
                             "name": "NAMITALE",
@@ -16140,62 +16255,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "G8Yz7POJxVN",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "GWGzcqCNeHQ",
-                        "boundaryNum": 5,
-                        "name": "NAMILA",
-                        "localname": "NAMILA",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "GWGzcqCNeHQ",
-                        "children": [
-                          {
-                            "id": "ziHolNk3gjw",
-                            "boundaryNum": 6,
-                            "name": "MILOVO",
-                            "localname": "MILOVO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ziHolNk3gjw",
-                            "children": []
-                          },
-                          {
-                            "id": "OMFnFEbbFNr",
-                            "boundaryNum": 6,
-                            "name": "NARAPONE",
-                            "localname": "NARAPONE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "OMFnFEbbFNr",
-                            "children": []
-                          },
-                          {
-                            "id": "OnE4vujT7cg",
-                            "boundaryNum": 6,
-                            "name": "SALAMUA",
-                            "localname": "SALAMUA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "OnE4vujT7cg",
-                            "children": []
-                          },
-                          {
-                            "id": "yVwfWA55h0t",
-                            "boundaryNum": 6,
-                            "name": "NAMILA",
-                            "localname": "NAMILA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "yVwfWA55h0t",
                             "children": []
                           }
                         ]
@@ -16510,28 +16569,6 @@
                         "code": "kfhxWfHtSO1",
                         "children": [
                           {
-                            "id": "pslbURaeotG",
-                            "boundaryNum": 6,
-                            "name": "NACOROPA",
-                            "localname": "NACOROPA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "pslbURaeotG",
-                            "children": []
-                          },
-                          {
-                            "id": "dMceRyroQMT",
-                            "boundaryNum": 6,
-                            "name": "HACAIENE",
-                            "localname": "HACAIENE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "dMceRyroQMT",
-                            "children": []
-                          },
-                          {
                             "id": "VjHmxQ8kjcx",
                             "boundaryNum": 6,
                             "name": "CACURE",
@@ -16562,6 +16599,28 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "MUuauNmkFoE",
+                            "children": []
+                          },
+                          {
+                            "id": "pslbURaeotG",
+                            "boundaryNum": 6,
+                            "name": "NACOROPA",
+                            "localname": "NACOROPA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "pslbURaeotG",
+                            "children": []
+                          },
+                          {
+                            "id": "dMceRyroQMT",
+                            "boundaryNum": 6,
+                            "name": "HACAIENE",
+                            "localname": "HACAIENE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "dMceRyroQMT",
                             "children": []
                           }
                         ]
@@ -19820,17 +19879,6 @@
                         "code": "m7uRlttjbif",
                         "children": [
                           {
-                            "id": "WsLCNkyAxkq",
-                            "boundaryNum": 6,
-                            "name": "HALA",
-                            "localname": "HALA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "WsLCNkyAxkq",
-                            "children": []
-                          },
-                          {
                             "id": "Q6pKH9Rd6TJ",
                             "boundaryNum": 6,
                             "name": "NAMAQUETE",
@@ -19839,6 +19887,72 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "Q6pKH9Rd6TJ",
+                            "children": []
+                          },
+                          {
+                            "id": "G2Y6YtbYALu",
+                            "boundaryNum": 6,
+                            "name": "CATAMASSE",
+                            "localname": "CATAMASSE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "G2Y6YtbYALu",
+                            "children": []
+                          },
+                          {
+                            "id": "fWQz5HbDYBu",
+                            "boundaryNum": 6,
+                            "name": "MUTHACULA",
+                            "localname": "MUTHACULA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "fWQz5HbDYBu",
+                            "children": []
+                          },
+                          {
+                            "id": "gvXm9hYchTB",
+                            "boundaryNum": 6,
+                            "name": "BLOCO A",
+                            "localname": "BLOCO A",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "gvXm9hYchTB",
+                            "children": []
+                          },
+                          {
+                            "id": "ktC0I7mSteT",
+                            "boundaryNum": 6,
+                            "name": "MUAGOTHAIA",
+                            "localname": "MUAGOTHAIA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ktC0I7mSteT",
+                            "children": []
+                          },
+                          {
+                            "id": "WI8DamfVPcM",
+                            "boundaryNum": 6,
+                            "name": "NAQUAIAIA",
+                            "localname": "NAQUAIAIA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "WI8DamfVPcM",
+                            "children": []
+                          },
+                          {
+                            "id": "WsLCNkyAxkq",
+                            "boundaryNum": 6,
+                            "name": "HALA",
+                            "localname": "HALA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "WsLCNkyAxkq",
                             "children": []
                           },
                           {
@@ -19861,17 +19975,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "PUMkxnLIMNw",
-                            "children": []
-                          },
-                          {
-                            "id": "G2Y6YtbYALu",
-                            "boundaryNum": 6,
-                            "name": "CATAMASSE",
-                            "localname": "CATAMASSE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "G2Y6YtbYALu",
                             "children": []
                           },
                           {
@@ -19908,28 +20011,6 @@
                             "children": []
                           },
                           {
-                            "id": "fWQz5HbDYBu",
-                            "boundaryNum": 6,
-                            "name": "MUTHACULA",
-                            "localname": "MUTHACULA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "fWQz5HbDYBu",
-                            "children": []
-                          },
-                          {
-                            "id": "gvXm9hYchTB",
-                            "boundaryNum": 6,
-                            "name": "BLOCO A",
-                            "localname": "BLOCO A",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "gvXm9hYchTB",
-                            "children": []
-                          },
-                          {
                             "id": "Usb3ICUQFua",
                             "boundaryNum": 6,
                             "name": "MUANHASSA",
@@ -19963,17 +20044,6 @@
                             "children": []
                           },
                           {
-                            "id": "ktC0I7mSteT",
-                            "boundaryNum": 6,
-                            "name": "MUAGOTHAIA",
-                            "localname": "MUAGOTHAIA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ktC0I7mSteT",
-                            "children": []
-                          },
-                          {
                             "id": "DkEsIqCKSO3",
                             "boundaryNum": 6,
                             "name": "MINHARI",
@@ -19982,17 +20052,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "DkEsIqCKSO3",
-                            "children": []
-                          },
-                          {
-                            "id": "WI8DamfVPcM",
-                            "boundaryNum": 6,
-                            "name": "NAQUAIAIA",
-                            "localname": "NAQUAIAIA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "WI8DamfVPcM",
                             "children": []
                           },
                           {
@@ -21611,28 +21670,6 @@
                         "code": "ZZsmfPL7Sgm",
                         "children": [
                           {
-                            "id": "EBCO5SgklNR",
-                            "boundaryNum": 6,
-                            "name": "MUALUA",
-                            "localname": "MUALUA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "EBCO5SgklNR",
-                            "children": []
-                          },
-                          {
-                            "id": "H4af6ZWfUL7",
-                            "boundaryNum": 6,
-                            "name": "QUERIMANE",
-                            "localname": "QUERIMANE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "H4af6ZWfUL7",
-                            "children": []
-                          },
-                          {
                             "id": "uNfJpFfwiQ6",
                             "boundaryNum": 6,
                             "name": "MELULI 1",
@@ -21641,17 +21678,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "uNfJpFfwiQ6",
-                            "children": []
-                          },
-                          {
-                            "id": "HVchisfgDIX",
-                            "boundaryNum": 6,
-                            "name": "UNIDADE MOCAMBICANA",
-                            "localname": "UNIDADE MOCAMBICANA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "HVchisfgDIX",
                             "children": []
                           },
                           {
@@ -21685,6 +21711,105 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "HgHDKGD47Dj",
+                            "children": []
+                          },
+                          {
+                            "id": "Oeg0HeCB0OP",
+                            "boundaryNum": 6,
+                            "name": "NACUTHO 2",
+                            "localname": "NACUTHO 2",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Oeg0HeCB0OP",
+                            "children": []
+                          },
+                          {
+                            "id": "mH0dBlC4moa",
+                            "boundaryNum": 6,
+                            "name": "RATANE DE NAMINA",
+                            "localname": "RATANE DE NAMINA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "mH0dBlC4moa",
+                            "children": []
+                          },
+                          {
+                            "id": "JGUNBvfggWM",
+                            "boundaryNum": 6,
+                            "name": "NATUCO",
+                            "localname": "NATUCO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "JGUNBvfggWM",
+                            "children": []
+                          },
+                          {
+                            "id": "kPrUr0Ad2B3",
+                            "boundaryNum": 6,
+                            "name": "NACULUE",
+                            "localname": "NACULUE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kPrUr0Ad2B3",
+                            "children": []
+                          },
+                          {
+                            "id": "N6F8UXXjThV",
+                            "boundaryNum": 6,
+                            "name": "NABILA",
+                            "localname": "NABILA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "N6F8UXXjThV",
+                            "children": []
+                          },
+                          {
+                            "id": "Im4zj3MRByT",
+                            "boundaryNum": 6,
+                            "name": "NACHILAPA",
+                            "localname": "NACHILAPA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Im4zj3MRByT",
+                            "children": []
+                          },
+                          {
+                            "id": "EBCO5SgklNR",
+                            "boundaryNum": 6,
+                            "name": "MUALUA",
+                            "localname": "MUALUA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "EBCO5SgklNR",
+                            "children": []
+                          },
+                          {
+                            "id": "H4af6ZWfUL7",
+                            "boundaryNum": 6,
+                            "name": "QUERIMANE",
+                            "localname": "QUERIMANE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "H4af6ZWfUL7",
+                            "children": []
+                          },
+                          {
+                            "id": "HVchisfgDIX",
+                            "boundaryNum": 6,
+                            "name": "UNIDADE MOCAMBICANA",
+                            "localname": "UNIDADE MOCAMBICANA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "HVchisfgDIX",
                             "children": []
                           },
                           {
@@ -21754,50 +21879,6 @@
                             "children": []
                           },
                           {
-                            "id": "Oeg0HeCB0OP",
-                            "boundaryNum": 6,
-                            "name": "NACUTHO 2",
-                            "localname": "NACUTHO 2",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Oeg0HeCB0OP",
-                            "children": []
-                          },
-                          {
-                            "id": "mH0dBlC4moa",
-                            "boundaryNum": 6,
-                            "name": "RATANE DE NAMINA",
-                            "localname": "RATANE DE NAMINA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "mH0dBlC4moa",
-                            "children": []
-                          },
-                          {
-                            "id": "JGUNBvfggWM",
-                            "boundaryNum": 6,
-                            "name": "NATUCO",
-                            "localname": "NATUCO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "JGUNBvfggWM",
-                            "children": []
-                          },
-                          {
-                            "id": "kPrUr0Ad2B3",
-                            "boundaryNum": 6,
-                            "name": "NACULUE",
-                            "localname": "NACULUE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "kPrUr0Ad2B3",
-                            "children": []
-                          },
-                          {
                             "id": "Ms0N8FU5pND",
                             "boundaryNum": 6,
                             "name": "MUCUILI",
@@ -21820,17 +21901,6 @@
                             "children": []
                           },
                           {
-                            "id": "N6F8UXXjThV",
-                            "boundaryNum": 6,
-                            "name": "NABILA",
-                            "localname": "NABILA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "N6F8UXXjThV",
-                            "children": []
-                          },
-                          {
                             "id": "q7U1PUcxZkn",
                             "boundaryNum": 6,
                             "name": "RATANE",
@@ -21850,17 +21920,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "TsMqZ1XKnDe",
-                            "children": []
-                          },
-                          {
-                            "id": "Im4zj3MRByT",
-                            "boundaryNum": 6,
-                            "name": "NACHILAPA",
-                            "localname": "NACHILAPA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Im4zj3MRByT",
                             "children": []
                           }
                         ]
@@ -22898,28 +22957,6 @@
                     "code": "Z9SJ8oXKazA",
                     "children": [
                       {
-                        "id": "j3hHvnEuCyf",
-                        "boundaryNum": 5,
-                        "name": "NAYULA",
-                        "localname": "NAYULA",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "j3hHvnEuCyf",
-                        "children": []
-                      },
-                      {
-                        "id": "z3mzNuxYGVi",
-                        "boundaryNum": 5,
-                        "name": "HACABUR",
-                        "localname": "HACABUR",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "z3mzNuxYGVi",
-                        "children": []
-                      },
-                      {
                         "id": "eHmkpBvtvCj",
                         "boundaryNum": 5,
                         "name": "CHIHIQUE",
@@ -22964,28 +23001,6 @@
                         "children": []
                       },
                       {
-                        "id": "a8lvbK8dMO2",
-                        "boundaryNum": 5,
-                        "name": "NIPUTHA",
-                        "localname": "NIPUTHA",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "a8lvbK8dMO2",
-                        "children": []
-                      },
-                      {
-                        "id": "bJ9n4noRWT5",
-                        "boundaryNum": 5,
-                        "name": "MINHANHA",
-                        "localname": "MINHANHA",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "bJ9n4noRWT5",
-                        "children": []
-                      },
-                      {
                         "id": "e9FJMXzxHJH",
                         "boundaryNum": 5,
                         "name": "MUCUANZE",
@@ -22997,50 +23012,6 @@
                         "children": []
                       },
                       {
-                        "id": "xoi23JNR3o9",
-                        "boundaryNum": 5,
-                        "name": "MUNTEMWA",
-                        "localname": "MUNTEMWA",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "xoi23JNR3o9",
-                        "children": []
-                      },
-                      {
-                        "id": "WhfHMDc5I0e",
-                        "boundaryNum": 5,
-                        "name": "PAVALA",
-                        "localname": "PAVALA",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "WhfHMDc5I0e",
-                        "children": []
-                      },
-                      {
-                        "id": "hR8Pj3J4MTC",
-                        "boundaryNum": 5,
-                        "name": "MITOPUE",
-                        "localname": "MITOPUE",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "hR8Pj3J4MTC",
-                        "children": []
-                      },
-                      {
-                        "id": "iWxm7Fw7pQL",
-                        "boundaryNum": 5,
-                        "name": "KACA",
-                        "localname": "KACA",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "iWxm7Fw7pQL",
-                        "children": []
-                      },
-                      {
                         "id": "Mz5dAsWV6wF",
                         "boundaryNum": 5,
                         "name": "PAMPAZA",
@@ -23049,17 +23020,6 @@
                         "latitude": null,
                         "label": "Localidade",
                         "code": "Mz5dAsWV6wF",
-                        "children": []
-                      },
-                      {
-                        "id": "SP3UsaeK5DU",
-                        "boundaryNum": 5,
-                        "name": "NAPALAVE",
-                        "localname": "NAPALAVE",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "SP3UsaeK5DU",
                         "children": []
                       },
                       {
@@ -23107,6 +23067,105 @@
                         "children": []
                       },
                       {
+                        "id": "j3hHvnEuCyf",
+                        "boundaryNum": 5,
+                        "name": "NAYULA",
+                        "localname": "NAYULA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "j3hHvnEuCyf",
+                        "children": []
+                      },
+                      {
+                        "id": "z3mzNuxYGVi",
+                        "boundaryNum": 5,
+                        "name": "HACABUR",
+                        "localname": "HACABUR",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "z3mzNuxYGVi",
+                        "children": []
+                      },
+                      {
+                        "id": "a8lvbK8dMO2",
+                        "boundaryNum": 5,
+                        "name": "NIPUTHA",
+                        "localname": "NIPUTHA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "a8lvbK8dMO2",
+                        "children": []
+                      },
+                      {
+                        "id": "bJ9n4noRWT5",
+                        "boundaryNum": 5,
+                        "name": "MINHANHA",
+                        "localname": "MINHANHA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "bJ9n4noRWT5",
+                        "children": []
+                      },
+                      {
+                        "id": "xoi23JNR3o9",
+                        "boundaryNum": 5,
+                        "name": "MUNTEMWA",
+                        "localname": "MUNTEMWA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "xoi23JNR3o9",
+                        "children": []
+                      },
+                      {
+                        "id": "WhfHMDc5I0e",
+                        "boundaryNum": 5,
+                        "name": "PAVALA",
+                        "localname": "PAVALA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "WhfHMDc5I0e",
+                        "children": []
+                      },
+                      {
+                        "id": "hR8Pj3J4MTC",
+                        "boundaryNum": 5,
+                        "name": "MITOPUE",
+                        "localname": "MITOPUE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "hR8Pj3J4MTC",
+                        "children": []
+                      },
+                      {
+                        "id": "iWxm7Fw7pQL",
+                        "boundaryNum": 5,
+                        "name": "KACA",
+                        "localname": "KACA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "iWxm7Fw7pQL",
+                        "children": []
+                      },
+                      {
+                        "id": "SP3UsaeK5DU",
+                        "boundaryNum": 5,
+                        "name": "NAPALAVE",
+                        "localname": "NAPALAVE",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "SP3UsaeK5DU",
+                        "children": []
+                      },
+                      {
                         "id": "PCaXRpv2npN",
                         "boundaryNum": 5,
                         "name": "MUNARE",
@@ -23140,17 +23199,6 @@
                         "code": "ZYnzjG2KjVr",
                         "children": [
                           {
-                            "id": "s5mxV38AyeU",
-                            "boundaryNum": 6,
-                            "name": "MEJUVE",
-                            "localname": "MEJUVE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "s5mxV38AyeU",
-                            "children": []
-                          },
-                          {
                             "id": "nNenZI77rlf",
                             "boundaryNum": 6,
                             "name": "CULTUNE",
@@ -23162,39 +23210,6 @@
                             "children": []
                           },
                           {
-                            "id": "dShsB0K77EA",
-                            "boundaryNum": 6,
-                            "name": "NANHAZIA",
-                            "localname": "NANHAZIA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "dShsB0K77EA",
-                            "children": []
-                          },
-                          {
-                            "id": "OJWYgEcsLny",
-                            "boundaryNum": 6,
-                            "name": "MIRENGE3",
-                            "localname": "MIRENGE3",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "OJWYgEcsLny",
-                            "children": []
-                          },
-                          {
-                            "id": "D2NJonoU9SI",
-                            "boundaryNum": 6,
-                            "name": "MITALE",
-                            "localname": "MITALE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "D2NJonoU9SI",
-                            "children": []
-                          },
-                          {
                             "id": "RQzaokO5R8t",
                             "boundaryNum": 6,
                             "name": "TIQUIRA",
@@ -23203,39 +23218,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "RQzaokO5R8t",
-                            "children": []
-                          },
-                          {
-                            "id": "ICrm0Iie6nK",
-                            "boundaryNum": 6,
-                            "name": "TETE",
-                            "localname": "TETE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ICrm0Iie6nK",
-                            "children": []
-                          },
-                          {
-                            "id": "BHh6sQMUIrp",
-                            "boundaryNum": 6,
-                            "name": "THATANE",
-                            "localname": "THATANE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "BHh6sQMUIrp",
-                            "children": []
-                          },
-                          {
-                            "id": "rooTu9dPsYA",
-                            "boundaryNum": 6,
-                            "name": "MURUNTUNE",
-                            "localname": "MURUNTUNE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "rooTu9dPsYA",
                             "children": []
                           },
                           {
@@ -23269,17 +23251,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "VgSsHXtPl3W",
-                            "children": []
-                          },
-                          {
-                            "id": "r2ezXCBcOqj",
-                            "boundaryNum": 6,
-                            "name": "LINHANE",
-                            "localname": "LINHANE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "r2ezXCBcOqj",
                             "children": []
                           },
                           {
@@ -23349,17 +23320,6 @@
                             "children": []
                           },
                           {
-                            "id": "J0Mm6aJVGhI",
-                            "boundaryNum": 6,
-                            "name": "MELIPE",
-                            "localname": "MELIPE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "J0Mm6aJVGhI",
-                            "children": []
-                          },
-                          {
                             "id": "DEK9xBoY5jT",
                             "boundaryNum": 6,
                             "name": "NAQUITICA",
@@ -23368,6 +23328,105 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "DEK9xBoY5jT",
+                            "children": []
+                          },
+                          {
+                            "id": "s5mxV38AyeU",
+                            "boundaryNum": 6,
+                            "name": "MEJUVE",
+                            "localname": "MEJUVE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "s5mxV38AyeU",
+                            "children": []
+                          },
+                          {
+                            "id": "dShsB0K77EA",
+                            "boundaryNum": 6,
+                            "name": "NANHAZIA",
+                            "localname": "NANHAZIA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "dShsB0K77EA",
+                            "children": []
+                          },
+                          {
+                            "id": "OJWYgEcsLny",
+                            "boundaryNum": 6,
+                            "name": "MIRENGE3",
+                            "localname": "MIRENGE3",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "OJWYgEcsLny",
+                            "children": []
+                          },
+                          {
+                            "id": "D2NJonoU9SI",
+                            "boundaryNum": 6,
+                            "name": "MITALE",
+                            "localname": "MITALE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "D2NJonoU9SI",
+                            "children": []
+                          },
+                          {
+                            "id": "ICrm0Iie6nK",
+                            "boundaryNum": 6,
+                            "name": "TETE",
+                            "localname": "TETE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ICrm0Iie6nK",
+                            "children": []
+                          },
+                          {
+                            "id": "BHh6sQMUIrp",
+                            "boundaryNum": 6,
+                            "name": "THATANE",
+                            "localname": "THATANE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "BHh6sQMUIrp",
+                            "children": []
+                          },
+                          {
+                            "id": "rooTu9dPsYA",
+                            "boundaryNum": 6,
+                            "name": "MURUNTUNE",
+                            "localname": "MURUNTUNE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "rooTu9dPsYA",
+                            "children": []
+                          },
+                          {
+                            "id": "r2ezXCBcOqj",
+                            "boundaryNum": 6,
+                            "name": "LINHANE",
+                            "localname": "LINHANE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "r2ezXCBcOqj",
+                            "children": []
+                          },
+                          {
+                            "id": "J0Mm6aJVGhI",
+                            "boundaryNum": 6,
+                            "name": "MELIPE",
+                            "localname": "MELIPE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "J0Mm6aJVGhI",
                             "children": []
                           },
                           {
@@ -40210,17 +40269,6 @@
                         "code": "fr2yUhv22S2",
                         "children": [
                           {
-                            "id": "zCyF3T49Ykk",
-                            "boundaryNum": 6,
-                            "name": "PRAIA MACHO",
-                            "localname": "PRAIA MACHO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "zCyF3T49Ykk",
-                            "children": []
-                          },
-                          {
                             "id": "i2MOeHgUixK",
                             "boundaryNum": 6,
                             "name": "QUISSANGA",
@@ -40251,28 +40299,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "sUPh1nLq3PY",
-                            "children": []
-                          },
-                          {
-                            "id": "UErVsL4DpEr",
-                            "boundaryNum": 6,
-                            "name": "BUZIO",
-                            "localname": "BUZIO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "UErVsL4DpEr",
-                            "children": []
-                          },
-                          {
-                            "id": "g8TaCeluv4Y",
-                            "boundaryNum": 6,
-                            "name": "BAIRRO CENTRAL B",
-                            "localname": "BAIRRO CENTRAL B",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "g8TaCeluv4Y",
                             "children": []
                           },
                           {
@@ -40318,6 +40344,39 @@
                             "label": "Aldeia",
                             "code": "qlbggDGRlh5",
                             "children": []
+                          },
+                          {
+                            "id": "zCyF3T49Ykk",
+                            "boundaryNum": 6,
+                            "name": "PRAIA MACHO",
+                            "localname": "PRAIA MACHO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "zCyF3T49Ykk",
+                            "children": []
+                          },
+                          {
+                            "id": "UErVsL4DpEr",
+                            "boundaryNum": 6,
+                            "name": "BUZIO",
+                            "localname": "BUZIO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "UErVsL4DpEr",
+                            "children": []
+                          },
+                          {
+                            "id": "g8TaCeluv4Y",
+                            "boundaryNum": 6,
+                            "name": "BAIRRO CENTRAL B",
+                            "localname": "BAIRRO CENTRAL B",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "g8TaCeluv4Y",
+                            "children": []
                           }
                         ]
                       },
@@ -40331,6 +40390,50 @@
                         "label": "Localidade",
                         "code": "y0QImvYI2iw",
                         "children": [
+                          {
+                            "id": "u5I2zh210cE",
+                            "boundaryNum": 6,
+                            "name": "NANTAPA",
+                            "localname": "NANTAPA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "u5I2zh210cE",
+                            "children": []
+                          },
+                          {
+                            "id": "rWyD7cZgaSN",
+                            "boundaryNum": 6,
+                            "name": "BAIRRO TOPA SEDE",
+                            "localname": "BAIRRO TOPA SEDE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "rWyD7cZgaSN",
+                            "children": []
+                          },
+                          {
+                            "id": "pnTXe3o3bbk",
+                            "boundaryNum": 6,
+                            "name": "MULAPANIA",
+                            "localname": "MULAPANIA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "pnTXe3o3bbk",
+                            "children": []
+                          },
+                          {
+                            "id": "b0yhHyRxRMm",
+                            "boundaryNum": 6,
+                            "name": "NAPRUMA",
+                            "localname": "NAPRUMA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "b0yhHyRxRMm",
+                            "children": []
+                          },
                           {
                             "id": "aabeQxubmDT",
                             "boundaryNum": 6,
@@ -40365,17 +40468,6 @@
                             "children": []
                           },
                           {
-                            "id": "u5I2zh210cE",
-                            "boundaryNum": 6,
-                            "name": "NANTAPA",
-                            "localname": "NANTAPA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "u5I2zh210cE",
-                            "children": []
-                          },
-                          {
                             "id": "W6iceN0bqh7",
                             "boundaryNum": 6,
                             "name": "NAGONHA",
@@ -40398,28 +40490,6 @@
                             "children": []
                           },
                           {
-                            "id": "rWyD7cZgaSN",
-                            "boundaryNum": 6,
-                            "name": "BAIRRO TOPA SEDE",
-                            "localname": "BAIRRO TOPA SEDE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "rWyD7cZgaSN",
-                            "children": []
-                          },
-                          {
-                            "id": "pnTXe3o3bbk",
-                            "boundaryNum": 6,
-                            "name": "MULAPANIA",
-                            "localname": "MULAPANIA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "pnTXe3o3bbk",
-                            "children": []
-                          },
-                          {
                             "id": "wLzGYkQQCof",
                             "boundaryNum": 6,
                             "name": "MUICURINE",
@@ -40428,17 +40498,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "wLzGYkQQCof",
-                            "children": []
-                          },
-                          {
-                            "id": "b0yhHyRxRMm",
-                            "boundaryNum": 6,
-                            "name": "NAPRUMA",
-                            "localname": "NAPRUMA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "b0yhHyRxRMm",
                             "children": []
                           }
                         ]
@@ -42388,17 +42447,6 @@
                             "children": []
                           },
                           {
-                            "id": "ovRMuTwHghY",
-                            "boundaryNum": 6,
-                            "name": "MUERAUERA",
-                            "localname": "MUERAUERA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ovRMuTwHghY",
-                            "children": []
-                          },
-                          {
                             "id": "b98qXkBCuWJ",
                             "boundaryNum": 6,
                             "name": "MICOTINE A",
@@ -42407,28 +42455,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "b98qXkBCuWJ",
-                            "children": []
-                          },
-                          {
-                            "id": "aa7uPFoZ5Td",
-                            "boundaryNum": 6,
-                            "name": "MUCUALI",
-                            "localname": "MUCUALI",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "aa7uPFoZ5Td",
-                            "children": []
-                          },
-                          {
-                            "id": "PpFDPKc8s3B",
-                            "boundaryNum": 6,
-                            "name": "PARTA SEDE ",
-                            "localname": "PARTA SEDE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "PpFDPKc8s3B",
                             "children": []
                           },
                           {
@@ -42443,17 +42469,6 @@
                             "children": []
                           },
                           {
-                            "id": "Cs7IaQCWa2k",
-                            "boundaryNum": 6,
-                            "name": "NAPAURE",
-                            "localname": "NAPAURE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Cs7IaQCWa2k",
-                            "children": []
-                          },
-                          {
                             "id": "sbjvdxmlTcn",
                             "boundaryNum": 6,
                             "name": "4 CAMINHO ",
@@ -42465,28 +42480,6 @@
                             "children": []
                           },
                           {
-                            "id": "VHjesSNaR6z",
-                            "boundaryNum": 6,
-                            "name": "SITUNI",
-                            "localname": "SITUNI",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "VHjesSNaR6z",
-                            "children": []
-                          },
-                          {
-                            "id": "xgaMousRSuR",
-                            "boundaryNum": 6,
-                            "name": "NAHAVARA",
-                            "localname": "NAHAVARA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "xgaMousRSuR",
-                            "children": []
-                          },
-                          {
                             "id": "qa0h4MfmETO",
                             "boundaryNum": 6,
                             "name": "MUREQUELE",
@@ -42495,17 +42488,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "qa0h4MfmETO",
-                            "children": []
-                          },
-                          {
-                            "id": "ZqMdTiwY32P",
-                            "boundaryNum": 6,
-                            "name": "NOTANE ",
-                            "localname": "NOTANE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ZqMdTiwY32P",
                             "children": []
                           },
                           {
@@ -42542,17 +42524,6 @@
                             "children": []
                           },
                           {
-                            "id": "vCcZN9p9Jjv",
-                            "boundaryNum": 6,
-                            "name": "MULAPANIA",
-                            "localname": "MULAPANIA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "vCcZN9p9Jjv",
-                            "children": []
-                          },
-                          {
                             "id": "kyHghiqs6Fk",
                             "boundaryNum": 6,
                             "name": "MARCACAO 2",
@@ -42575,17 +42546,6 @@
                             "children": []
                           },
                           {
-                            "id": "w6sTM4sXFGw",
-                            "boundaryNum": 6,
-                            "name": "NATURA  ",
-                            "localname": "NATURA  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "w6sTM4sXFGw",
-                            "children": []
-                          },
-                          {
                             "id": "IdFMBIPZ0Bf",
                             "boundaryNum": 6,
                             "name": "NASSUCUVA",
@@ -42594,6 +42554,105 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "IdFMBIPZ0Bf",
+                            "children": []
+                          },
+                          {
+                            "id": "ovRMuTwHghY",
+                            "boundaryNum": 6,
+                            "name": "MUERAUERA",
+                            "localname": "MUERAUERA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ovRMuTwHghY",
+                            "children": []
+                          },
+                          {
+                            "id": "aa7uPFoZ5Td",
+                            "boundaryNum": 6,
+                            "name": "MUCUALI",
+                            "localname": "MUCUALI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "aa7uPFoZ5Td",
+                            "children": []
+                          },
+                          {
+                            "id": "PpFDPKc8s3B",
+                            "boundaryNum": 6,
+                            "name": "PARTA SEDE ",
+                            "localname": "PARTA SEDE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "PpFDPKc8s3B",
+                            "children": []
+                          },
+                          {
+                            "id": "Cs7IaQCWa2k",
+                            "boundaryNum": 6,
+                            "name": "NAPAURE",
+                            "localname": "NAPAURE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Cs7IaQCWa2k",
+                            "children": []
+                          },
+                          {
+                            "id": "VHjesSNaR6z",
+                            "boundaryNum": 6,
+                            "name": "SITUNI",
+                            "localname": "SITUNI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "VHjesSNaR6z",
+                            "children": []
+                          },
+                          {
+                            "id": "xgaMousRSuR",
+                            "boundaryNum": 6,
+                            "name": "NAHAVARA",
+                            "localname": "NAHAVARA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "xgaMousRSuR",
+                            "children": []
+                          },
+                          {
+                            "id": "ZqMdTiwY32P",
+                            "boundaryNum": 6,
+                            "name": "NOTANE ",
+                            "localname": "NOTANE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ZqMdTiwY32P",
+                            "children": []
+                          },
+                          {
+                            "id": "vCcZN9p9Jjv",
+                            "boundaryNum": 6,
+                            "name": "MULAPANIA",
+                            "localname": "MULAPANIA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "vCcZN9p9Jjv",
+                            "children": []
+                          },
+                          {
+                            "id": "w6sTM4sXFGw",
+                            "boundaryNum": 6,
+                            "name": "NATURA  ",
+                            "localname": "NATURA  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "w6sTM4sXFGw",
                             "children": []
                           },
                           {
@@ -58560,28 +58619,6 @@
                             "children": []
                           },
                           {
-                            "id": "l0cqK9zRCn3",
-                            "boundaryNum": 6,
-                            "name": "REGULO USSENE",
-                            "localname": "REGULO USSENE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "l0cqK9zRCn3",
-                            "children": []
-                          },
-                          {
-                            "id": "DRXwwkxERKQ",
-                            "boundaryNum": 6,
-                            "name": "MARRERENE",
-                            "localname": "MARRERENE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "DRXwwkxERKQ",
-                            "children": []
-                          },
-                          {
                             "id": "pGq2TIjzvX2",
                             "boundaryNum": 6,
                             "name": "CHIPALA",
@@ -58590,28 +58627,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "pGq2TIjzvX2",
-                            "children": []
-                          },
-                          {
-                            "id": "vVvbln303Py",
-                            "boundaryNum": 6,
-                            "name": "MATHEPO A",
-                            "localname": "MATHEPO A",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "vVvbln303Py",
-                            "children": []
-                          },
-                          {
-                            "id": "r05iixtBeAh",
-                            "boundaryNum": 6,
-                            "name": "RIEQUE SEDE ",
-                            "localname": "RIEQUE SEDE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "r05iixtBeAh",
                             "children": []
                           },
                           {
@@ -58634,72 +58649,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "CmkCcStKh7c",
-                            "children": []
-                          },
-                          {
-                            "id": "nnQS1QhQvuX",
-                            "boundaryNum": 6,
-                            "name": "MUCATAPA A",
-                            "localname": "MUCATAPA A",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "nnQS1QhQvuX",
-                            "children": []
-                          },
-                          {
-                            "id": "FkHfyXjoIcg",
-                            "boundaryNum": 6,
-                            "name": "MORRERRENE",
-                            "localname": "MORRERRENE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "FkHfyXjoIcg",
-                            "children": []
-                          },
-                          {
-                            "id": "v3llSeH5VGw",
-                            "boundaryNum": 6,
-                            "name": "MATUPALA",
-                            "localname": "MATUPALA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "v3llSeH5VGw",
-                            "children": []
-                          },
-                          {
-                            "id": "asVoA02rKnt",
-                            "boundaryNum": 6,
-                            "name": "MACUMONA",
-                            "localname": "MACUMONA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "asVoA02rKnt",
-                            "children": []
-                          },
-                          {
-                            "id": "TnGJ36O5dYi",
-                            "boundaryNum": 6,
-                            "name": "MUHULE REGULO",
-                            "localname": "MUHULE REGULO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "TnGJ36O5dYi",
-                            "children": []
-                          },
-                          {
-                            "id": "ISVJ02pORfv",
-                            "boundaryNum": 6,
-                            "name": "NACURARE",
-                            "localname": "NACURARE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ISVJ02pORfv",
                             "children": []
                           },
                           {
@@ -58747,17 +58696,6 @@
                             "children": []
                           },
                           {
-                            "id": "L1hgRvsuXyI",
-                            "boundaryNum": 6,
-                            "name": "MUTRUALA ESCOLA",
-                            "localname": "MUTRUALA ESCOLA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "L1hgRvsuXyI",
-                            "children": []
-                          },
-                          {
                             "id": "x2IFxwXsUC7",
                             "boundaryNum": 6,
                             "name": "MUPATHA",
@@ -58791,28 +58729,6 @@
                             "children": []
                           },
                           {
-                            "id": "y1muGBcfXB7",
-                            "boundaryNum": 6,
-                            "name": "TULINE",
-                            "localname": "TULINE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "y1muGBcfXB7",
-                            "children": []
-                          },
-                          {
-                            "id": "ZtNGx8CzShD",
-                            "boundaryNum": 6,
-                            "name": "MUQUECA",
-                            "localname": "MUQUECA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ZtNGx8CzShD",
-                            "children": []
-                          },
-                          {
                             "id": "utj00ZFAQ1J",
                             "boundaryNum": 6,
                             "name": "NAPILA",
@@ -58824,17 +58740,6 @@
                             "children": []
                           },
                           {
-                            "id": "iUFbq6txSmA",
-                            "boundaryNum": 6,
-                            "name": "MULAPANE",
-                            "localname": "MULAPANE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "iUFbq6txSmA",
-                            "children": []
-                          },
-                          {
                             "id": "xkYah9N5M8g",
                             "boundaryNum": 6,
                             "name": "NAMIEPE",
@@ -58843,28 +58748,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "xkYah9N5M8g",
-                            "children": []
-                          },
-                          {
-                            "id": "dXi0eVQCu9b",
-                            "boundaryNum": 6,
-                            "name": "MURAPOCUA",
-                            "localname": "MURAPOCUA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "dXi0eVQCu9b",
-                            "children": []
-                          },
-                          {
-                            "id": "Hj3SB4ydGbH",
-                            "boundaryNum": 6,
-                            "name": "NAHAUANE",
-                            "localname": "NAHAUANE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Hj3SB4ydGbH",
                             "children": []
                           },
                           {
@@ -58934,6 +58817,380 @@
                             "children": []
                           },
                           {
+                            "id": "UyJjqVSMRre",
+                            "boundaryNum": 6,
+                            "name": "MAIWUELA",
+                            "localname": "MAIWUELA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "UyJjqVSMRre",
+                            "children": []
+                          },
+                          {
+                            "id": "w6letTe6INh",
+                            "boundaryNum": 6,
+                            "name": "REGULO MUHEMUA ",
+                            "localname": "REGULO MUHEMUA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "w6letTe6INh",
+                            "children": []
+                          },
+                          {
+                            "id": "pQfGbcxEzVw",
+                            "boundaryNum": 6,
+                            "name": "MUAVUTHO",
+                            "localname": "MUAVUTHO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "pQfGbcxEzVw",
+                            "children": []
+                          },
+                          {
+                            "id": "jOnq19s8dGj",
+                            "boundaryNum": 6,
+                            "name": "NATAUA",
+                            "localname": "NATAUA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "jOnq19s8dGj",
+                            "children": []
+                          },
+                          {
+                            "id": "fUnq2XVmP3x",
+                            "boundaryNum": 6,
+                            "name": "MUTHOCUNE",
+                            "localname": "MUTHOCUNE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "fUnq2XVmP3x",
+                            "children": []
+                          },
+                          {
+                            "id": "PgZzegNuaHO",
+                            "boundaryNum": 6,
+                            "name": "MUILIMA",
+                            "localname": "MUILIMA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "PgZzegNuaHO",
+                            "children": []
+                          },
+                          {
+                            "id": "v1suQD6cKKJ",
+                            "boundaryNum": 6,
+                            "name": "MAHULA ESCOLA",
+                            "localname": "MAHULA ESCOLA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "v1suQD6cKKJ",
+                            "children": []
+                          },
+                          {
+                            "id": "srwbA1tEYhg",
+                            "boundaryNum": 6,
+                            "name": "CARAHI LOJA",
+                            "localname": "CARAHI LOJA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "srwbA1tEYhg",
+                            "children": []
+                          },
+                          {
+                            "id": "ikT59Cq1ywW",
+                            "boundaryNum": 6,
+                            "name": "NAMUALI",
+                            "localname": "NAMUALI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ikT59Cq1ywW",
+                            "children": []
+                          },
+                          {
+                            "id": "jQgpAXbOXqz",
+                            "boundaryNum": 6,
+                            "name": "MUTOCONE",
+                            "localname": "MUTOCONE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "jQgpAXbOXqz",
+                            "children": []
+                          },
+                          {
+                            "id": "ceL5zlmFgdE",
+                            "boundaryNum": 6,
+                            "name": "MAPACANE",
+                            "localname": "MAPACANE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ceL5zlmFgdE",
+                            "children": []
+                          },
+                          {
+                            "id": "ksjnokKWeLi",
+                            "boundaryNum": 6,
+                            "name": "NARICOJA",
+                            "localname": "NARICOJA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ksjnokKWeLi",
+                            "children": []
+                          },
+                          {
+                            "id": "wcOusPmFhP9",
+                            "boundaryNum": 6,
+                            "name": "NAMARATHA",
+                            "localname": "NAMARATHA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "wcOusPmFhP9",
+                            "children": []
+                          },
+                          {
+                            "id": "W4WIeknO8Q0",
+                            "boundaryNum": 6,
+                            "name": "MUHOVIHA A",
+                            "localname": "MUHOVIHA A",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "W4WIeknO8Q0",
+                            "children": []
+                          },
+                          {
+                            "id": "MIHAZtJKjsv",
+                            "boundaryNum": 6,
+                            "name": "PATHIA",
+                            "localname": "PATHIA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "MIHAZtJKjsv",
+                            "children": []
+                          },
+                          {
+                            "id": "cM1G5BuhbxV",
+                            "boundaryNum": 6,
+                            "name": "MUEPANE",
+                            "localname": "MUEPANE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "cM1G5BuhbxV",
+                            "children": []
+                          },
+                          {
+                            "id": "JCz0ly4bvo4",
+                            "boundaryNum": 6,
+                            "name": "MUCATAPA B",
+                            "localname": "MUCATAPA B",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "JCz0ly4bvo4",
+                            "children": []
+                          },
+                          {
+                            "id": "D0LbzvACGrj",
+                            "boundaryNum": 6,
+                            "name": "CHITIPUE",
+                            "localname": "CHITIPUE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "D0LbzvACGrj",
+                            "children": []
+                          },
+                          {
+                            "id": "l0cqK9zRCn3",
+                            "boundaryNum": 6,
+                            "name": "REGULO USSENE",
+                            "localname": "REGULO USSENE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "l0cqK9zRCn3",
+                            "children": []
+                          },
+                          {
+                            "id": "DRXwwkxERKQ",
+                            "boundaryNum": 6,
+                            "name": "MARRERENE",
+                            "localname": "MARRERENE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "DRXwwkxERKQ",
+                            "children": []
+                          },
+                          {
+                            "id": "vVvbln303Py",
+                            "boundaryNum": 6,
+                            "name": "MATHEPO A",
+                            "localname": "MATHEPO A",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "vVvbln303Py",
+                            "children": []
+                          },
+                          {
+                            "id": "r05iixtBeAh",
+                            "boundaryNum": 6,
+                            "name": "RIEQUE SEDE ",
+                            "localname": "RIEQUE SEDE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "r05iixtBeAh",
+                            "children": []
+                          },
+                          {
+                            "id": "nnQS1QhQvuX",
+                            "boundaryNum": 6,
+                            "name": "MUCATAPA A",
+                            "localname": "MUCATAPA A",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "nnQS1QhQvuX",
+                            "children": []
+                          },
+                          {
+                            "id": "FkHfyXjoIcg",
+                            "boundaryNum": 6,
+                            "name": "MORRERRENE",
+                            "localname": "MORRERRENE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "FkHfyXjoIcg",
+                            "children": []
+                          },
+                          {
+                            "id": "v3llSeH5VGw",
+                            "boundaryNum": 6,
+                            "name": "MATUPALA",
+                            "localname": "MATUPALA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "v3llSeH5VGw",
+                            "children": []
+                          },
+                          {
+                            "id": "asVoA02rKnt",
+                            "boundaryNum": 6,
+                            "name": "MACUMONA",
+                            "localname": "MACUMONA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "asVoA02rKnt",
+                            "children": []
+                          },
+                          {
+                            "id": "TnGJ36O5dYi",
+                            "boundaryNum": 6,
+                            "name": "MUHULE REGULO",
+                            "localname": "MUHULE REGULO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "TnGJ36O5dYi",
+                            "children": []
+                          },
+                          {
+                            "id": "ISVJ02pORfv",
+                            "boundaryNum": 6,
+                            "name": "NACURARE",
+                            "localname": "NACURARE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ISVJ02pORfv",
+                            "children": []
+                          },
+                          {
+                            "id": "L1hgRvsuXyI",
+                            "boundaryNum": 6,
+                            "name": "MUTRUALA ESCOLA",
+                            "localname": "MUTRUALA ESCOLA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "L1hgRvsuXyI",
+                            "children": []
+                          },
+                          {
+                            "id": "y1muGBcfXB7",
+                            "boundaryNum": 6,
+                            "name": "TULINE",
+                            "localname": "TULINE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "y1muGBcfXB7",
+                            "children": []
+                          },
+                          {
+                            "id": "ZtNGx8CzShD",
+                            "boundaryNum": 6,
+                            "name": "MUQUECA",
+                            "localname": "MUQUECA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ZtNGx8CzShD",
+                            "children": []
+                          },
+                          {
+                            "id": "iUFbq6txSmA",
+                            "boundaryNum": 6,
+                            "name": "MULAPANE",
+                            "localname": "MULAPANE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "iUFbq6txSmA",
+                            "children": []
+                          },
+                          {
+                            "id": "dXi0eVQCu9b",
+                            "boundaryNum": 6,
+                            "name": "MURAPOCUA",
+                            "localname": "MURAPOCUA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "dXi0eVQCu9b",
+                            "children": []
+                          },
+                          {
+                            "id": "Hj3SB4ydGbH",
+                            "boundaryNum": 6,
+                            "name": "NAHAUANE",
+                            "localname": "NAHAUANE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Hj3SB4ydGbH",
+                            "children": []
+                          },
+                          {
                             "id": "E1KjrWkZZKl",
                             "boundaryNum": 6,
                             "name": "MUTOMOTE A E B",
@@ -58953,17 +59210,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "cDjD0dpJWmL",
-                            "children": []
-                          },
-                          {
-                            "id": "UyJjqVSMRre",
-                            "boundaryNum": 6,
-                            "name": "MAIWUELA",
-                            "localname": "MAIWUELA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "UyJjqVSMRre",
                             "children": []
                           },
                           {
@@ -59000,28 +59246,6 @@
                             "children": []
                           },
                           {
-                            "id": "w6letTe6INh",
-                            "boundaryNum": 6,
-                            "name": "REGULO MUHEMUA ",
-                            "localname": "REGULO MUHEMUA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "w6letTe6INh",
-                            "children": []
-                          },
-                          {
-                            "id": "pQfGbcxEzVw",
-                            "boundaryNum": 6,
-                            "name": "MUAVUTHO",
-                            "localname": "MUAVUTHO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "pQfGbcxEzVw",
-                            "children": []
-                          },
-                          {
                             "id": "oQF68HvYeIY",
                             "boundaryNum": 6,
                             "name": "THITHINI",
@@ -59055,17 +59279,6 @@
                             "children": []
                           },
                           {
-                            "id": "jOnq19s8dGj",
-                            "boundaryNum": 6,
-                            "name": "NATAUA",
-                            "localname": "NATAUA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "jOnq19s8dGj",
-                            "children": []
-                          },
-                          {
                             "id": "VdRGgminJvl",
                             "boundaryNum": 6,
                             "name": "VARUA",
@@ -59077,17 +59290,6 @@
                             "children": []
                           },
                           {
-                            "id": "fUnq2XVmP3x",
-                            "boundaryNum": 6,
-                            "name": "MUTHOCUNE",
-                            "localname": "MUTHOCUNE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "fUnq2XVmP3x",
-                            "children": []
-                          },
-                          {
                             "id": "FUCJqqXxcai",
                             "boundaryNum": 6,
                             "name": "LUASE",
@@ -59096,28 +59298,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "FUCJqqXxcai",
-                            "children": []
-                          },
-                          {
-                            "id": "PgZzegNuaHO",
-                            "boundaryNum": 6,
-                            "name": "MUILIMA",
-                            "localname": "MUILIMA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "PgZzegNuaHO",
-                            "children": []
-                          },
-                          {
-                            "id": "v1suQD6cKKJ",
-                            "boundaryNum": 6,
-                            "name": "MAHULA ESCOLA",
-                            "localname": "MAHULA ESCOLA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "v1suQD6cKKJ",
                             "children": []
                           },
                           {
@@ -59143,17 +59323,6 @@
                             "children": []
                           },
                           {
-                            "id": "srwbA1tEYhg",
-                            "boundaryNum": 6,
-                            "name": "CARAHI LOJA",
-                            "localname": "CARAHI LOJA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "srwbA1tEYhg",
-                            "children": []
-                          },
-                          {
                             "id": "BRd06nozVdB",
                             "boundaryNum": 6,
                             "name": "SIMPUITI ",
@@ -59176,28 +59345,6 @@
                             "children": []
                           },
                           {
-                            "id": "ikT59Cq1ywW",
-                            "boundaryNum": 6,
-                            "name": "NAMUALI",
-                            "localname": "NAMUALI",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ikT59Cq1ywW",
-                            "children": []
-                          },
-                          {
-                            "id": "jQgpAXbOXqz",
-                            "boundaryNum": 6,
-                            "name": "MUTOCONE",
-                            "localname": "MUTOCONE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "jQgpAXbOXqz",
-                            "children": []
-                          },
-                          {
                             "id": "mMmzw081aus",
                             "boundaryNum": 6,
                             "name": "NAMICUJA",
@@ -59206,28 +59353,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "mMmzw081aus",
-                            "children": []
-                          },
-                          {
-                            "id": "ceL5zlmFgdE",
-                            "boundaryNum": 6,
-                            "name": "MAPACANE",
-                            "localname": "MAPACANE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ceL5zlmFgdE",
-                            "children": []
-                          },
-                          {
-                            "id": "ksjnokKWeLi",
-                            "boundaryNum": 6,
-                            "name": "NARICOJA",
-                            "localname": "NARICOJA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ksjnokKWeLi",
                             "children": []
                           },
                           {
@@ -59242,17 +59367,6 @@
                             "children": []
                           },
                           {
-                            "id": "wcOusPmFhP9",
-                            "boundaryNum": 6,
-                            "name": "NAMARATHA",
-                            "localname": "NAMARATHA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "wcOusPmFhP9",
-                            "children": []
-                          },
-                          {
                             "id": "XRrN38KfhCW",
                             "boundaryNum": 6,
                             "name": "MUPAPATHA",
@@ -59261,17 +59375,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "XRrN38KfhCW",
-                            "children": []
-                          },
-                          {
-                            "id": "W4WIeknO8Q0",
-                            "boundaryNum": 6,
-                            "name": "MUHOVIHA A",
-                            "localname": "MUHOVIHA A",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "W4WIeknO8Q0",
                             "children": []
                           },
                           {
@@ -59297,17 +59400,6 @@
                             "children": []
                           },
                           {
-                            "id": "MIHAZtJKjsv",
-                            "boundaryNum": 6,
-                            "name": "PATHIA",
-                            "localname": "PATHIA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "MIHAZtJKjsv",
-                            "children": []
-                          },
-                          {
                             "id": "QcPjgSTE6tY",
                             "boundaryNum": 6,
                             "name": "CARAHI FEIRA",
@@ -59319,28 +59411,6 @@
                             "children": []
                           },
                           {
-                            "id": "cM1G5BuhbxV",
-                            "boundaryNum": 6,
-                            "name": "MUEPANE",
-                            "localname": "MUEPANE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "cM1G5BuhbxV",
-                            "children": []
-                          },
-                          {
-                            "id": "JCz0ly4bvo4",
-                            "boundaryNum": 6,
-                            "name": "MUCATAPA B",
-                            "localname": "MUCATAPA B",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "JCz0ly4bvo4",
-                            "children": []
-                          },
-                          {
                             "id": "t8HA5oG9nIq",
                             "boundaryNum": 6,
                             "name": "REGULO MUERIA",
@@ -59349,17 +59419,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "t8HA5oG9nIq",
-                            "children": []
-                          },
-                          {
-                            "id": "D0LbzvACGrj",
-                            "boundaryNum": 6,
-                            "name": "CHITIPUE",
-                            "localname": "CHITIPUE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "D0LbzvACGrj",
                             "children": []
                           },
                           {
@@ -61332,28 +61391,6 @@
                         "code": "d83Geuo2mWP",
                         "children": [
                           {
-                            "id": "L7xrASZ7QDP",
-                            "boundaryNum": 6,
-                            "name": "COLOLONE SEDE ",
-                            "localname": "COLOLONE SEDE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "L7xrASZ7QDP",
-                            "children": []
-                          },
-                          {
-                            "id": "A9Og6ap2NxP",
-                            "boundaryNum": 6,
-                            "name": "NAMPAUA ",
-                            "localname": "NAMPAUA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "A9Og6ap2NxP",
-                            "children": []
-                          },
-                          {
                             "id": "CmMoxWOmCWD",
                             "boundaryNum": 6,
                             "name": "CALE-SEDE ",
@@ -61365,17 +61402,6 @@
                             "children": []
                           },
                           {
-                            "id": "AYQl50vLcdA",
-                            "boundaryNum": 6,
-                            "name": "MALEVANE ",
-                            "localname": "MALEVANE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "AYQl50vLcdA",
-                            "children": []
-                          },
-                          {
                             "id": "YzYkqp80DwG",
                             "boundaryNum": 6,
                             "name": "NIWIRI ",
@@ -61384,17 +61410,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "YzYkqp80DwG",
-                            "children": []
-                          },
-                          {
-                            "id": "DlYTImalXZx",
-                            "boundaryNum": 6,
-                            "name": "MUAHURA ",
-                            "localname": "MUAHURA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "DlYTImalXZx",
                             "children": []
                           },
                           {
@@ -61417,6 +61432,50 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "zhoNABV8ANA",
+                            "children": []
+                          },
+                          {
+                            "id": "L7xrASZ7QDP",
+                            "boundaryNum": 6,
+                            "name": "COLOLONE SEDE ",
+                            "localname": "COLOLONE SEDE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "L7xrASZ7QDP",
+                            "children": []
+                          },
+                          {
+                            "id": "A9Og6ap2NxP",
+                            "boundaryNum": 6,
+                            "name": "NAMPAUA ",
+                            "localname": "NAMPAUA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "A9Og6ap2NxP",
+                            "children": []
+                          },
+                          {
+                            "id": "AYQl50vLcdA",
+                            "boundaryNum": 6,
+                            "name": "MALEVANE ",
+                            "localname": "MALEVANE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "AYQl50vLcdA",
+                            "children": []
+                          },
+                          {
+                            "id": "DlYTImalXZx",
+                            "boundaryNum": 6,
+                            "name": "MUAHURA ",
+                            "localname": "MUAHURA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "DlYTImalXZx",
                             "children": []
                           },
                           {
@@ -61997,6 +62056,293 @@
                         ]
                       },
                       {
+                        "id": "xCjHQUgAv7v",
+                        "boundaryNum": 5,
+                        "name": "CHICA",
+                        "localname": "CHICA",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "xCjHQUgAv7v",
+                        "children": [
+                          {
+                            "id": "LLpdBNCMuNV",
+                            "boundaryNum": 6,
+                            "name": "RATANE ",
+                            "localname": "RATANE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "LLpdBNCMuNV",
+                            "children": []
+                          },
+                          {
+                            "id": "ejYvUBPoc20",
+                            "boundaryNum": 6,
+                            "name": "MUNENA ",
+                            "localname": "MUNENA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "ejYvUBPoc20",
+                            "children": []
+                          },
+                          {
+                            "id": "KUWTn4GgW6Q",
+                            "boundaryNum": 6,
+                            "name": "NAMARIA ",
+                            "localname": "NAMARIA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "KUWTn4GgW6Q",
+                            "children": []
+                          },
+                          {
+                            "id": "oAGT8ORQaCK",
+                            "boundaryNum": 6,
+                            "name": "SACAEQUE ",
+                            "localname": "SACAEQUE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "oAGT8ORQaCK",
+                            "children": []
+                          },
+                          {
+                            "id": "m87YB1yvsaa",
+                            "boundaryNum": 6,
+                            "name": "CAIAIA ",
+                            "localname": "CAIAIA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "m87YB1yvsaa",
+                            "children": []
+                          },
+                          {
+                            "id": "Z5TFvgry3ou",
+                            "boundaryNum": 6,
+                            "name": "GUARDA ",
+                            "localname": "GUARDA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Z5TFvgry3ou",
+                            "children": []
+                          },
+                          {
+                            "id": "aZbNpVYKCeF",
+                            "boundaryNum": 6,
+                            "name": "MUCATCHO ",
+                            "localname": "MUCATCHO ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "aZbNpVYKCeF",
+                            "children": []
+                          },
+                          {
+                            "id": "PAer7YnlbwG",
+                            "boundaryNum": 6,
+                            "name": "NAMATURO 3 ",
+                            "localname": "NAMATURO 3 ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "PAer7YnlbwG",
+                            "children": []
+                          },
+                          {
+                            "id": "UMxza1gSxWc",
+                            "boundaryNum": 6,
+                            "name": "B. 25 DE JUNHO B ",
+                            "localname": "B. 25 DE JUNHO B ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "UMxza1gSxWc",
+                            "children": []
+                          },
+                          {
+                            "id": "oNOpBugqXhQ",
+                            "boundaryNum": 6,
+                            "name": "YAVITE A ",
+                            "localname": "YAVITE A ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "oNOpBugqXhQ",
+                            "children": []
+                          },
+                          {
+                            "id": "l1cDStlgtQv",
+                            "boundaryNum": 6,
+                            "name": "MICAJUNE ",
+                            "localname": "MICAJUNE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "l1cDStlgtQv",
+                            "children": []
+                          },
+                          {
+                            "id": "GIs0q5wAXR1",
+                            "boundaryNum": 6,
+                            "name": "NAMALI ",
+                            "localname": "NAMALI ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "GIs0q5wAXR1",
+                            "children": []
+                          },
+                          {
+                            "id": "j0FY69XcRbb",
+                            "boundaryNum": 6,
+                            "name": "B. 25 DE JUNHO A ",
+                            "localname": "B. 25 DE JUNHO A ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "j0FY69XcRbb",
+                            "children": []
+                          },
+                          {
+                            "id": "HYjRVab8gSt",
+                            "boundaryNum": 6,
+                            "name": "NACUALI ",
+                            "localname": "NACUALI ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "HYjRVab8gSt",
+                            "children": []
+                          },
+                          {
+                            "id": "Plxy1mZvT0x",
+                            "boundaryNum": 6,
+                            "name": "B. MUTHUNACA ",
+                            "localname": "B. MUTHUNACA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Plxy1mZvT0x",
+                            "children": []
+                          },
+                          {
+                            "id": "gO4tEQhOg9W",
+                            "boundaryNum": 6,
+                            "name": "BAIRRO CENTRAL ",
+                            "localname": "BAIRRO CENTRAL ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "gO4tEQhOg9W",
+                            "children": []
+                          },
+                          {
+                            "id": "e4G0EMVhQ2d",
+                            "boundaryNum": 6,
+                            "name": "NAMARIESSA ",
+                            "localname": "NAMARIESSA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "e4G0EMVhQ2d",
+                            "children": []
+                          },
+                          {
+                            "id": "JCOzKr96ydq",
+                            "boundaryNum": 6,
+                            "name": "NAMATUORO 1 ",
+                            "localname": "NAMATUORO 1 ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "JCOzKr96ydq",
+                            "children": []
+                          },
+                          {
+                            "id": "v79GF8aHgKh",
+                            "boundaryNum": 6,
+                            "name": "NACACANHA ",
+                            "localname": "NACACANHA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "v79GF8aHgKh",
+                            "children": []
+                          },
+                          {
+                            "id": "EyO0J8r2ukV",
+                            "boundaryNum": 6,
+                            "name": "MUCUPASSA ",
+                            "localname": "MUCUPASSA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "EyO0J8r2ukV",
+                            "children": []
+                          },
+                          {
+                            "id": "hxoBFxvb7RN",
+                            "boundaryNum": 6,
+                            "name": "NAMALILI ",
+                            "localname": "NAMALILI ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "hxoBFxvb7RN",
+                            "children": []
+                          },
+                          {
+                            "id": "dXWE2JUQtsi",
+                            "boundaryNum": 6,
+                            "name": "NICOCANE",
+                            "localname": "NICOCANE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "dXWE2JUQtsi",
+                            "children": []
+                          },
+                          {
+                            "id": "odlRHur0gdF",
+                            "boundaryNum": 6,
+                            "name": "NAHAVARA ",
+                            "localname": "NAHAVARA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "odlRHur0gdF",
+                            "children": []
+                          },
+                          {
+                            "id": "QG6efEMNR9U",
+                            "boundaryNum": 6,
+                            "name": "NAMAREPO ",
+                            "localname": "NAMAREPO ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "QG6efEMNR9U",
+                            "children": []
+                          },
+                          {
+                            "id": "DH1gQi6MLzo",
+                            "boundaryNum": 6,
+                            "name": "YAVITE B ",
+                            "localname": "YAVITE B ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "DH1gQi6MLzo",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
                         "id": "IPzyaKh1Key",
                         "boundaryNum": 5,
                         "name": "RIBAUE-SEDE",
@@ -62367,293 +62713,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "a2SRAg3UKGS",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "xCjHQUgAv7v",
-                        "boundaryNum": 5,
-                        "name": "CHICA",
-                        "localname": "CHICA",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "xCjHQUgAv7v",
-                        "children": [
-                          {
-                            "id": "LLpdBNCMuNV",
-                            "boundaryNum": 6,
-                            "name": "RATANE ",
-                            "localname": "RATANE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "LLpdBNCMuNV",
-                            "children": []
-                          },
-                          {
-                            "id": "ejYvUBPoc20",
-                            "boundaryNum": 6,
-                            "name": "MUNENA ",
-                            "localname": "MUNENA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "ejYvUBPoc20",
-                            "children": []
-                          },
-                          {
-                            "id": "KUWTn4GgW6Q",
-                            "boundaryNum": 6,
-                            "name": "NAMARIA ",
-                            "localname": "NAMARIA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "KUWTn4GgW6Q",
-                            "children": []
-                          },
-                          {
-                            "id": "oAGT8ORQaCK",
-                            "boundaryNum": 6,
-                            "name": "SACAEQUE ",
-                            "localname": "SACAEQUE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "oAGT8ORQaCK",
-                            "children": []
-                          },
-                          {
-                            "id": "m87YB1yvsaa",
-                            "boundaryNum": 6,
-                            "name": "CAIAIA ",
-                            "localname": "CAIAIA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "m87YB1yvsaa",
-                            "children": []
-                          },
-                          {
-                            "id": "Z5TFvgry3ou",
-                            "boundaryNum": 6,
-                            "name": "GUARDA ",
-                            "localname": "GUARDA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Z5TFvgry3ou",
-                            "children": []
-                          },
-                          {
-                            "id": "aZbNpVYKCeF",
-                            "boundaryNum": 6,
-                            "name": "MUCATCHO ",
-                            "localname": "MUCATCHO ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "aZbNpVYKCeF",
-                            "children": []
-                          },
-                          {
-                            "id": "PAer7YnlbwG",
-                            "boundaryNum": 6,
-                            "name": "NAMATURO 3 ",
-                            "localname": "NAMATURO 3 ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "PAer7YnlbwG",
-                            "children": []
-                          },
-                          {
-                            "id": "UMxza1gSxWc",
-                            "boundaryNum": 6,
-                            "name": "B. 25 DE JUNHO B ",
-                            "localname": "B. 25 DE JUNHO B ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "UMxza1gSxWc",
-                            "children": []
-                          },
-                          {
-                            "id": "oNOpBugqXhQ",
-                            "boundaryNum": 6,
-                            "name": "YAVITE A ",
-                            "localname": "YAVITE A ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "oNOpBugqXhQ",
-                            "children": []
-                          },
-                          {
-                            "id": "l1cDStlgtQv",
-                            "boundaryNum": 6,
-                            "name": "MICAJUNE ",
-                            "localname": "MICAJUNE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "l1cDStlgtQv",
-                            "children": []
-                          },
-                          {
-                            "id": "GIs0q5wAXR1",
-                            "boundaryNum": 6,
-                            "name": "NAMALI ",
-                            "localname": "NAMALI ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "GIs0q5wAXR1",
-                            "children": []
-                          },
-                          {
-                            "id": "j0FY69XcRbb",
-                            "boundaryNum": 6,
-                            "name": "B. 25 DE JUNHO A ",
-                            "localname": "B. 25 DE JUNHO A ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "j0FY69XcRbb",
-                            "children": []
-                          },
-                          {
-                            "id": "HYjRVab8gSt",
-                            "boundaryNum": 6,
-                            "name": "NACUALI ",
-                            "localname": "NACUALI ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "HYjRVab8gSt",
-                            "children": []
-                          },
-                          {
-                            "id": "Plxy1mZvT0x",
-                            "boundaryNum": 6,
-                            "name": "B. MUTHUNACA ",
-                            "localname": "B. MUTHUNACA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Plxy1mZvT0x",
-                            "children": []
-                          },
-                          {
-                            "id": "gO4tEQhOg9W",
-                            "boundaryNum": 6,
-                            "name": "BAIRRO CENTRAL ",
-                            "localname": "BAIRRO CENTRAL ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "gO4tEQhOg9W",
-                            "children": []
-                          },
-                          {
-                            "id": "e4G0EMVhQ2d",
-                            "boundaryNum": 6,
-                            "name": "NAMARIESSA ",
-                            "localname": "NAMARIESSA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "e4G0EMVhQ2d",
-                            "children": []
-                          },
-                          {
-                            "id": "JCOzKr96ydq",
-                            "boundaryNum": 6,
-                            "name": "NAMATUORO 1 ",
-                            "localname": "NAMATUORO 1 ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "JCOzKr96ydq",
-                            "children": []
-                          },
-                          {
-                            "id": "v79GF8aHgKh",
-                            "boundaryNum": 6,
-                            "name": "NACACANHA ",
-                            "localname": "NACACANHA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "v79GF8aHgKh",
-                            "children": []
-                          },
-                          {
-                            "id": "EyO0J8r2ukV",
-                            "boundaryNum": 6,
-                            "name": "MUCUPASSA ",
-                            "localname": "MUCUPASSA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "EyO0J8r2ukV",
-                            "children": []
-                          },
-                          {
-                            "id": "hxoBFxvb7RN",
-                            "boundaryNum": 6,
-                            "name": "NAMALILI ",
-                            "localname": "NAMALILI ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "hxoBFxvb7RN",
-                            "children": []
-                          },
-                          {
-                            "id": "dXWE2JUQtsi",
-                            "boundaryNum": 6,
-                            "name": "NICOCANE",
-                            "localname": "NICOCANE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "dXWE2JUQtsi",
-                            "children": []
-                          },
-                          {
-                            "id": "odlRHur0gdF",
-                            "boundaryNum": 6,
-                            "name": "NAHAVARA ",
-                            "localname": "NAHAVARA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "odlRHur0gdF",
-                            "children": []
-                          },
-                          {
-                            "id": "QG6efEMNR9U",
-                            "boundaryNum": 6,
-                            "name": "NAMAREPO ",
-                            "localname": "NAMAREPO ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "QG6efEMNR9U",
-                            "children": []
-                          },
-                          {
-                            "id": "DH1gQi6MLzo",
-                            "boundaryNum": 6,
-                            "name": "YAVITE B ",
-                            "localname": "YAVITE B ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "DH1gQi6MLzo",
                             "children": []
                           }
                         ]
@@ -63806,28 +63865,6 @@
                         "code": "syIqlSIQPTN",
                         "children": [
                           {
-                            "id": "x3ZNLHJuw5o",
-                            "boundaryNum": 6,
-                            "name": "MAVILI I  ",
-                            "localname": "MAVILI I  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "x3ZNLHJuw5o",
-                            "children": []
-                          },
-                          {
-                            "id": "qWIk4KqrVYn",
-                            "boundaryNum": 6,
-                            "name": "MUTANAPO  ",
-                            "localname": "MUTANAPO  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "qWIk4KqrVYn",
-                            "children": []
-                          },
-                          {
                             "id": "CQ3YjbRUGp0",
                             "boundaryNum": 6,
                             "name": "MALAPA  ",
@@ -63869,6 +63906,94 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "TMi3RRYXvy7",
+                            "children": []
+                          },
+                          {
+                            "id": "SHhMThVqUhf",
+                            "boundaryNum": 6,
+                            "name": "PATHANA  ",
+                            "localname": "PATHANA  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "SHhMThVqUhf",
+                            "children": []
+                          },
+                          {
+                            "id": "H436qJzggbS",
+                            "boundaryNum": 6,
+                            "name": "UATHA  ",
+                            "localname": "UATHA  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "H436qJzggbS",
+                            "children": []
+                          },
+                          {
+                            "id": "zI03uFelRa7",
+                            "boundaryNum": 6,
+                            "name": "THIPUI  ",
+                            "localname": "THIPUI  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "zI03uFelRa7",
+                            "children": []
+                          },
+                          {
+                            "id": "JBs9HONnv2R",
+                            "boundaryNum": 6,
+                            "name": "MECUASSE B  ",
+                            "localname": "MECUASSE B  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "JBs9HONnv2R",
+                            "children": []
+                          },
+                          {
+                            "id": "aEO89UieQUE",
+                            "boundaryNum": 6,
+                            "name": "MUHALA A  ",
+                            "localname": "MUHALA A  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "aEO89UieQUE",
+                            "children": []
+                          },
+                          {
+                            "id": "snUouPvVHcC",
+                            "boundaryNum": 6,
+                            "name": "NICUTHA  ",
+                            "localname": "NICUTHA  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "snUouPvVHcC",
+                            "children": []
+                          },
+                          {
+                            "id": "x3ZNLHJuw5o",
+                            "boundaryNum": 6,
+                            "name": "MAVILI I  ",
+                            "localname": "MAVILI I  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "x3ZNLHJuw5o",
+                            "children": []
+                          },
+                          {
+                            "id": "qWIk4KqrVYn",
+                            "boundaryNum": 6,
+                            "name": "MUTANAPO  ",
+                            "localname": "MUTANAPO  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "qWIk4KqrVYn",
                             "children": []
                           },
                           {
@@ -63916,17 +64041,6 @@
                             "children": []
                           },
                           {
-                            "id": "SHhMThVqUhf",
-                            "boundaryNum": 6,
-                            "name": "PATHANA  ",
-                            "localname": "PATHANA  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "SHhMThVqUhf",
-                            "children": []
-                          },
-                          {
                             "id": "XrdDMwuvz6k",
                             "boundaryNum": 6,
                             "name": "NAMIHASE A  ",
@@ -63949,28 +64063,6 @@
                             "children": []
                           },
                           {
-                            "id": "H436qJzggbS",
-                            "boundaryNum": 6,
-                            "name": "UATHA  ",
-                            "localname": "UATHA  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "H436qJzggbS",
-                            "children": []
-                          },
-                          {
-                            "id": "zI03uFelRa7",
-                            "boundaryNum": 6,
-                            "name": "THIPUI  ",
-                            "localname": "THIPUI  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "zI03uFelRa7",
-                            "children": []
-                          },
-                          {
                             "id": "wm6fdnD4vXx",
                             "boundaryNum": 6,
                             "name": "NACULUCUE  ",
@@ -63979,17 +64071,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "wm6fdnD4vXx",
-                            "children": []
-                          },
-                          {
-                            "id": "JBs9HONnv2R",
-                            "boundaryNum": 6,
-                            "name": "MECUASSE B  ",
-                            "localname": "MECUASSE B  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "JBs9HONnv2R",
                             "children": []
                           },
                           {
@@ -64012,28 +64093,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "HgemML8Fvr0",
-                            "children": []
-                          },
-                          {
-                            "id": "aEO89UieQUE",
-                            "boundaryNum": 6,
-                            "name": "MUHALA A  ",
-                            "localname": "MUHALA A  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "aEO89UieQUE",
-                            "children": []
-                          },
-                          {
-                            "id": "snUouPvVHcC",
-                            "boundaryNum": 6,
-                            "name": "NICUTHA  ",
-                            "localname": "NICUTHA  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "snUouPvVHcC",
                             "children": []
                           },
                           {
@@ -69009,17 +69068,6 @@
                             "children": []
                           },
                           {
-                            "id": "whnOnTIoYQE",
-                            "boundaryNum": 6,
-                            "name": "MUTITICOMA",
-                            "localname": "MUTITICOMA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "whnOnTIoYQE",
-                            "children": []
-                          },
-                          {
                             "id": "ZP4wZST8bCZ",
                             "boundaryNum": 6,
                             "name": "NATHACA",
@@ -69050,17 +69098,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "WZDaYzOGF2q",
-                            "children": []
-                          },
-                          {
-                            "id": "iQdt4Hz4nZt",
-                            "boundaryNum": 6,
-                            "name": "MUBE",
-                            "localname": "MUBE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "iQdt4Hz4nZt",
                             "children": []
                           },
                           {
@@ -69116,6 +69153,28 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "l4QoY6NB9Iv",
+                            "children": []
+                          },
+                          {
+                            "id": "whnOnTIoYQE",
+                            "boundaryNum": 6,
+                            "name": "MUTITICOMA",
+                            "localname": "MUTITICOMA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "whnOnTIoYQE",
+                            "children": []
+                          },
+                          {
+                            "id": "iQdt4Hz4nZt",
+                            "boundaryNum": 6,
+                            "name": "MUBE",
+                            "localname": "MUBE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "iQdt4Hz4nZt",
                             "children": []
                           },
                           {
@@ -70779,6 +70838,150 @@
                     "code": "qGLIthUx4kM",
                     "children": [
                       {
+                        "id": "dz4XL8rikuU",
+                        "boundaryNum": 5,
+                        "name": "MEPEONE ",
+                        "localname": "MEPEONE ",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "dz4XL8rikuU",
+                        "children": [
+                          {
+                            "id": "Vg1RD32CRZs",
+                            "boundaryNum": 6,
+                            "name": "MALACHE",
+                            "localname": "MALACHE",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Vg1RD32CRZs",
+                            "children": []
+                          },
+                          {
+                            "id": "yvO84wE8ZGz",
+                            "boundaryNum": 6,
+                            "name": "MEPEONE - SEDE ",
+                            "localname": "MEPEONE - SEDE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "yvO84wE8ZGz",
+                            "children": []
+                          },
+                          {
+                            "id": "OJ3RMmtr199",
+                            "boundaryNum": 6,
+                            "name": "NAMAREPO",
+                            "localname": "NAMAREPO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "OJ3RMmtr199",
+                            "children": []
+                          },
+                          {
+                            "id": "CljemR9MeIT",
+                            "boundaryNum": 6,
+                            "name": "NANLUCO B",
+                            "localname": "NANLUCO B",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "CljemR9MeIT",
+                            "children": []
+                          },
+                          {
+                            "id": "RM1G4yigx7u",
+                            "boundaryNum": 6,
+                            "name": "CHUCURO",
+                            "localname": "CHUCURO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "RM1G4yigx7u",
+                            "children": []
+                          },
+                          {
+                            "id": "CSV6PsMjWRk",
+                            "boundaryNum": 6,
+                            "name": "MEPEONE  ",
+                            "localname": "MEPEONE  ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "CSV6PsMjWRk",
+                            "children": []
+                          },
+                          {
+                            "id": "Jk5PqzT7LBG",
+                            "boundaryNum": 6,
+                            "name": "JUTOLO",
+                            "localname": "JUTOLO",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Jk5PqzT7LBG",
+                            "children": []
+                          },
+                          {
+                            "id": "Va70P4lVdAb",
+                            "boundaryNum": 6,
+                            "name": "CUZEANE ",
+                            "localname": "CUZEANE ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "Va70P4lVdAb",
+                            "children": []
+                          },
+                          {
+                            "id": "YuVPY8dnPpw",
+                            "boundaryNum": 6,
+                            "name": "MECAMA ",
+                            "localname": "MECAMA ",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "YuVPY8dnPpw",
+                            "children": []
+                          },
+                          {
+                            "id": "S5LRihlaZk4",
+                            "boundaryNum": 6,
+                            "name": "CUZEANE B",
+                            "localname": "CUZEANE B",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "S5LRihlaZk4",
+                            "children": []
+                          },
+                          {
+                            "id": "cpyN3mjK4BG",
+                            "boundaryNum": 6,
+                            "name": "CUTI",
+                            "localname": "CUTI",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "cpyN3mjK4BG",
+                            "children": []
+                          },
+                          {
+                            "id": "SZCDK53iCWN",
+                            "boundaryNum": 6,
+                            "name": "NAULA",
+                            "localname": "NAULA",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "SZCDK53iCWN",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
                         "id": "ZLROHdECuoY",
                         "boundaryNum": 5,
                         "name": "QUIXAXE",
@@ -71083,150 +71286,6 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "CDOWmKHC00r",
-                            "children": []
-                          }
-                        ]
-                      },
-                      {
-                        "id": "dz4XL8rikuU",
-                        "boundaryNum": 5,
-                        "name": "MEPEONE ",
-                        "localname": "MEPEONE ",
-                        "longitude": null,
-                        "latitude": null,
-                        "label": "Localidade",
-                        "code": "dz4XL8rikuU",
-                        "children": [
-                          {
-                            "id": "Vg1RD32CRZs",
-                            "boundaryNum": 6,
-                            "name": "MALACHE",
-                            "localname": "MALACHE",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Vg1RD32CRZs",
-                            "children": []
-                          },
-                          {
-                            "id": "yvO84wE8ZGz",
-                            "boundaryNum": 6,
-                            "name": "MEPEONE - SEDE ",
-                            "localname": "MEPEONE - SEDE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "yvO84wE8ZGz",
-                            "children": []
-                          },
-                          {
-                            "id": "OJ3RMmtr199",
-                            "boundaryNum": 6,
-                            "name": "NAMAREPO",
-                            "localname": "NAMAREPO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "OJ3RMmtr199",
-                            "children": []
-                          },
-                          {
-                            "id": "CljemR9MeIT",
-                            "boundaryNum": 6,
-                            "name": "NANLUCO B",
-                            "localname": "NANLUCO B",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "CljemR9MeIT",
-                            "children": []
-                          },
-                          {
-                            "id": "RM1G4yigx7u",
-                            "boundaryNum": 6,
-                            "name": "CHUCURO",
-                            "localname": "CHUCURO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "RM1G4yigx7u",
-                            "children": []
-                          },
-                          {
-                            "id": "CSV6PsMjWRk",
-                            "boundaryNum": 6,
-                            "name": "MEPEONE  ",
-                            "localname": "MEPEONE  ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "CSV6PsMjWRk",
-                            "children": []
-                          },
-                          {
-                            "id": "Jk5PqzT7LBG",
-                            "boundaryNum": 6,
-                            "name": "JUTOLO",
-                            "localname": "JUTOLO",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Jk5PqzT7LBG",
-                            "children": []
-                          },
-                          {
-                            "id": "Va70P4lVdAb",
-                            "boundaryNum": 6,
-                            "name": "CUZEANE ",
-                            "localname": "CUZEANE ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "Va70P4lVdAb",
-                            "children": []
-                          },
-                          {
-                            "id": "YuVPY8dnPpw",
-                            "boundaryNum": 6,
-                            "name": "MECAMA ",
-                            "localname": "MECAMA ",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "YuVPY8dnPpw",
-                            "children": []
-                          },
-                          {
-                            "id": "S5LRihlaZk4",
-                            "boundaryNum": 6,
-                            "name": "CUZEANE B",
-                            "localname": "CUZEANE B",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "S5LRihlaZk4",
-                            "children": []
-                          },
-                          {
-                            "id": "cpyN3mjK4BG",
-                            "boundaryNum": 6,
-                            "name": "CUTI",
-                            "localname": "CUTI",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "cpyN3mjK4BG",
-                            "children": []
-                          },
-                          {
-                            "id": "SZCDK53iCWN",
-                            "boundaryNum": 6,
-                            "name": "NAULA",
-                            "localname": "NAULA",
-                            "longitude": null,
-                            "latitude": null,
-                            "label": "Aldeia",
-                            "code": "SZCDK53iCWN",
                             "children": []
                           }
                         ]
