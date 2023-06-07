@@ -20,8 +20,8 @@
           {
             "id": "test_id_1",
             "boundaryNum": 2,
-            "name": "Tumul_1",
-            "localname": "Tumul_1",
+            "name": "Tumul_Project_Resource",
+            "localname": "Tumul_Project_Resource",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
