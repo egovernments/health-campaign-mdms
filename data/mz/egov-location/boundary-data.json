@@ -75,6 +75,65 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "test_id_6",
+            "boundaryNum": 2,
+            "name": "TEST_1",
+            "localname": "TEST_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "test_id_6",
+            "children": [
+              {
+                "id": "test_id_7",
+                "boundaryNum": 3,
+                "name": "TEST_2",
+                "localname": "TEST_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "test_id_7",
+                "children": [
+                  {
+                    "id": "test_id_8",
+                    "boundaryNum": 4,
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "test_id_8",
+                    "children": [
+                      {
+                        "id": "test_id_9",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "test_id_9",
+                        "children": [
+                          {
+                            "id": "test_id_10",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "test_id_10",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
