@@ -490,6 +490,17 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "123456789",
+            "boundaryNum": 2,
+            "name": "TEST_1",
+            "localname": "TEST_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "123456789",
+            "children": []
           }
         ]
       }
