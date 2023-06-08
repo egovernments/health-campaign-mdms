@@ -27,6 +27,17 @@
             "label": "Provincia",
             "code": "123456",
             "children": []
+          },
+          {
+            "id": "-2",
+            "boundaryNum": 2,
+            "name": "Tumul_Create",
+            "localname": "Tumul_Create",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "-2",
+            "children": []
           }
         ]
       }
