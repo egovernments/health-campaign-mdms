@@ -50,8 +50,8 @@
                       {
                         "id": "test_id_4",
                         "boundaryNum": 5,
-                        "name": "Tumul_1_UPDATE",
-                        "localname": "Tumul_1_UPDATE",
+                        "name": "Tumul_1",
+                        "localname": "Tumul_1",
                         "longitude": null,
                         "latitude": null,
                         "label": "Localidade",
@@ -60,8 +60,8 @@
                           {
                             "id": "test_id_5",
                             "boundaryNum": 6,
-                            "name": "Tumul_1_UPDATE",
-                            "localname": "Tumul_1_UPDATE",
+                            "name": "Tumul_1",
+                            "localname": "Tumul_1",
                             "longitude": null,
                             "latitude": null,
                             "label": "Aldeia",
