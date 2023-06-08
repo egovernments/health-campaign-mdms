@@ -18,6 +18,17 @@
         "code": "LC00001",
         "children": [
           {
+            "id": "123456",
+            "boundaryNum": 2,
+            "name": "123456",
+            "localname": "123456",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "123456",
+            "children": []
+          },
+          {
             "id": "test_id_1",
             "boundaryNum": 2,
             "name": "Tumul_1",
@@ -75,17 +86,6 @@
                 ]
               }
             ]
-          },
-          {
-            "id": "123456",
-            "boundaryNum": 2,
-            "name": "123456",
-            "localname": "123456",
-            "longitude": null,
-            "latitude": null,
-            "label": "Provincia",
-            "code": "123456",
-            "children": []
           },
           {
             "id": "test_1",
