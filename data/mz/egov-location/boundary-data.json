@@ -29,12 +29,12 @@
             "children": [
               {
                 "id": "test_id_2",
-                "boundaryNum": 4,
+                "boundaryNum": 3,
                 "name": "Tumul_1",
                 "localname": "Tumul_1",
                 "longitude": null,
                 "latitude": null,
-                "label": "Posto Administrativo",
+                "label": "Distrito",
                 "code": "test_id_2",
                 "children": []
               }
