@@ -20,8 +20,8 @@
           {
             "id": "test_id_1",
             "boundaryNum": 2,
-            "name": "Tumul_1_UPDATE",
-            "localname": "Tumul_1_UPDATE",
+            "name": "Tumul_1",
+            "localname": "Tumul_1",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
@@ -30,13 +30,49 @@
               {
                 "id": "test_id_2",
                 "boundaryNum": 3,
-                "name": "Tumul_1_UPDATE",
-                "localname": "Tumul_1_UPDATE",
+                "name": "Tumul_1",
+                "localname": "Tumul_1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Distrito",
                 "code": "test_id_2",
-                "children": []
+                "children": [
+                  {
+                    "id": "test_id_3",
+                    "boundaryNum": 4,
+                    "name": "Tumul_1",
+                    "localname": "Tumul_1",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "test_id_3",
+                    "children": [
+                      {
+                        "id": "test_id_4",
+                        "boundaryNum": 5,
+                        "name": "Tumul_1",
+                        "localname": "Tumul_1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "test_id_4",
+                        "children": [
+                          {
+                            "id": "test_id_5",
+                            "boundaryNum": 6,
+                            "name": "Tumul_1",
+                            "localname": "Tumul_1",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "test_id_5",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
