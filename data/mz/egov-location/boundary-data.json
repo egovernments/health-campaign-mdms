@@ -29,17 +29,6 @@
             "children": []
           },
           {
-            "id": "-2",
-            "boundaryNum": 2,
-            "name": "Tumul_Create",
-            "localname": "Tumul_Create",
-            "longitude": null,
-            "latitude": null,
-            "label": "Provincia",
-            "code": "-2",
-            "children": []
-          },
-          {
             "id": "test_1",
             "boundaryNum": 2,
             "name": "Tumul_Create",
@@ -156,6 +145,17 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "-2",
+            "boundaryNum": 2,
+            "name": "Tumul_1",
+            "localname": "Tumul_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "-2",
+            "children": []
           }
         ]
       }
