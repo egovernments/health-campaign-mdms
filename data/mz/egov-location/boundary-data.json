@@ -8,75 +8,64 @@
         "name": "ADMIN"
       },
       "boundary": {
-        "id": "LC00001",
+        "id": "mz",
         "boundaryNum": 1,
         "name": "MOZAMBIQUE",
         "localname": "MOZAMBIQUE",
         "longitude": null,
         "latitude": null,
         "label": null,
-        "code": "LC00001",
+        "code": "mz",
         "children": [
           {
-            "id": "123456",
+            "id": "kmtestid_01",
             "boundaryNum": 2,
-            "name": "123456",
-            "localname": "123456",
+            "name": "TEST_1",
+            "localname": "TEST_1",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
-            "code": "123456",
-            "children": []
-          },
-          {
-            "id": "test_1",
-            "boundaryNum": 2,
-            "name": "Tumul_Create",
-            "localname": "Tumul_Create",
-            "longitude": null,
-            "latitude": null,
-            "label": "Provincia",
-            "code": "test_1",
+            "code": "kmtestid_01",
             "children": [
               {
-                "id": "test_2",
+                "id": "kmtestid_02",
                 "boundaryNum": 3,
-                "name": "Tumul_Create",
-                "localname": "Tumul_Create",
+                "name": "TEST_2",
+                "localname": "TEST_2",
                 "longitude": null,
                 "latitude": null,
                 "label": "Distrito",
-                "code": "test_2",
+                "code": "kmtestid_02",
                 "children": [
                   {
-                    "id": "test_3",
+                    "id": "kmtestid_03",
                     "boundaryNum": 4,
-                    "name": "Tumul_Create",
-                    "localname": "Tumul_Create",
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Posto Administrativo",
-                    "code": "test_3",
+                    "code": "kmtestid_03",
                     "children": [
                       {
-                        "id": "test_4",
+                        "id": "kmtestid_04",
                         "boundaryNum": 5,
-                        "name": "Tumul_Create",
-                        "localname": "Tumul_Create",
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
                         "longitude": null,
                         "latitude": null,
                         "label": "Localidade",
-                        "code": "test_4",
+                        "code": "kmtestid_04",
                         "children": [
                           {
-                            "id": "test_5",
+                            "id": "kmtestid_05",
                             "boundaryNum": 6,
-                            "name": "Tumul_Create",
-                            "localname": "Tumul_Create",
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
                             "longitude": null,
                             "latitude": null,
                             "label": "Aldeia",
-                            "code": "test_5",
+                            "code": "kmtestid_05",
                             "children": []
                           }
                         ]
@@ -88,54 +77,54 @@
             ]
           },
           {
-            "id": "test_id_1",
+            "id": "test_id_6",
             "boundaryNum": 2,
-            "name": "Tumul_1",
-            "localname": "Tumul_1",
+            "name": "TEST_1",
+            "localname": "TEST_1",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
-            "code": "test_id_1",
+            "code": "test_id_6",
             "children": [
               {
-                "id": "test_id_2",
+                "id": "test_id_7",
                 "boundaryNum": 3,
-                "name": "Tumul_1",
-                "localname": "Tumul_1",
+                "name": "TEST_2",
+                "localname": "TEST_2",
                 "longitude": null,
                 "latitude": null,
                 "label": "Distrito",
-                "code": "test_id_2",
+                "code": "test_id_7",
                 "children": [
                   {
-                    "id": "test_id_3",
+                    "id": "test_id_8",
                     "boundaryNum": 4,
-                    "name": "Tumul_1",
-                    "localname": "Tumul_1",
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
                     "longitude": null,
                     "latitude": null,
                     "label": "Posto Administrativo",
-                    "code": "test_id_3",
+                    "code": "test_id_8",
                     "children": [
                       {
-                        "id": "test_id_4",
+                        "id": "test_id_9",
                         "boundaryNum": 5,
-                        "name": "Tumul_1",
-                        "localname": "Tumul_1",
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
                         "longitude": null,
                         "latitude": null,
                         "label": "Localidade",
-                        "code": "test_id_4",
+                        "code": "test_id_9",
                         "children": [
                           {
-                            "id": "test_id_5",
+                            "id": "test_id_10",
                             "boundaryNum": 6,
-                            "name": "Tumul_1",
-                            "localname": "Tumul_1",
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
                             "longitude": null,
                             "latitude": null,
                             "label": "Aldeia",
-                            "code": "test_id_5",
+                            "code": "test_id_10",
                             "children": []
                           }
                         ]
@@ -147,14 +136,370 @@
             ]
           },
           {
-            "id": "-2",
+            "id": "kmtestid_1",
             "boundaryNum": 2,
-            "name": "Tumul_1",
-            "localname": "Tumul_1",
+            "name": "TEST_1",
+            "localname": "TEST_1",
             "longitude": null,
             "latitude": null,
             "label": "Provincia",
-            "code": "-2",
+            "code": "kmtestid_1",
+            "children": [
+              {
+                "id": "kmtestid_2",
+                "boundaryNum": 3,
+                "name": "TEST_2",
+                "localname": "TEST_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "kmtestid_2",
+                "children": [
+                  {
+                    "id": "kmtestid_3",
+                    "boundaryNum": 4,
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "kmtestid_3",
+                    "children": [
+                      {
+                        "id": "kmtestid_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_4",
+                        "children": [
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "kmtestid_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_4",
+                        "children": [
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "kmtestid_3",
+                    "boundaryNum": 4,
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "kmtestid_3",
+                    "children": [
+                      {
+                        "id": "kmtestid_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_4",
+                        "children": [
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "kmtestid_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_4",
+                        "children": [
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "kmtestid_2",
+                "boundaryNum": 3,
+                "name": "TEST_2",
+                "localname": "TEST_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "kmtestid_2",
+                "children": [
+                  {
+                    "id": "kmtestid_3",
+                    "boundaryNum": 4,
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "kmtestid_3",
+                    "children": [
+                      {
+                        "id": "kmtestid_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_4",
+                        "children": [
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "kmtestid_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_4",
+                        "children": [
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "kmtestid_3",
+                    "boundaryNum": 4,
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "kmtestid_3",
+                    "children": [
+                      {
+                        "id": "kmtestid_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_4",
+                        "children": [
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "kmtestid_4",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_4",
+                        "children": [
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          },
+                          {
+                            "id": "kmtestid_5",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_5",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "123456789",
+            "boundaryNum": 2,
+            "name": "TEST_1",
+            "localname": "TEST_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "123456789",
             "children": []
           }
         ]
