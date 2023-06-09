@@ -85,7 +85,55 @@
             "latitude": null,
             "label": "Provincia",
             "code": "kmtestid_16",
-            "children": []
+            "children": [
+              {
+                "id": "kmtestid_17",
+                "boundaryNum": 3,
+                "name": "TEST_2",
+                "localname": "TEST_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "kmtestid_17",
+                "children": [
+                  {
+                    "id": "kmtestid_18",
+                    "boundaryNum": 4,
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "kmtestid_18",
+                    "children": [
+                      {
+                        "id": "kmtestid_19",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_19",
+                        "children": [
+                          {
+                            "id": "kmtestid_20",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_20",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           },
           {
             "id": "test_id_6",
