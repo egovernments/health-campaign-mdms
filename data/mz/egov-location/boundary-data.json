@@ -77,6 +77,17 @@
             ]
           },
           {
+            "id": "kmtestid_16",
+            "boundaryNum": 2,
+            "name": "TEST_1",
+            "localname": "TEST_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "kmtestid_16",
+            "children": []
+          },
+          {
             "id": "test_id_6",
             "boundaryNum": 2,
             "name": "TEST_1",
