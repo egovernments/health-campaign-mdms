@@ -10,7 +10,7 @@
       "TENANT_ID": "default",
       "BACKGROUND_SERVICE_CONFIG": {
         "BATTERY_PERCENT_CUT_OFF": 10,
-        "SERVICE_INTERVAL": 600,
+        "SERVICE_INTERVAL": 500,
         "API_CONCURRENCY": 2
       },
       "BANDWIDTH_BATCH_SIZE": [
@@ -23,16 +23,6 @@
           "MIN_RANGE": 0.20,
           "MAX_RANGE": 0.50,
           "BATCH_SIZE": 5
-        },
-        {
-          "MIN_RANGE": 0.50,
-          "MAX_RANGE": 1,
-          "BATCH_SIZE": 10
-        },
-        {
-          "MIN_RANGE": 1,
-          "MAX_RANGE": 5,
-          "BATCH_SIZE": 15
         }
       ],
       "LANGUAGES": [
