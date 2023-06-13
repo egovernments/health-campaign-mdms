@@ -14,9 +14,20 @@
         "localname": "MOZAMBIQUE",
         "longitude": null,
         "latitude": null,
-        "label": "Country",
+        "label": null,
         "code": "mz",
         "children": [
+          {
+            "id": "-2",
+            "boundaryNum": 2,
+            "name": "TEST_1",
+            "localname": "TEST_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "-2",
+            "children": []
+          },
           {
             "id": "UN0aH8CjbZJ",
             "boundaryNum": 2,
