@@ -3,11 +3,7 @@
   "moduleName": "Workflow",
   "BusinessServiceConfig": [
     {
-      "code": "NEWTL",
-      "isStateLevel": true
-    },
-    {
-      "code": "FIRENOC",
+      "code": "PGR",
       "isStateLevel": true
     }
   ]
