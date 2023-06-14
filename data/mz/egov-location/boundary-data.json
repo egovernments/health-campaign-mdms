@@ -14,9 +14,341 @@
         "localname": "MOZAMBIQUE",
         "longitude": null,
         "latitude": null,
-        "label": "Country",
+        "label": null,
         "code": "mz",
         "children": [
+          {
+            "id": "coEbHyby9NV",
+            "boundaryNum": 2,
+            "name": "TETE",
+            "localname": "TETE",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "coEbHyby9NV",
+            "children": [
+              {
+                "id": "VPhgQloRrsV",
+                "boundaryNum": 3,
+                "name": "CHANGARA",
+                "localname": "CHANGARA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "VPhgQloRrsV",
+                "children": []
+              },
+              {
+                "id": "S8C4IKdeevh",
+                "boundaryNum": 3,
+                "name": "TSANGANO",
+                "localname": "TSANGANO",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "S8C4IKdeevh",
+                "children": []
+              },
+              {
+                "id": "sjlxPzMHEE9",
+                "boundaryNum": 3,
+                "name": "ANGÓNIA",
+                "localname": "ANGÓNIA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "sjlxPzMHEE9",
+                "children": []
+              },
+              {
+                "id": "dxRTm6DGVxv",
+                "boundaryNum": 3,
+                "name": "CIDADE DE TETE",
+                "localname": "CIDADE DE TETE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "dxRTm6DGVxv",
+                "children": []
+              },
+              {
+                "id": "mOzeA3QUK3j",
+                "boundaryNum": 3,
+                "name": "CHIFUNDE",
+                "localname": "CHIFUNDE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "mOzeA3QUK3j",
+                "children": []
+              },
+              {
+                "id": "Y4KNz4KZ5eG",
+                "boundaryNum": 3,
+                "name": "MUTARARA",
+                "localname": "MUTARARA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "Y4KNz4KZ5eG",
+                "children": []
+              },
+              {
+                "id": "wY0ScVjjv14",
+                "boundaryNum": 3,
+                "name": "MARÁVIA",
+                "localname": "MARÁVIA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "wY0ScVjjv14",
+                "children": []
+              },
+              {
+                "id": "jFycbhuIZEv",
+                "boundaryNum": 3,
+                "name": "MÁGOÈ",
+                "localname": "MÁGOÈ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "jFycbhuIZEv",
+                "children": []
+              },
+              {
+                "id": "FWTfHWRHAkc",
+                "boundaryNum": 3,
+                "name": "MOATIZE",
+                "localname": "MOATIZE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "FWTfHWRHAkc",
+                "children": []
+              },
+              {
+                "id": "esQmEJ5d38U",
+                "boundaryNum": 3,
+                "name": "DOA",
+                "localname": "DOA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "esQmEJ5d38U",
+                "children": []
+              },
+              {
+                "id": "ySExqurKdXh",
+                "boundaryNum": 3,
+                "name": "CHIUTA",
+                "localname": "CHIUTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "ySExqurKdXh",
+                "children": []
+              },
+              {
+                "id": "JKi4pw70tGe",
+                "boundaryNum": 3,
+                "name": "MARARA",
+                "localname": "MARARA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "JKi4pw70tGe",
+                "children": []
+              },
+              {
+                "id": "rgCBbpP1UuU",
+                "boundaryNum": 3,
+                "name": "MACANGA",
+                "localname": "MACANGA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "rgCBbpP1UuU",
+                "children": []
+              },
+              {
+                "id": "gi1GeKbkPQo",
+                "boundaryNum": 3,
+                "name": "ZUMBO",
+                "localname": "ZUMBO",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "gi1GeKbkPQo",
+                "children": []
+              },
+              {
+                "id": "ckWXpbBUYkL",
+                "boundaryNum": 3,
+                "name": "CAHORA BASSA",
+                "localname": "CAHORA BASSA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "ckWXpbBUYkL",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "UN0aH8CjbZJ",
+            "boundaryNum": 2,
+            "name": "SOFALA",
+            "localname": "SOFALA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "UN0aH8CjbZJ",
+            "children": [
+              {
+                "id": "gekPEVffW2N",
+                "boundaryNum": 3,
+                "name": "CIDADE DA BEIRA",
+                "localname": "CIDADE DA BEIRA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "gekPEVffW2N",
+                "children": []
+              },
+              {
+                "id": "uLdnSiYhUUf",
+                "boundaryNum": 3,
+                "name": "MARROMEU",
+                "localname": "MARROMEU",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "uLdnSiYhUUf",
+                "children": []
+              },
+              {
+                "id": "aamE7hzQvfv",
+                "boundaryNum": 3,
+                "name": "BÚZI",
+                "localname": "BÚZI",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "aamE7hzQvfv",
+                "children": []
+              },
+              {
+                "id": "D5xRuCViKkL",
+                "boundaryNum": 3,
+                "name": "DONDO",
+                "localname": "DONDO",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "D5xRuCViKkL",
+                "children": []
+              },
+              {
+                "id": "X4KvaPIIZUF",
+                "boundaryNum": 3,
+                "name": "MUANZA",
+                "localname": "MUANZA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "X4KvaPIIZUF",
+                "children": []
+              },
+              {
+                "id": "pK2u1vfipYX",
+                "boundaryNum": 3,
+                "name": "CHERINGOMA",
+                "localname": "CHERINGOMA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "pK2u1vfipYX",
+                "children": []
+              },
+              {
+                "id": "CrP6le61OwN",
+                "boundaryNum": 3,
+                "name": "MACHANGA",
+                "localname": "MACHANGA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "CrP6le61OwN",
+                "children": []
+              },
+              {
+                "id": "DGWPCkcrGy7",
+                "boundaryNum": 3,
+                "name": "CAIA",
+                "localname": "CAIA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "DGWPCkcrGy7",
+                "children": []
+              },
+              {
+                "id": "teBArJO4QUJ",
+                "boundaryNum": 3,
+                "name": "MARÍNGUE",
+                "localname": "MARÍNGUE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "teBArJO4QUJ",
+                "children": []
+              },
+              {
+                "id": "B9NS6Ost0ca",
+                "boundaryNum": 3,
+                "name": "GORONGOSA",
+                "localname": "GORONGOSA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "B9NS6Ost0ca",
+                "children": []
+              },
+              {
+                "id": "rVpIjA5IDiX",
+                "boundaryNum": 3,
+                "name": "NHAMATANDA",
+                "localname": "NHAMATANDA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "rVpIjA5IDiX",
+                "children": []
+              },
+              {
+                "id": "JRE0m9rYQ0z",
+                "boundaryNum": 3,
+                "name": "CHEMBA",
+                "localname": "CHEMBA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "JRE0m9rYQ0z",
+                "children": []
+              },
+              {
+                "id": "QV0CXtYmlU7",
+                "boundaryNum": 3,
+                "name": "CHIBABAVA",
+                "localname": "CHIBABAVA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "QV0CXtYmlU7",
+                "children": []
+              }
+            ]
+          },
           {
             "id": "f5F6xAskA05",
             "boundaryNum": 2,
@@ -58096,161 +58428,6 @@
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "id": "UN0aH8CjbZJ",
-            "boundaryNum": 2,
-            "name": "SOFALA",
-            "localname": "SOFALA",
-            "longitude": null,
-            "latitude": null,
-            "label": "Provincia",
-            "code": "UN0aH8CjbZJ",
-            "children": [
-              {
-                "id": "gekPEVffW2N",
-                "boundaryNum": 3,
-                "name": "CIDADE DA BEIRA",
-                "localname": "CIDADE DA BEIRA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "gekPEVffW2N",
-                "children": []
-              },
-              {
-                "id": "uLdnSiYhUUf",
-                "boundaryNum": 3,
-                "name": "MARROMEU",
-                "localname": "MARROMEU",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "uLdnSiYhUUf",
-                "children": []
-              },
-              {
-                "id": "aamE7hzQvfv",
-                "boundaryNum": 3,
-                "name": "BÚZI",
-                "localname": "BÚZI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "aamE7hzQvfv",
-                "children": []
-              },
-              {
-                "id": "D5xRuCViKkL",
-                "boundaryNum": 3,
-                "name": "DONDO",
-                "localname": "DONDO",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "D5xRuCViKkL",
-                "children": []
-              },
-              {
-                "id": "X4KvaPIIZUF",
-                "boundaryNum": 3,
-                "name": "MUANZA",
-                "localname": "MUANZA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "X4KvaPIIZUF",
-                "children": []
-              },
-              {
-                "id": "pK2u1vfipYX",
-                "boundaryNum": 3,
-                "name": "CHERINGOMA",
-                "localname": "CHERINGOMA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "pK2u1vfipYX",
-                "children": []
-              },
-              {
-                "id": "CrP6le61OwN",
-                "boundaryNum": 3,
-                "name": "MACHANGA",
-                "localname": "MACHANGA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "CrP6le61OwN",
-                "children": []
-              },
-              {
-                "id": "DGWPCkcrGy7",
-                "boundaryNum": 3,
-                "name": "CAIA",
-                "localname": "CAIA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "DGWPCkcrGy7",
-                "children": []
-              },
-              {
-                "id": "teBArJO4QUJ",
-                "boundaryNum": 3,
-                "name": "MARÍNGUE",
-                "localname": "MARÍNGUE",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "teBArJO4QUJ",
-                "children": []
-              },
-              {
-                "id": "B9NS6Ost0ca",
-                "boundaryNum": 3,
-                "name": "GORONGOSA",
-                "localname": "GORONGOSA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "B9NS6Ost0ca",
-                "children": []
-              },
-              {
-                "id": "rVpIjA5IDiX",
-                "boundaryNum": 3,
-                "name": "NHAMATANDA",
-                "localname": "NHAMATANDA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "rVpIjA5IDiX",
-                "children": []
-              },
-              {
-                "id": "JRE0m9rYQ0z",
-                "boundaryNum": 3,
-                "name": "CHEMBA",
-                "localname": "CHEMBA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "JRE0m9rYQ0z",
-                "children": []
-              },
-              {
-                "id": "QV0CXtYmlU7",
-                "boundaryNum": 3,
-                "name": "CHIBABAVA",
-                "localname": "CHIBABAVA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Distrito",
-                "code": "QV0CXtYmlU7",
-                "children": []
               }
             ]
           }
