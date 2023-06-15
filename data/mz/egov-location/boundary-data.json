@@ -18,6 +18,184 @@
         "code": "mz",
         "children": [
           {
+            "id": "kmtestid_16",
+            "boundaryNum": 2,
+            "name": "TEST_1",
+            "localname": "TEST_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "kmtestid_16",
+            "children": [
+              {
+                "id": "kmtestid_17",
+                "boundaryNum": 3,
+                "name": "TEST_2",
+                "localname": "TEST_2",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "kmtestid_17",
+                "children": [
+                  {
+                    "id": "kmtestid_18",
+                    "boundaryNum": 4,
+                    "name": "TEST_3",
+                    "localname": "TEST_3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "kmtestid_18",
+                    "children": [
+                      {
+                        "id": "kmtestid_19",
+                        "boundaryNum": 5,
+                        "name": "TEST_4",
+                        "localname": "TEST_4",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_19",
+                        "children": [
+                          {
+                            "id": "kmtestid_20",
+                            "boundaryNum": 6,
+                            "name": "TEST_5",
+                            "localname": "TEST_5",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_20",
+                            "children": [
+                              {
+                                "id": "kmtestid_21",
+                                "boundaryNum": 2,
+                                "name": "TEST_6",
+                                "localname": "TEST_6",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Provincia",
+                                "code": "kmtestid_21",
+                                "children": [
+                                  {
+                                    "id": "kmtestid_22",
+                                    "boundaryNum": 3,
+                                    "name": "TEST_7",
+                                    "localname": "TEST_7",
+                                    "longitude": null,
+                                    "latitude": null,
+                                    "label": "Distrito",
+                                    "code": "kmtestid_22",
+                                    "children": [
+                                      {
+                                        "id": "kmtestid_23",
+                                        "boundaryNum": 4,
+                                        "name": "TEST_8",
+                                        "localname": "TEST_8",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Posto Administrativo",
+                                        "code": "kmtestid_23",
+                                        "children": [
+                                          {
+                                            "id": "kmtestid_24",
+                                            "boundaryNum": 5,
+                                            "name": "TEST_9",
+                                            "localname": "TEST_9",
+                                            "longitude": null,
+                                            "latitude": null,
+                                            "label": "Localidade",
+                                            "code": "kmtestid_24",
+                                            "children": [
+                                              {
+                                                "id": "kmtestid_25",
+                                                "boundaryNum": 6,
+                                                "name": "TEST_10",
+                                                "localname": "TEST_10",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Aldeia",
+                                                "code": "kmtestid_25",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kmtestid_21",
+            "boundaryNum": 2,
+            "name": "TEST_6",
+            "localname": "TEST_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "kmtestid_21",
+            "children": [
+              {
+                "id": "kmtestid_22",
+                "boundaryNum": 3,
+                "name": "TEST_7",
+                "localname": "TEST_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "kmtestid_22",
+                "children": [
+                  {
+                    "id": "kmtestid_23",
+                    "boundaryNum": 4,
+                    "name": "TEST_8",
+                    "localname": "TEST_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "kmtestid_23",
+                    "children": [
+                      {
+                        "id": "kmtestid_24",
+                        "boundaryNum": 5,
+                        "name": "TEST_9",
+                        "localname": "TEST_9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_24",
+                        "children": [
+                          {
+                            "id": "kmtestid_25",
+                            "boundaryNum": 6,
+                            "name": "TEST_10",
+                            "localname": "TEST_10",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_25",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": "f5F6xAskA05",
             "boundaryNum": 2,
             "name": "NAMPULA",
@@ -58250,6 +58428,183 @@
                 "latitude": null,
                 "label": "Distrito",
                 "code": "QV0CXtYmlU7",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "coEbHyby9NV",
+            "boundaryNum": 2,
+            "name": "TETE",
+            "localname": "TETE",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "coEbHyby9NV",
+            "children": [
+              {
+                "id": "VPhgQloRrsV",
+                "boundaryNum": 3,
+                "name": "CHANGARA",
+                "localname": "CHANGARA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "VPhgQloRrsV",
+                "children": []
+              },
+              {
+                "id": "S8C4IKdeevh",
+                "boundaryNum": 3,
+                "name": "TSANGANO",
+                "localname": "TSANGANO",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "S8C4IKdeevh",
+                "children": []
+              },
+              {
+                "id": "sjlxPzMHEE9",
+                "boundaryNum": 3,
+                "name": "ANGÓNIA",
+                "localname": "ANGÓNIA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "sjlxPzMHEE9",
+                "children": []
+              },
+              {
+                "id": "dxRTm6DGVxv",
+                "boundaryNum": 3,
+                "name": "CIDADE DE TETE",
+                "localname": "CIDADE DE TETE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "dxRTm6DGVxv",
+                "children": []
+              },
+              {
+                "id": "mOzeA3QUK3j",
+                "boundaryNum": 3,
+                "name": "CHIFUNDE",
+                "localname": "CHIFUNDE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "mOzeA3QUK3j",
+                "children": []
+              },
+              {
+                "id": "Y4KNz4KZ5eG",
+                "boundaryNum": 3,
+                "name": "MUTARARA",
+                "localname": "MUTARARA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "Y4KNz4KZ5eG",
+                "children": []
+              },
+              {
+                "id": "wY0ScVjjv14",
+                "boundaryNum": 3,
+                "name": "MARÁVIA",
+                "localname": "MARÁVIA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "wY0ScVjjv14",
+                "children": []
+              },
+              {
+                "id": "jFycbhuIZEv",
+                "boundaryNum": 3,
+                "name": "MÁGOÈ",
+                "localname": "MÁGOÈ",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "jFycbhuIZEv",
+                "children": []
+              },
+              {
+                "id": "FWTfHWRHAkc",
+                "boundaryNum": 3,
+                "name": "MOATIZE",
+                "localname": "MOATIZE",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "FWTfHWRHAkc",
+                "children": []
+              },
+              {
+                "id": "esQmEJ5d38U",
+                "boundaryNum": 3,
+                "name": "DOA",
+                "localname": "DOA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "esQmEJ5d38U",
+                "children": []
+              },
+              {
+                "id": "ySExqurKdXh",
+                "boundaryNum": 3,
+                "name": "CHIUTA",
+                "localname": "CHIUTA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "ySExqurKdXh",
+                "children": []
+              },
+              {
+                "id": "JKi4pw70tGe",
+                "boundaryNum": 3,
+                "name": "MARARA",
+                "localname": "MARARA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "JKi4pw70tGe",
+                "children": []
+              },
+              {
+                "id": "rgCBbpP1UuU",
+                "boundaryNum": 3,
+                "name": "MACANGA",
+                "localname": "MACANGA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "rgCBbpP1UuU",
+                "children": []
+              },
+              {
+                "id": "gi1GeKbkPQo",
+                "boundaryNum": 3,
+                "name": "ZUMBO",
+                "localname": "ZUMBO",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "gi1GeKbkPQo",
+                "children": []
+              },
+              {
+                "id": "ckWXpbBUYkL",
+                "boundaryNum": 3,
+                "name": "CAHORA BASSA",
+                "localname": "CAHORA BASSA",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "ckWXpbBUYkL",
                 "children": []
               }
             ]
