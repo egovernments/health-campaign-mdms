@@ -8,6 +8,33 @@
       "SYNC_METHOD": "API | OPLOG_UPLOAD",
       "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
       "TENANT_ID": "mz",
+      "BACKGROUND_SERVICE_CONFIG": {
+        "BATTERY_PERCENT_CUT_OFF": 10,
+        "SERVICE_INTERVAL": 600,
+        "API_CONCURRENCY": 2
+      },
+      "BANDWIDTH_BATCH_SIZE": [
+        {
+          "MIN_RANGE": 0.02,
+          "MAX_RANGE": 0.20,
+          "BATCH_SIZE": 1
+        },
+        {
+          "MIN_RANGE": 0.20,
+          "MAX_RANGE": 0.50,
+          "BATCH_SIZE": 5
+        },
+        {
+          "MIN_RANGE": 0.50,
+          "MAX_RANGE": 1,
+          "BATCH_SIZE": 10
+        },
+        {
+          "MIN_RANGE": 1,
+          "MAX_RANGE": 5,
+          "BATCH_SIZE": 15
+        }
+      ],
       "LANGUAGES": [
         {
           "label": "Portuguese",
@@ -241,6 +268,20 @@
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-warehouse-details",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-inventory-selection",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+          {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-inventory-details",
             "config": {
               "localStoreTTL": 172800
             }
