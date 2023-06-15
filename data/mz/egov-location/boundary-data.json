@@ -66,6 +66,125 @@
                             "latitude": null,
                             "label": "Aldeia",
                             "code": "kmtestid_20",
+                            "children": [
+                              {
+                                "id": "kmtestid_21",
+                                "boundaryNum": 2,
+                                "name": "TEST_6",
+                                "localname": "TEST_6",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Provincia",
+                                "code": "kmtestid_21",
+                                "children": [
+                                  {
+                                    "id": "kmtestid_22",
+                                    "boundaryNum": 3,
+                                    "name": "TEST_7",
+                                    "localname": "TEST_7",
+                                    "longitude": null,
+                                    "latitude": null,
+                                    "label": "Distrito",
+                                    "code": "kmtestid_22",
+                                    "children": [
+                                      {
+                                        "id": "kmtestid_23",
+                                        "boundaryNum": 4,
+                                        "name": "TEST_8",
+                                        "localname": "TEST_8",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Posto Administrativo",
+                                        "code": "kmtestid_23",
+                                        "children": [
+                                          {
+                                            "id": "kmtestid_24",
+                                            "boundaryNum": 5,
+                                            "name": "TEST_9",
+                                            "localname": "TEST_9",
+                                            "longitude": null,
+                                            "latitude": null,
+                                            "label": "Localidade",
+                                            "code": "kmtestid_24",
+                                            "children": [
+                                              {
+                                                "id": "kmtestid_25",
+                                                "boundaryNum": 6,
+                                                "name": "TEST_10",
+                                                "localname": "TEST_10",
+                                                "longitude": null,
+                                                "latitude": null,
+                                                "label": "Aldeia",
+                                                "code": "kmtestid_25",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "kmtestid_21",
+            "boundaryNum": 2,
+            "name": "TEST_6",
+            "localname": "TEST_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Provincia",
+            "code": "kmtestid_21",
+            "children": [
+              {
+                "id": "kmtestid_22",
+                "boundaryNum": 3,
+                "name": "TEST_7",
+                "localname": "TEST_7",
+                "longitude": null,
+                "latitude": null,
+                "label": "Distrito",
+                "code": "kmtestid_22",
+                "children": [
+                  {
+                    "id": "kmtestid_23",
+                    "boundaryNum": 4,
+                    "name": "TEST_8",
+                    "localname": "TEST_8",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Posto Administrativo",
+                    "code": "kmtestid_23",
+                    "children": [
+                      {
+                        "id": "kmtestid_24",
+                        "boundaryNum": 5,
+                        "name": "TEST_9",
+                        "localname": "TEST_9",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Localidade",
+                        "code": "kmtestid_24",
+                        "children": [
+                          {
+                            "id": "kmtestid_25",
+                            "boundaryNum": 6,
+                            "name": "TEST_10",
+                            "localname": "TEST_10",
+                            "longitude": null,
+                            "latitude": null,
+                            "label": "Aldeia",
+                            "code": "kmtestid_25",
                             "children": []
                           }
                         ]
