@@ -3,8 +3,28 @@
   "moduleName": "roles",
   "rolesMapping": [{
     "Register": "REGISTRAR",
+    "Registrar": "REGISTRAR",
+    "Registrador": "REGISTRAR",
+    "Registrador group": "REGISTRAR",
+    "Distribuição": "DISTRIBUTOR",
+    "Distributor": "DISTRIBUTOR",
     "Logístico distrital": "DISTRIBUTOR",
-    "Superuser": "DHIS2_SUPERUSER",
-    "Distrital": "DISTRICT_SUPERVISOR"
+    "Logístico distrital group": "DISTRIBUTOR",
+    "District Warehouse manager": "WAREHOUSE_MANAGER",
+    "Satellite warehouse manager": "WAREHOUSE_MANAGER",
+    "Fiel do Armazém Comunitário Group": "WAREHOUSE_MANAGER",
+    "Fiél do armazém distrital group": "WAREHOUSE_MANAGER",
+    "Superuser": "SYSTEM_ADMINISTRATOR",
+    "Distrital": "SUPERVISOR,DISTRICT_SUPERVISOR",
+    "District Supervisor": "SUPERVISOR,DISTRICT_SUPERVISOR",
+    "Districtal supervisor": "SUPERVISOR,DISTRICT_SUPERVISOR",
+    "Supervisor Distrital group": "SUPERVISOR,DISTRICT_SUPERVISOR",
+    "Provincial Supervisor": "SUPERVISOR,PROVINCIAL_SUPERVISOR",
+    "Supervisor Provincial group": "SUPERVISOR,PROVINCIAL_SUPERVISOR",
+    "National Supervisor": "SUPERVISOR,NATIONAL_SUPERVISOR",
+    "Supervisor Nacional group": "SUPERVISOR,NATIONAL_SUPERVISOR",
+    "Monitor Local": "SUPERVISOR,FIELD_SUPERVISOR",
+    "Local Monitor": "SUPERVISOR,FIELD_SUPERVISOR",
+    "Monitor Local group": "SUPERVISOR,FIELD_SUPERVISOR"
   }]
 }
