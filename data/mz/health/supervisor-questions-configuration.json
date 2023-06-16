@@ -1,0 +1,118 @@
+{
+  "tenantId": "mz",
+  "moduleName": "HCM-MOZ-SUPERVISOR-CHECKLIST",
+  "supervisorQuestions": {
+    "DEV": {
+      "checklistNamesMap": {
+        "Eyk0gAosuLH": "REGISTRATION_BASIC",
+        "u8SwpaVWT4g": "LOCAL_MONITOR_TRAINING",
+        "lKGVZrNxac5": "DISTRICT_MONITOR_TRAINING,AS_MONITORING",
+        "AsYF0CXlRu0": "REGISTRATION_TEAM_TRAINING"
+      },
+      "checklistQuestionsMap": {
+        "REGISTRATION_BASIC": {
+            "NATIONAL_SUPERVISOR": {
+              "": "ATTR1",
+              "": "ATTR2",
+              "": "ATTR3",
+              "": "ATTR4"
+            },
+            "PROVINCIAL_SUPERVISOR": {
+              "": "ATTR1",
+              "": "ATTR2",
+              "": "ATTR3",
+              "": "ATTR4"
+            },
+            "DISTRICT_SUPERVISOR": {
+              "": "ATTR1",
+              "": "ATTR2",
+              "": "ATTR3",
+              "": "ATTR4"
+            }
+        },
+        "LOCAL_MONITOR_TRAINING": {
+          "NATIONAL_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          },
+          "PROVINCIAL_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          },
+          "DISTRICT_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          }
+        },
+        "DISTRICT_MONITOR_TRAINING": {
+          "NATIONAL_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          },
+          "PROVINCIAL_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          },
+          "DISTRICT_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          }
+        },
+        "REGISTRATION_TEAM_TRAINING": {
+          "NATIONAL_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          },
+          "PROVINCIAL_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          },
+          "DISTRICT_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          }
+        },
+        "AS_MONITORING": {
+          "NATIONAL_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          },
+          "PROVINCIAL_SUPERVISOR": {
+            "": "ATTR1",
+            "": "ATTR2",
+            "": "ATTR3",
+            "": "ATTR4"
+          },
+          "DISTRICT_SUPERVISOR": {
+            "Ocb3LinLFYX": "AST1",
+            "": "AST2",
+            "": "ATTR3",
+            "": "ATTR4"
+          }
+        }
+      }
+    },
+    "QA": {},
+    "UAT": {}
+  }
+}
