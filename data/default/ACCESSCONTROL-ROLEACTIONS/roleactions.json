@@ -8,13 +8,19 @@
       "actioncode": "",
       "tenantid": "default"
     },
-      {
+    {
       "rolecode": "REGISTRAR",
       "actionid": 1629,
       "actioncode": "",
       "tenantId": "default"
     },
-      {
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 1651,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1633,
       "actioncode": "",
@@ -14926,6 +14932,12 @@
     },
     {
       "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1651,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
       "actionid": 1594,
       "actioncode": "",
       "tenantId": "default"
@@ -15047,6 +15059,12 @@
     {
       "rolecode": "FIELD_SUPERVISOR",
       "actionid": 1545,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 1651,
       "actioncode": "",
       "tenantId": "default"
     },
