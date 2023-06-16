@@ -4,110 +4,90 @@
   "supervisorQuestions": {
     "DEV": {
       "checklistNamesMap": {
-        "Eyk0gAosuLH": "REGISTRATION_BASIC",
-        "u8SwpaVWT4g": "LOCAL_MONITOR_TRAINING",
-        "lKGVZrNxac5": "DISTRICT_MONITOR_TRAINING,AS_MONITORING",
-        "AsYF0CXlRu0": "REGISTRATION_TEAM_TRAINING"
+        "REGISTRATION_BASIC":  "Eyk0gAosuLH",
+        "LOCAL_MONITOR_TRAINING":  "u8SwpaVWT4g",
+        "DISTRICT_MONITOR_TRAINING": "lKGVZrNxac5",
+        "AS_MONITORING":  "lKGVZrNxac5",
+        "REGISTRATION_TEAM_TRAINING": "AsYF0CXlRu0"
       },
       "checklistQuestionsMap": {
         "REGISTRATION_BASIC": {
-            "NATIONAL_SUPERVISOR": {
-              "": "ATTR1",
-              "": "ATTR2",
-              "": "ATTR3",
-              "": "ATTR4"
-            },
-            "PROVINCIAL_SUPERVISOR": {
-              "": "ATTR1",
-              "": "ATTR2",
-              "": "ATTR3",
-              "": "ATTR4"
-            },
-            "DISTRICT_SUPERVISOR": {
-              "": "ATTR1",
-              "": "ATTR2",
-              "": "ATTR3",
-              "": "ATTR4"
-            }
+            "NATIONAL_SUPERVISOR": {},
+            "PROVINCIAL_SUPERVISOR": {},
+            "DISTRICT_SUPERVISOR": {}
         },
         "LOCAL_MONITOR_TRAINING": {
-          "NATIONAL_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          },
-          "PROVINCIAL_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          },
-          "DISTRICT_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          }
+          "NATIONAL_SUPERVISOR": {},
+          "PROVINCIAL_SUPERVISOR": {},
+          "DISTRICT_SUPERVISOR": {}
         },
         "DISTRICT_MONITOR_TRAINING": {
-          "NATIONAL_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          },
-          "PROVINCIAL_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          },
+          "NATIONAL_SUPERVISOR": {},
+          "PROVINCIAL_SUPERVISOR": {},
           "DISTRICT_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
+            "Ocb3LinLFYX": "AST1",
+            "rPKvi7BRSZ5": "AST1.ADDITIONAL_FIELD",
+            "dMaO78JmwC4": "AST2",
+            "Q4EwW6s7UBd": "AST2.ADDITIONAL_FIELD",
+            "xJnqWTipGld": "AST3",
+            "F3mOI5MwxQa": "AST3.ADDITIONAL_FIELD",
+            "zU6gNAPnXdV": "AST4",
+            "LoBD02CQI52": "AST4.ADDITIONAL_FIELD",
+            "ZfxRYTOBU20": "AST5",
+            "U4Ya5ulnY8v": "AST5.ADDITIONAL_FIELD",
+            "ViDnE0SBveo": "AST6",
+            "gaJrZXu5Iam": "AST6.ADDITIONAL_FIELD",
+            "KoKiqc9x4Rv": "AST7",
+            "oKCkhFl7qJE": "AST7.ADDITIONAL_FIELD",
+            "XELcgUNMDTE": "AST8",
+            "iOGYJ4fnifo": "AST8.ADDITIONAL_FIELD",
+            "zv58eWH7tul": "AST9",
+            "qbD2vnyPXlV": "AST9.ADDITIONAL_FIELD",
+            "jTnWKQU1gtf": "AST10",
+            "ZK4OUwYGSfP": "AST10.ADDITIONAL_FIELD",
+            "NnaIYBpRxag": "AST11",
+            "NUvwwFBW941": "AST11.ADDITIONAL_FIELD",
+            "HpxQKgDGAhb": "AST12",
+            "d6Za6gdw0bx": "AST12.ADDITIONAL_FIELD",
+            "uWdYqpajMlW": "AST13",
+            "EOXWK1aFqyh": "AST13.ADDITIONAL_FIELD"
           }
         },
         "REGISTRATION_TEAM_TRAINING": {
-          "NATIONAL_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          },
-          "PROVINCIAL_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          },
-          "DISTRICT_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          }
+          "NATIONAL_SUPERVISOR": {},
+          "PROVINCIAL_SUPERVISOR": {},
+          "DISTRICT_SUPERVISOR": {}
         },
         "AS_MONITORING": {
-          "NATIONAL_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          },
-          "PROVINCIAL_SUPERVISOR": {
-            "": "ATTR1",
-            "": "ATTR2",
-            "": "ATTR3",
-            "": "ATTR4"
-          },
+          "NATIONAL_SUPERVISOR": {},
+          "PROVINCIAL_SUPERVISOR": {},
           "DISTRICT_SUPERVISOR": {
             "Ocb3LinLFYX": "AST1",
-            "": "AST2",
-            "": "ATTR3",
-            "": "ATTR4"
+            "rPKvi7BRSZ5": "AST1.ADDITIONAL_FIELD",
+            "dMaO78JmwC4": "AST2",
+            "Q4EwW6s7UBd": "AST2.ADDITIONAL_FIELD",
+            "xJnqWTipGld": "AST3",
+            "F3mOI5MwxQa": "AST3.ADDITIONAL_FIELD",
+            "zU6gNAPnXdV": "AST4",
+            "LoBD02CQI52": "AST4.ADDITIONAL_FIELD",
+            "ZfxRYTOBU20": "AST5",
+            "U4Ya5ulnY8v": "AST5.ADDITIONAL_FIELD",
+            "ViDnE0SBveo": "AST6",
+            "gaJrZXu5Iam": "AST6.ADDITIONAL_FIELD",
+            "KoKiqc9x4Rv": "AST7",
+            "oKCkhFl7qJE": "AST7.ADDITIONAL_FIELD",
+            "XELcgUNMDTE": "AST8",
+            "iOGYJ4fnifo": "AST8.ADDITIONAL_FIELD",
+            "zv58eWH7tul": "AST9",
+            "qbD2vnyPXlV": "AST9.ADDITIONAL_FIELD",
+            "jTnWKQU1gtf": "AST10",
+            "ZK4OUwYGSfP": "AST10.ADDITIONAL_FIELD",
+            "NnaIYBpRxag": "AST11",
+            "NUvwwFBW941": "AST11.ADDITIONAL_FIELD",
+            "HpxQKgDGAhb": "AST12",
+            "d6Za6gdw0bx": "AST12.ADDITIONAL_FIELD",
+            "uWdYqpajMlW": "AST13",
+            "EOXWK1aFqyh": "AST13.ADDITIONAL_FIELD"
           }
         }
       }
