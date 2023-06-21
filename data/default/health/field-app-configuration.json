@@ -420,10 +420,9 @@
           }
         ]
       },
-      "FIREBASE_CONFIGURATION": {
-        "CRASHLYTICS": {
-          "ENABLED": true
-        }
+      "FIREBASE_CONFIG": {
+        "enableCrashlytics": true,
+        "enableAnalytics": false
       }
     }
   ]
