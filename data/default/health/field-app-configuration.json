@@ -169,6 +169,13 @@
               "localStoreTTL": 172800
             }
           },
+             {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-reports",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-checklist",
@@ -429,6 +436,10 @@
             }
           }
         ]
+      },
+      "FIREBASE_CONFIG": {
+        "enableCrashlytics": true,
+        "enableAnalytics": false
       }
     }
   ]
