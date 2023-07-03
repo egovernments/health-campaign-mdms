@@ -22,6 +22,12 @@
     },
     {
       "rolecode": "DISTRIBUTOR",
+      "actionid": 695,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
       "actionid": 1633,
       "actioncode": "",
       "tenantId": "default"
