@@ -15971,6 +15971,18 @@
       "actionid": 698,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
