@@ -15655,7 +15655,8 @@
       "actionid": 1642,
       "actioncode": "",
       "tenantId": "default"
-    },{
+    },
+    {
       "rolecode": "REGISTRAR",
       "actionid": 1642,
       "actioncode": "",
@@ -15750,7 +15751,8 @@
       "actionid": 1643,
       "actioncode": "",
       "tenantId": "default"
-    },{
+    },
+    {
       "rolecode": "REGISTRAR",
       "actionid": 1643,
       "actioncode": "",
@@ -15981,6 +15983,12 @@
     {
       "rolecode": "FIELD_SUPERVISOR",
       "actionid": 698,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1651,
       "actioncode": "",
       "tenantId": "default"
     }
