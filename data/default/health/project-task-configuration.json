@@ -1,6 +1,7 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-PROJECT",
+  "version":"0.1",
   "projectConfiguration": [{
       "beneficiaryTypes": [
         "INDIVIDUAL",
