@@ -1,7 +1,6 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-FIELD-APP-CONFIG",
-  "version":"0.1",
   "appConfig": [
     {
       "NETWORK_DETECTION": "OFF | ON",
@@ -15,12 +14,6 @@
         "SERVICE_INTERVAL": 600,
         "API_CONCURRENCY": 2
       },
-      "ROW_VERSIONS": [
-        {
-          "module": "HCM-SERVICE-REGISTRY",
-          "version": "0.1"
-        }
-      ],
       "BANDWIDTH_BATCH_SIZE": [
         {
           "MIN_RANGE": 0.02,
