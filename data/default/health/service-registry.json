@@ -14,6 +14,11 @@
           "action": "search",
           "entityName": "User",
           "path": "/user/v1/_search"
+        },
+        {
+          "action": "update",
+          "entityName": "User",
+          "path": "/user/profile/_update"
         }
       ]
     },
