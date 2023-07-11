@@ -17,8 +17,8 @@
       },
       "ROW_VERSIONS": [
         {
-          "module": "",
-          "version": ""
+          "module": "HCM-SERVICE-REGISTRY",
+          "version": "0.1"
         }
       ],
       "BANDWIDTH_BATCH_SIZE": [
