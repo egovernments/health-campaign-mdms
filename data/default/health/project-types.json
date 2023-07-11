@@ -1,6 +1,7 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-PROJECT-TYPES",
+  "version":"0.1",
   "projectTypes": [
       {
         "id": "dbd45c31-de9e-4e62-a9b6-abb818928fd1",
