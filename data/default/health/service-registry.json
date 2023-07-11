@@ -1,6 +1,7 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-SERVICE-REGISTRY",
+  "version":"0.1",
   "serviceRegistry": [
     {
       "service": "USER",
