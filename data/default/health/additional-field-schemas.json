@@ -1,6 +1,7 @@
 {
   "tenantId": "default",
   "moduleName": "HCM-ADDITIONAL-FIELD-SCHEMAS",
+  "version":"0.1",
   "additionalFieldSchemas": [
       {
         "schema": "INDIVIDUAL",
