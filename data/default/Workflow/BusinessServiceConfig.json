@@ -5,6 +5,13 @@
     {
       "code": "PGR",
       "isStateLevel": true
+    },{
+      "code": "NEWTL",
+      "isStateLevel": true
+    },
+    {
+      "code": "FIRENOC",
+      "isStateLevel": true
     }
   ]
 }
