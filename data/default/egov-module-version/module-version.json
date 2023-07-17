@@ -8,11 +8,19 @@
         },
         {
             "module": "egov-location",
+<<<<<<< HEAD
             "version": "0.2"
+=======
+            "version": "0.1"
+>>>>>>> 231f6833 (updated the modules)
         },
         {
             "module": "HCM-FIELD-APP-CONFIG",
             "version": "0.1"
         }
     ]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 231f6833 (updated the modules)
