@@ -12,10 +12,6 @@
     {
       "code": "FIRENOC",
       "isStateLevel": true
-    },
-    {
-      "code": "PGR",
-      "isStateLevel": true
     }
   ]
 }
