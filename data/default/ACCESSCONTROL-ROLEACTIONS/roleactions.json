@@ -15321,6 +15321,12 @@
       "tenantId": "default"
     },
     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1621,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1622,
       "actioncode": "",
@@ -15400,6 +15406,12 @@
     },
     {
       "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
       "actionid": 1628,
       "actioncode": "",
       "tenantId": "default"
