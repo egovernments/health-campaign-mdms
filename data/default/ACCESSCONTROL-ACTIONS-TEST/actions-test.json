@@ -12411,7 +12411,7 @@
     {
       "id": 1652,
       "name": "Error dump",
-      "url": "project/data/errordump",
+      "url": "/project/data/errordump",
       "parentModule": "project",
       "displayName": "Error dump",
       "orderNumber": 0,
