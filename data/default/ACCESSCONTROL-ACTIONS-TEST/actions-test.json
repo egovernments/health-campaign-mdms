@@ -12407,6 +12407,18 @@
       "serviceCode": "project",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1652,
+      "name": "Error dump",
+      "url": "project/data/errordump",
+      "parentModule": "project",
+      "displayName": "Error dump",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
