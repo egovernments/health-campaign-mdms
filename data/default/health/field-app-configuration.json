@@ -170,7 +170,7 @@
               "localStoreTTL": 172800
             }
           },
-             {
+          {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-reports",
             "config": {
