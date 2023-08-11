@@ -12407,6 +12407,90 @@
       "serviceCode": "project",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1653,
+      "name": "Adverse Event Create",
+      "url": "/project/task/adverse_event/v1/_create",
+      "displayName": "Adverse Event Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1654,
+      "name": "Adverse Event Update",
+      "url": "/project/task/adverse_event/v1/_update",
+      "displayName": "Adverse Event Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1655,
+      "name": "Adverse Event Search",
+      "url": "/project/task/adverse_event/v1/_search",
+      "displayName": "Adverse Event Search",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1656,
+      "name": "Adverse Event Bulk Create",
+      "url": "/project/task/adverse_event/v1/bulk/_create",
+      "displayName": "Adverse Event Bulk Create",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1657,
+      "name": "Adverse Event Bulk Update",
+      "url": "/project/task/adverse_event/v1/bulk/_update",
+      "displayName": "Adverse Event Bulk Update",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1658,
+      "name": "Adverse Event Delete",
+      "url": "/project/task/adverse_event/v1/_delete",
+      "displayName": "Adverse Event Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1659,
+      "name": "Adverse Event Bulk Delete",
+      "url": "/project/task/adverse_event/v1/bulk/_delete",
+      "displayName": "Adverse Event Bulk Delete",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "project",
+      "code": "null",
+      "path": ""
     }
   ]
 }
