@@ -8400,6 +8400,84 @@
     },
     {
       "rolecode": "EMPLOYEE ADMIN",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "REGISTRAR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "STORE INCHARGE",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "NATIONAL_SUPERVISOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "PROVINCIAL_SUPERVISOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "WAREHOUSE_MANAGER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "FIELD_SUPERVISOR",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "HELPDESK_USER",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "L2_SUPPORT",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "EMPLOYEE ADMIN",
       "actionid": 863,
       "actioncode": "",
       "tenantid": "default"
@@ -16065,6 +16143,90 @@
       "actionid": 1651,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1661,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1661,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1662,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1662,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1663,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1663,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1664,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1664,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1665,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1666,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1666,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1667,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1667,
+      "actioncode": "",
+      "tenantid": "default"
     }
   ]
 }
