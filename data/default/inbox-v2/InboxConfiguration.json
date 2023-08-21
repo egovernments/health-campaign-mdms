@@ -55,6 +55,7 @@
         "defaultOrder": "ASC"
       },
       "sourceFilterPathList": [
+        "Data.currentProcessInstance",
         "Data.service.serviceRequestId",
         "Data.service.address.locality.code",
         "Data.service.applicationStatus",
