@@ -60,7 +60,7 @@
         "Data.service.address.locality.code",
         "Data.service.applicationStatus",
         "Data.service.user",
-        "Data.service.auditDetails.createdTime",
+        "Data.service.auditDetails.createdTime"
         ]
     }
   ]
