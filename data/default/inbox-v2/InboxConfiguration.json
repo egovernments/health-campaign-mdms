@@ -59,8 +59,11 @@
         "Data.service.serviceRequestId",
         "Data.service.address.locality.code",
         "Data.service.applicationStatus",
-        "Data.service.auditDetails.createdTime"
-       ]
+        "Data.service.user",
+        "Data.service.auditDetails.createdTime",
+        "Data.auditDetails"
+        ]
+
     }
   ]
 }
