@@ -12407,6 +12407,91 @@
       "serviceCode": "project",
       "code": "null",
       "path": ""
+    },
+      {
+      "id": 1652,
+      "name": "Beneficiary",
+      "url": "",
+      "displayName": "HOME_BENEFICIARY_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1653,
+      "name": "Manage Stocks",
+      "url": "",
+      "displayName": "HOME_MANAGE_STOCK_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1654,
+      "name": "View Reports",
+      "url": "",
+      "displayName": "HOME_VIEW_REPORTS_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1655,
+      "name": "Sync Data",
+      "url": "",
+      "displayName": "HOME_SYNC_DATA_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 1656,
+      "name": "Call Support",
+      "url": "",
+      "displayName": "HOME_CALL_BACK_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 1657,
+      "name": "File Complaint",
+      "url": "",
+      "displayName": "HOME_FILE_COMPLAINT",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
+    },
+      {
+      "id": 1658,
+      "name": "Checklist",
+      "url": "",
+      "displayName": "MY_CHECK_LIST_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
+    
   ]
 }
