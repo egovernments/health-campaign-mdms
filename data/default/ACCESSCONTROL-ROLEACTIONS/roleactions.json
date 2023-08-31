@@ -10,6 +10,13 @@
     },
     {
       "rolecode": "REGISTRAR",
+      "actionid": 1657,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+    
+    {
+      "rolecode": "REGISTRAR",
       "actionid": 1629,
       "actioncode": "",
       "tenantId": "default"
