@@ -12503,6 +12503,18 @@
       "serviceCode": "null",
       "code": "null",
       "path": ""
+    },
+        {
+      "id": 1660,
+      "name": "Stock Reconciliation",
+      "url": "",
+      "displayName": "HOME_STOCK_RECONCILIATION_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
   ]
 }
