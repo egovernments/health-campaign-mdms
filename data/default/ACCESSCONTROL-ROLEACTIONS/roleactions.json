@@ -88,6 +88,12 @@
       "actioncode": "",
       "tenantId": "default"
     },
+     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1660,
+      "actioncode": "",
+      "tenantId": "default"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 629,
