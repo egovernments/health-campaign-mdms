@@ -421,6 +421,46 @@
           "path": "/project/check/bandwidth"
         }
       ]
+    },
+    {
+      "service": "ADVERSE-EVENT",
+      "actions": [
+        {
+          "action": "create",
+          "entityName": "AdverseEvent",
+          "path": "/project/task/adverse_event/v1/_create"
+        },
+        {
+          "action": "update",
+          "entityName": "AdverseEvent",
+          "path": "/project/task/adverse_event/v1/_update"
+        },
+        {
+          "action": "search",
+          "entityName": "AdverseEvent",
+          "path": "/project/task/adverse_event/v1/_search"
+        },
+        {
+          "action": "delete",
+          "entityName": "AdverseEvent",
+          "path": "/project/task/adverse_event/v1/_delete"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "AdverseEvent",
+          "path": "/project/task/adverse_event/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "AdverseEvent",
+          "path": "/project/task/adverse_event/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "AdverseEvent",
+          "path": "/project/task/adverse_event/v1/bulk/_delete"
+        }
+      ]
     }
   ]
 }
