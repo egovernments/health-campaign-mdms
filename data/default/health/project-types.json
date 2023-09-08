@@ -110,7 +110,7 @@
           "isBaseUnitVariant": true
         }
       ],
-      "observationStrategy": "DOT",
+      "observationStrategy": "DOT1",
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
