@@ -198,6 +198,120 @@
           ]
         }
       ]
+    },
+    {
+      "id": "644c4356-5214-11ee-be56-0242ac120002",
+      "name": "configuration for Multi Round Campaigns",
+      "code": "MR-DN",
+      "group": "MALARIA",
+      "beneficiaryType": "INDIVIDUAL",
+      "eligibilityCriteria": [
+        "All households having members under the age of 18 are eligible.",
+        "Prison inmates are eligible."
+      ],
+      "taskProcedure": [
+        "1 bednet is to be distributed per 2 household members.",
+        "If there are 4 household members, 2 bednets should be distributed.",
+        "If there are 5 household members, 3 bednets should be distributed."
+      ],
+      "resources": [
+        {
+          "productVariantId": "PVAR-2022-12-20-000036",
+          "isBaseUnitVariant": false
+        },
+        {
+          "productVariantId": "PVAR-2022-12-20-000037",
+          "isBaseUnitVariant": true
+        }
+      ],
+      "observationStrategy": "DOT1",
+      "cycles": [
+        {
+          "mandatoryWaitSinceLastCycleInDays": null,
+          "deliveries": [
+            {
+              "mandatoryWaitSinceLastDeliveryInDays": null,
+              "ProductVariants": [
+                {
+                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "quantity": 1
+                },
+                {
+                  "productVariantId": "PVAR-2022-12-20-000038",
+                  "quantity": 2
+                }
+              ],
+              "deliveryStrategy": "DIRECT"
+            },
+            {
+              "mandatoryWaitSinceLastDeliveryInDays": "10",
+              "ProductVariants": [
+                { "productVariantId": "PVAR-2022-12-20-000037", "quantity": 1 }
+              ],
+              "deliveryStrategy": "DIRECT"
+            },
+            {
+              "mandatoryWaitSinceLastDeliveryInDays": "10",
+              "ProductVariants": [
+                {
+                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "quantity": 1
+                }
+              ],
+              "deliveryStrategy": "INDIRECT"
+            },
+            {
+              "mandatoryWaitSinceLastDeliveryInDays": "20",
+              "ProductVariants": [
+                {
+                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "quantity": 1
+                }
+              ],
+              "deliveryStrategy": "INDIRECT"
+            }
+          ]
+        },
+        {
+          "mandatoryWaitSinceLastCycleInDays": "30",
+          "deliveries": [
+            {
+              "mandatoryWaitSinceLastDeliveryInDays": "15",
+              "ProductVariants": [
+                {
+                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "quantity": 1
+                },
+                {
+                  "productVariantId": "PVAR-2022-12-20-000038",
+                  "quantity": 2
+                }
+              ],
+              "deliveryStrategy": "DIRECT"
+            },
+            {
+              "mandatoryWaitSinceLastDeliveryInDays": "10",
+              "ProductVariants": [
+                {
+                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "quantity": 1
+                }
+              ],
+              "deliveryStrategy": "INDIRECT"
+            },
+            {
+              "mandatoryWaitSinceLastDeliveryInDays": "20",
+              "ProductVariants": [
+                {
+                  "productVariantId": "PVAR-2022-12-20-000038",
+                  "quantity": 2
+                }
+              ],
+              "deliveryStrategy": "INDIRECT"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
