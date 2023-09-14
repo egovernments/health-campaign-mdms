@@ -216,11 +216,11 @@
       ],
       "resources": [
         {
-          "productVariantId": "PVAR-2022-12-20-000036",
+          "productVariantId": "PVAR-2023-02-22-000021",
           "isBaseUnitVariant": false
         },
         {
-          "productVariantId": "PVAR-2022-12-20-000037",
+          "productVariantId": "PVAR-2023-03-03-000023",
           "isBaseUnitVariant": true
         }
       ],
@@ -233,11 +233,11 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "productVariantId": "PVAR-2023-03-03-000021",
                   "quantity": 1
                 },
                 {
-                  "productVariantId": "PVAR-2022-12-20-000038",
+                  "productVariantId": "PVAR-2023-03-03-000023",
                   "quantity": 2
                 }
               ],
@@ -246,7 +246,10 @@
             {
               "mandatoryWaitSinceLastDeliveryInDays": "10",
               "ProductVariants": [
-                { "productVariantId": "PVAR-2022-12-20-000037", "quantity": 1 }
+                {
+                  "productVariantId": "PVAR-2023-03-03-000021",
+                  "quantity": 1
+                }
               ],
               "deliveryStrategy": "DIRECT"
             },
@@ -254,7 +257,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "10",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "productVariantId": "PVAR-2023-03-03-000023",
                   "quantity": 1
                 }
               ],
@@ -264,7 +267,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "20",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "productVariantId": "PVAR-2023-03-03-000021",
                   "quantity": 1
                 }
               ],
@@ -279,11 +282,11 @@
               "mandatoryWaitSinceLastDeliveryInDays": "15",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "productVariantId": "PVAR-2023-03-03-000021",
                   "quantity": 1
                 },
                 {
-                  "productVariantId": "PVAR-2022-12-20-000038",
+                  "productVariantId": "PVAR-2023-03-03-000023",
                   "quantity": 2
                 }
               ],
@@ -293,7 +296,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "10",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2022-12-20-000037",
+                  "productVariantId": "PVAR-2023-03-03-000021",
                   "quantity": 1
                 }
               ],
@@ -303,7 +306,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "20",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2022-12-20-000038",
+                  "productVariantId": "PVAR-2023-03-03-000021",
                   "quantity": 2
                 }
               ],
