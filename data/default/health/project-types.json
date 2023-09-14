@@ -306,7 +306,9 @@
               "mandatoryWaitSinceLastDeliveryInDays": "20",
               "ProductVariants": [
                 {
+
                   "productVariantId": "PVAR-2023-03-03-000021",
+
                   "quantity": 2
                 }
               ],
