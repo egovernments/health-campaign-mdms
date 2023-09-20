@@ -8,6 +8,7 @@
       "SYNC_METHOD": "API | OPLOG_UPLOAD",
       "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
       "TENANT_ID": "default",
+      "PROXIMITY_SEARCH_RANGE": 3000,
       "BACKGROUND_SERVICE_CONFIG": {
         "BATTERY_PERCENT_CUT_OFF": 10,
         "SERVICE_INTERVAL": 600,
@@ -440,6 +441,11 @@
       "FIREBASE_CONFIG": {
         "enableCrashlytics": true,
         "enableAnalytics": false
+      },
+      "FIREBASE_CONFIGURATION": {
+        "CRASHLYTICS": {
+          "ENABLED": true
+        }
       }
     }
   ]
