@@ -21750,7 +21750,8 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    },{
+    },
+    {
       "id": 2409,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_update/ACCESSCONTROL-ROLEACTIONS.roleactions",
