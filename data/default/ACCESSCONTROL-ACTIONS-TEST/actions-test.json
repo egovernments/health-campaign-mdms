@@ -12626,18 +12626,6 @@
     },
     {
       "id": 1670,
-      "name": "MDMS v2 Create data",
-      "url": "/mdms-v2/v2/_create/common-masters.Sample",
-      "parentModule": "",
-      "displayName": "MDMS v2",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "MDMS v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1671,
       "name": "MDMS v2 Search Data",
       "url": "/mdms-v2/v1/_search/common-masters.Sample",
       "parentModule": "",
@@ -12649,7 +12637,7 @@
       "path": ""
     },
     {
-      "id": 1672,
+      "id": 1671,
       "name": "MDMS v2 (search v2)",
       "url": "/mdms-v2/v2/_search",
       "parentModule": "",
@@ -12661,157 +12649,7 @@
       "path": ""
     },
     {
-      "id": 1673,
-      "name": "MDMS v2 update data",
-      "url": "/mdms-v2/v2/_update/common-masters.Sample",
-      "parentModule": "",
-      "displayName": "MDMS v2",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "MDMS v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1674,
-      "name": "MDMS v2 update data2",
-      "url": "/mdms-v2/v2/_update/TradeLicense.Usage",
-      "parentModule": "",
-      "displayName": "MDMS v2",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "MDMS v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1675,
-      "name": "MDMS v2 update data2",
-      "url": "/mdms-v2/v2/_update/TradeLicense.Usagee",
-      "parentModule": "",
-      "displayName": "MDMS v2",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "MDMS v2",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1676,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Trade ",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=Trade&masterName=Validations",
-      "path": "9MDMS.TradeValidations",
-      "leftIcon": "dynamic:ContractIcon"
-    },
-    {
-      "id": 1677,
-      "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/Trade.Validations",
-      "displayName": "Create Trade Validations",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1678,
-      "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/Trade.Validations",
-      "displayName": "Update Trade Validations",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1679,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Trade ",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=Trade&masterName=Details",
-      "path": "9MDMS.TradeDetails",
-      "leftIcon": "dynamic:ContractIcon"
-    },
-    {
-      "id": 1680,
-      "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/Trade.Details",
-      "displayName": "Create Trade Details",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1681,
-      "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/Trade.Details",
-      "displayName": "Update Trade Details",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1682,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Trade Array Types",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=Trade&masterName=Arraytypes",
-      "path": "9MDMS.TradeArraytypes",
-      "leftIcon": "dynamic:ContractIcon"
-    },
-    {
-      "id": 1683,
-      "name": "MDMS",
-      "url":"/mdms-v2/v2/_create/Trade.Arraytypes",
-      "displayName": "Create Trade Arraytypes",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1684,
-      "name": "MDMS",
-      "url":"/mdms-v2/v2/_update/Trade.Arraytypes",
-      "displayName": "Update Trade Arraytypes",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1685,
+      "id": 1672,
       "name": "MDMS",
       "url": "url",
       "displayName": "Tenant",
@@ -12825,7 +12663,7 @@
       "leftIcon": "dynamic:ContractIcon"
     },
     {
-      "id": 1686,
+      "id": 1673,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_create/tenant.tenants",
       "displayName": "Create tenant tenants",
@@ -12837,7 +12675,7 @@
       "path": ""
     },
     {
-      "id": 1687,
+      "id": 1674,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_update/tenant.tenants",
       "displayName": "Update tenant tenants",
@@ -12849,7 +12687,7 @@
       "path": ""
     },
     {
-      "id": 1688,
+      "id": 1675,
       "name": "MDMS",
       "url": "url",
       "displayName": "Actions test",
@@ -12863,7 +12701,7 @@
       "leftIcon": "dynamic:ContractIcon"
     },
     {
-      "id": 1689,
+      "id": 1676,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_create/ACCESSCONTROL-ACTIONS-TEST.actions-test",
       "displayName": "Create ACCESSCONTROL-ACTIONS-TEST actions-test",
@@ -12875,7 +12713,7 @@
       "path": ""
     },
     {
-      "id": 1690,
+      "id": 1677,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_update/ACCESSCONTROL-ACTIONS-TEST.actions-test",
       "displayName": "Update ACCESSCONTROL-ACTIONS-TEST actions-test",
@@ -12887,7 +12725,7 @@
       "path": ""
     },
     {
-      "id": 1691,
+      "id": 1678,
       "name": "MDMS",
       "url": "url",
       "displayName": "Roles",
@@ -12901,7 +12739,7 @@
       "leftIcon": "dynamic:ContractIcon"
     },
     {
-      "id": 1692,
+      "id": 1679,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_create/ACCESSCONTROL-ROLES.roles",
       "displayName": "Create ACCESSCONTROL-ROLES roles",
@@ -12913,7 +12751,7 @@
       "path": ""
     },
     {
-      "id": 1693,
+      "id": 1680,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_update/ACCESSCONTROL-ROLES.roles",
       "displayName": "Update ACCESSCONTROL-ROLES roles",
@@ -12925,7 +12763,7 @@
       "path": ""
     },
     {
-      "id": 1694,
+      "id": 1681,
       "name": "MDMS",
       "url": "url",
       "displayName": "Roleactions",
@@ -12939,7 +12777,7 @@
       "leftIcon": "dynamic:ContractIcon"
     },
     {
-      "id": 1695,
+      "id": 1682,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_create/ACCESSCONTROL-ROLEACTIONS.roleactions",
       "displayName": "Create ACCESSCONTROL-ROLEACTIONS roleactions",
@@ -12951,7 +12789,7 @@
       "path": ""
     },
     {
-      "id": 1696,
+      "id": 1683,
       "name": "MDMS",
       "url":"/mdms-v2/v2/_update/ACCESSCONTROL-ROLEACTIONS.roleactions",
       "displayName": "Update ACCESSCONTROL-ROLEACTIONS roleactions",
@@ -12963,19 +12801,16 @@
       "path": ""
     },
     {
-      "id": 1697,
-      "name": "Home",
-      "url": "url",
-      "displayName": "Home",
-      "orderNumber": 1,
-      "parentModule": "rainmaker-pgr",
-      "enabled": true,
-      "serviceCode": "PGR",
-      "code": "null",
-      "path": "0Home",
-      "navigationURL": "/workbench-ui/employee/",
-      "leftIcon": "action:home",
-      "rightIcon": ""
+       "id": 1684,
+       "name": "LocalizationMessagesUpsert",
+       "url": "/localization/messages/v1/_upsert",
+       "displayName": "Localization Messages Upsert",
+       "orderNumber": 1,
+       "parentModule": "",
+       "enabled": false,
+       "serviceCode": "filestore url",
+       "code": "null",
+       "path": ""
     }
   ]
 }
