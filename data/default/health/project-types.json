@@ -216,7 +216,7 @@
       ],
       "resources": [
         {
-          "productVariantId": "PVAR-2023-03-03-000021",
+          "productVariantId": "PVAR-2023-02-22-000021",
           "isBaseUnitVariant": false
         },
         {
@@ -233,7 +233,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": null,
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2023-03-03-000021",
+                  "productVariantId": "PVAR-2023-02-22-000021",
                   "quantity": 1
                 },
                 {
@@ -247,7 +247,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "10",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2023-03-03-000021",
+                  "productVariantId": "PVAR-2023-02-22-000021",
                   "quantity": 1
                 }
               ],
@@ -267,7 +267,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "20",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2023-03-03-000021",
+                  "productVariantId": "PVAR-2023-02-22-000021",
                   "quantity": 1
                 }
               ],
@@ -282,7 +282,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "15",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2023-03-03-000021",
+                  "productVariantId": "PVAR-2023-02-22-000021",
                   "quantity": 1
                 },
                 {
@@ -296,7 +296,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "10",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2023-03-03-000021",
+                  "productVariantId": "PVAR-2023-02-22-000021",
                   "quantity": 1
                 }
               ],
@@ -306,7 +306,7 @@
               "mandatoryWaitSinceLastDeliveryInDays": "20",
               "ProductVariants": [
                 {
-                  "productVariantId": "PVAR-2023-03-03-000021",
+                  "productVariantId": "PVAR-2023-02-22-000021",
                   "quantity": 2
                 }
               ],
