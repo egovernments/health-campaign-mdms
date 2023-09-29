@@ -225,11 +225,14 @@
         }
       ],
       "observationStrategy": "DOT1",
+      "validMinAge": 3,
+      "validMaxAge": 18,
       "cycles": [
         {
           "mandatoryWaitSinceLastCycleInDays": null,
-          "startDate": 1695686400,
-          "endDate": 1695772800,
+          "startDate": 1695859200000,
+          "endDate": 1696032000000,
+          "id": 1,
           "deliveries": [
             {
               "mandatoryWaitSinceLastDeliveryInDays": null,
@@ -243,7 +246,8 @@
                   "quantity": 2
                 }
               ],
-              "deliveryStrategy": "DIRECT"
+              "deliveryStrategy": "DIRECT",
+              "id": 1
             },
             {
               "mandatoryWaitSinceLastDeliveryInDays": "10",
@@ -253,7 +257,8 @@
                   "quantity": 1
                 }
               ],
-              "deliveryStrategy": "DIRECT"
+              "deliveryStrategy": "DIRECT", 
+              "id": 2
             },
             {
               "mandatoryWaitSinceLastDeliveryInDays": "10",
@@ -263,7 +268,8 @@
                   "quantity": 1
                 }
               ],
-              "deliveryStrategy": "INDIRECT"
+              "deliveryStrategy": "INDIRECT",
+              "id": 3
             },
             {
               "mandatoryWaitSinceLastDeliveryInDays": "20",
@@ -273,14 +279,16 @@
                   "quantity": 1
                 }
               ],
-              "deliveryStrategy": "INDIRECT"
+              "deliveryStrategy": "INDIRECT",
+              "id": 4
             }
           ]
         },
         {
           "mandatoryWaitSinceLastCycleInDays": "30",
-          "startDate": 1695772800,
-          "endDate": 1695859200,
+          "startDate": 1696032000000,
+          "endDate": 1696204800000,
+          "id": 2,
           "deliveries": [
             {
               "mandatoryWaitSinceLastDeliveryInDays": "15",
@@ -294,7 +302,8 @@
                   "quantity": 2
                 }
               ],
-              "deliveryStrategy": "DIRECT"
+              "deliveryStrategy": "DIRECT",
+              "id": 1
             },
             {
               "mandatoryWaitSinceLastDeliveryInDays": "10",
@@ -304,7 +313,8 @@
                   "quantity": 1
                 }
               ],
-              "deliveryStrategy": "INDIRECT"
+              "deliveryStrategy": "INDIRECT",
+              "id": 2
             },
             {
               "mandatoryWaitSinceLastDeliveryInDays": "20",
@@ -314,7 +324,8 @@
                   "quantity": 2
                 }
               ],
-              "deliveryStrategy": "INDIRECT"
+              "deliveryStrategy": "INDIRECT",
+              "id": 3
             }
           ]
         }
