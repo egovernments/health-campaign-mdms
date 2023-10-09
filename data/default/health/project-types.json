@@ -206,7 +206,7 @@
         "group": "MALARIA",
         "beneficiaryType": "INDIVIDUAL",
         "eligibilityCriteria": [
-          "All households having members under the age of 18 are eligible." "Nanannanannanana",
+          "All households having members under the age of 18 are eligible.",
           "Prison inmates are eligible."
         ],
         "taskProcedure": [
