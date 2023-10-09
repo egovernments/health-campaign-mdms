@@ -329,7 +329,7 @@
               },
               {
                 "doseCriteria": {
-                  "condition": "12<=age<18",
+                  "condition": "12<=age<60",
                   "fields": [
                                 "age"
                               ],
