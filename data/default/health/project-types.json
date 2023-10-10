@@ -289,6 +289,23 @@
                   ]
                 }
               },
+               {
+                "doseCriteria": {
+                  "condition": "3<=age<11",
+                  "fields": [
+                                "age"
+                              ],
+                  "deliveryStrategy": "INDIRECT",
+                  "mandatoryWaitSinceLastDeliveryInDays": "10",
+                  "id": 4,
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-02-22-000021",
+                      "quantity": 1
+                    }
+                  ]
+                }
+              },
               {
                 "doseCriteria": {
                   "condition": "12<=age<60",
@@ -342,7 +359,24 @@
                       "quantity": 2
                     }
                   ]
+                },
+                {
+                "doseCriteria": {
+                  "condition": "12<=age<60",
+                  "fields": [
+                                "age"
+                              ],
+                  "deliveryStrategy": "INDIRECT",
+                  "mandatoryWaitSinceLastDeliveryInDays": "10",
+                  "id": 4,
+                  "ProductVariants": [
+                    {
+                      "productVariantId": "PVAR-2023-02-22-000021",
+                      "quantity": 1
+                    }
+                  ]
                 }
+              }
               }
             ]
           },
