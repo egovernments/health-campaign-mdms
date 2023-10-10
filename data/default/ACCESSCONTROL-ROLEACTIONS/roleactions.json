@@ -15,6 +15,12 @@
       "tenantid": "default"
     },
     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1659,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
       "rolecode": "REGISTRAR",
       "actionid": 1652,
       "actioncode": "",
