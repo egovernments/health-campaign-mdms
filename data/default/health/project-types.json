@@ -243,11 +243,11 @@
                     "condition": "3<=age<11",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-02-22-000021",
-                        "quantity": 1
+                        "productVariantId": "PVAR-2023-10-11-000043",
+                        "quantity": 2
                       },
                       {
-                        "productVariantId": "PVAR-2023-03-03-000023",
+                        "productVariantId": "PVAR-2023-10-11-000046",
                         "quantity": 2
                       }
                     ]
@@ -256,11 +256,11 @@
                     "condition": "12<=age<60",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-02-22-000021",
-                        "quantity": 1
+                        "productVariantId": "PVAR-2023-10-11-000044",
+                        "quantity": 2
                       },
                       {
-                        "productVariantId": "PVAR-2023-03-03-000023",
+                        "productVariantId": "PVAR-2023-10-11-000045",
                         "quantity": 2
                       }
                     ]
@@ -269,14 +269,18 @@
               },
               {
                 "id": 2,
-                "deliveryStrategy": "DIRECT",
+                "deliveryStrategy": "INDIRECT",
                 "mandatoryWaitSinceLastDeliveryInDays": null,
                 "doseCriteria": [
                   {
                     "condition": "3<=age<11",
                     "ProductVariants": [
+                       {
+                        "productVariantId": "PVAR-2023-10-11-000043",
+                        "quantity": 1
+                      },
                       {
-                        "productVariantId": "PVAR-2023-02-22-000021",
+                        "productVariantId": "PVAR-2023-10-11-000046",
                         "quantity": 1
                       }
                     ]
@@ -285,7 +289,11 @@
                     "condition": "12<=age<60",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-02-22-000021",
+                        "productVariantId": "PVAR-2023-10-11-000044",
+                        "quantity": 1
+                      },
+                      {
+                        "productVariantId": "PVAR-2023-10-11-000045",
                         "quantity": 1
                       }
                     ]
@@ -301,8 +309,12 @@
                     "condition": "3<=age<11",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-03-03-000023",
-                        "quantity": 2
+                        "productVariantId": "PVAR-2023-10-11-000043",
+                        "quantity": 1
+                      },
+                      {
+                        "productVariantId": "PVAR-2023-10-11-000046",
+                        "quantity": 1
                       }
                     ]
                   },
@@ -310,8 +322,12 @@
                     "condition": "12<=age<60",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-03-03-000023",
-                        "quantity": 2
+                        "productVariantId": "PVAR-2023-10-11-000044",
+                        "quantity": 1
+                      },
+                      {
+                        "productVariantId": "PVAR-2023-10-11-000045",
+                        "quantity": 1
                       }
                     ]
                   }
@@ -334,11 +350,11 @@
                     "condition": "3<=age<11",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-02-22-000021",
-                        "quantity": 1
+                        "productVariantId": "PVAR-2023-10-11-000043",
+                        "quantity": 2
                       },
                       {
-                        "productVariantId": "PVAR-2023-03-03-000023",
+                        "productVariantId": "PVAR-2023-10-11-000046",
                         "quantity": 2
                       }
                     ]
@@ -347,11 +363,11 @@
                     "condition": "12<=age<60",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-02-22-000021",
-                        "quantity": 1
+                        "productVariantId": "PVAR-2023-10-11-000044",
+                        "quantity": 2
                       },
                       {
-                        "productVariantId": "PVAR-2023-03-03-000023",
+                        "productVariantId": "PVAR-2023-10-11-000045",
                         "quantity": 2
                       }
                     ]
@@ -367,7 +383,11 @@
                     "condition": "3<=age<11",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-02-22-000021",
+                        "productVariantId": "PVAR-2023-10-11-000043",
+                        "quantity": 1
+                      },
+                      {
+                        "productVariantId": "PVAR-2023-10-11-000046",
                         "quantity": 1
                       }
                     ]
@@ -376,7 +396,11 @@
                     "condition": "12<=age<60",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-02-22-000021",
+                        "productVariantId": "PVAR-2023-10-11-000044",
+                        "quantity": 1
+                      },
+                      {
+                        "productVariantId": "PVAR-2023-10-11-000045",
                         "quantity": 1
                       }
                     ]
@@ -392,8 +416,12 @@
                     "condition": "3<=age<11",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-03-03-000023",
-                        "quantity": 2
+                        "productVariantId": "PVAR-2023-10-11-000043",
+                        "quantity": 1
+                      },
+                      {
+                        "productVariantId": "PVAR-2023-10-11-000046",
+                        "quantity": 1
                       }
                     ]
                   },
@@ -401,8 +429,12 @@
                     "condition": "12<=age<60",
                     "ProductVariants": [
                       {
-                        "productVariantId": "PVAR-2023-03-03-000023",
-                        "quantity": 2
+                        "productVariantId": "PVAR-2023-10-11-000044",
+                        "quantity": 1
+                      },
+                      {
+                        "productVariantId": "PVAR-2023-10-11-000045",
+                        "quantity": 1
                       }
                     ]
                   }
