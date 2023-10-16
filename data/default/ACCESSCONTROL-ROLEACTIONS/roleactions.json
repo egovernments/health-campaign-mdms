@@ -14980,6 +14980,12 @@
       "actioncode": "",
       "tenantId": "default"
     },
+     {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1588,
+      "actioncode": "",
+      "tenantId": "default"
+    },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1589,
@@ -14994,6 +15000,12 @@
     },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1591,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
       "actionid": 1591,
       "actioncode": "",
       "tenantId": "default"
@@ -15528,6 +15540,12 @@
     },
     {
       "rolecode": "SYSTEM_ADMINISTRATOR",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
       "actionid": 1628,
       "actioncode": "",
       "tenantId": "default"
