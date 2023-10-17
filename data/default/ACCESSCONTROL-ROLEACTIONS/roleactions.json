@@ -15875,12 +15875,6 @@
       "tenantId": "default"
     },
     {
-      "rolecode": "HELPDESK_USER",
-      "actionid": 1644,
-      "actioncode": "",
-      "tenantId": "default"
-    },
-    {
       "rolecode": "SYSTEM_ADMINISTRATOR",
       "actionid": 1643,
       "actioncode": "",
@@ -16600,7 +16594,6 @@
       "actioncode": "",
       "tenantid": "default"
     },
-
     {
       "rolecode": "REGISTRAR",
       "actionid": 1699,
