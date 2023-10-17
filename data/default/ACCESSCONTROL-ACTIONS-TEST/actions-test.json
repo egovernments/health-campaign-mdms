@@ -12979,6 +12979,18 @@
       "serviceCode": "referralmanagement",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 1699,
+      "name": "Error Handler",
+      "url": "/error-handler/handle-error",
+      "parentModule": "error-handler",
+      "displayName": "Error Handler",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "error-handler",
+      "code": "null",
+      "path": ""
     }
   ]
 }
