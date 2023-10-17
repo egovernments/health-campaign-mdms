@@ -1,7 +1,7 @@
 {
     "tenantId": "default",
     "moduleName": "HCM-REFERRAL_REASONS",
-    "symptomsTypes": [
+    "referralReasons": [
         {
             "code": "SICK",
             "name": "Sick",
