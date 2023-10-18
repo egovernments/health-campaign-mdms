@@ -1,6 +1,6 @@
 {
     "tenantId": "default",
-    "moduleName": "HCM-REFERRAL_REASONS",
+    "moduleName": "HCM-REFERRAL-REASONS",
     "referralReasons": [
         {
             "code": "SICK",
