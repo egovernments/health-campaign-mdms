@@ -18,8 +18,8 @@
             "active": true
         },
         {
-            "code": "DRUG_SIDE_EFFECT_FROM_NEXT_CYCLE",
-            "name": "Drug Side Effect from the next cycle",
+            "code": "DRUG_SIDE_EFFECT_FROM_CURRENT_CYCLE",
+            "name": "Drug Side Effect from the current cycle",
             "active": true
         }
     ]
