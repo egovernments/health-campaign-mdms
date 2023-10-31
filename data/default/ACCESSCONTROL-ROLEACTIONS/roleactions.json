@@ -16653,6 +16653,12 @@
       "actionid": 1699,
       "actioncode": "",
       "tenantId": "mz"
-    }
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1592,
+      "actioncode": "",
+      "tenantId": "default"
+    },
   ]
 }
