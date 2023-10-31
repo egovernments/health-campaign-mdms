@@ -14,6 +14,11 @@
           "action": "search",
           "entityName": "User",
           "path": "/user/v1/_search"
+        },
+        {
+          "action": "update",
+          "entityName": "User",
+          "path": "/user/profile/_update"
         }
       ]
     },
@@ -414,6 +419,86 @@
           "action": "bandwidth",
           "entityName": "InternetSpeed",
           "path": "/project/check/bandwidth"
+        }
+      ]
+    },
+    {
+      "service": "SIDE-EFFECT",
+      "actions": [
+        {
+          "action": "create",
+          "entityName": "SideEffect",
+          "path": "/referralmanagement/side-effect/v1/_create"
+        },
+        {
+          "action": "update",
+          "entityName": "SideEffect",
+          "path": "/referralmanagement/side-effect/v1/_update"
+        },
+        {
+          "action": "search",
+          "entityName": "SideEffect",
+          "path": "/referralmanagement/side-effect/v1/_search"
+        },
+        {
+          "action": "delete",
+          "entityName": "SideEffect",
+          "path": "/referralmanagement/side-effect/v1/_delete"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "SideEffect",
+          "path": "/referralmanagement/side-effect/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "SideEffect",
+          "path": "/referralmanagement/side-effect/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "SideEffect",
+          "path": "/referralmanagement/side-effect/v1/bulk/_delete"
+        }
+      ]
+    },
+    {
+      "service": "REFERRAL-MANAGEMENT",
+      "actions": [
+        {
+          "action": "create",
+          "entityName": "Referral",
+          "path": "/referralmanagement/v1/_create"
+        },
+        {
+          "action": "update",
+          "entityName": "Referral",
+          "path": "/referralmanagement/v1/_update"
+        },
+        {
+          "action": "search",
+          "entityName": "Referral",
+          "path": "/referralmanagement/v1/_search"
+        },
+        {
+          "action": "delete",
+          "entityName": "Referral",
+          "path": "/referralmanagement/v1/_delete"
+        },
+        {
+          "action": "bulk_create",
+          "entityName": "Referral",
+          "path": "/referralmanagement/v1/bulk/_create"
+        },
+        {
+          "action": "bulk_update",
+          "entityName": "Referral",
+          "path": "/referralmanagement/v1/bulk/_update"
+        },
+        {
+          "action": "bulk_delete",
+          "entityName": "Referral",
+          "path": "/referralmanagement/v1/bulk/_delete"
         }
       ]
     }
