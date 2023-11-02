@@ -44,7 +44,6 @@
       "actioncode": "",
       "tenantId": "default"
     },
-
     {
       "rolecode": "REGISTRAR",
       "actionid": 1659,
@@ -75,7 +74,6 @@
       "actioncode": "",
       "tenantId": "default"
     },
-
     {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1633,
@@ -16168,7 +16166,6 @@
       "actioncode": "",
       "tenantId": "default"
     },
-
     {
       "rolecode": "SUPERUSER",
       "actionid": 1661,
@@ -16444,7 +16441,8 @@
       "actionid": 1689,
       "actioncode": "",
       "tenantid": "default"
-    },{
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1690,
       "actioncode": "",
@@ -16660,7 +16658,7 @@
       "actioncode": "",
       "tenantId": "default"
     },
-        {
+    {
       "rolecode": "SUPERVISOR",
       "actionid": 1637,
       "actioncode": "",
