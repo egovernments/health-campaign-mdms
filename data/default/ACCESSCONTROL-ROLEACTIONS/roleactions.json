@@ -16669,6 +16669,12 @@
       "actionid": 1643,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERVISOR",
+      "actionid": 1643,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
