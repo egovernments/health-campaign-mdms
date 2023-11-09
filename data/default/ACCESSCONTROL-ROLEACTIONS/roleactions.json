@@ -16659,6 +16659,19 @@
       "actionid": 1699,
       "actioncode": "",
       "tenantId": "mz"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1700,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1700,
+      "actioncode": "",
+      "tenantId": "mz"
     }
+    
   ]
 }
