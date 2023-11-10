@@ -16681,6 +16681,12 @@
       "actionid": 1673,
       "actioncode": "",
       "tenantId": "default"
+    },
+    {
+      "rolecode": "DISTRIBUTOR",
+      "actionid": 1700,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
