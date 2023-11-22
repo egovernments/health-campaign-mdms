@@ -18,7 +18,7 @@
         {
           "MIN_RANGE": 0.01,
           "MAX_RANGE": 0.20,
-          "BATCH_SIZE": 4
+          "BATCH_SIZE": 7
         },
         {
           "MIN_RANGE": 0.20,
