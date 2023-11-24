@@ -656,11 +656,6 @@
       "code": "INTERNAL_MICROSERVICE_ROLE",
       "name": "Internal Microservice Role",
       "description": "Internal role for plain access"
-    },
-    {
-      "code": "MDMS_ADMIN",
-      "name": "MDMS ADMIN",
-      "description": "MDMS User that can create and search schema"
     }
   ]
 }

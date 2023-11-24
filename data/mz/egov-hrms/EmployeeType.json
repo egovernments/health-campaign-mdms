@@ -1,0 +1,18 @@
+{
+  "tenantId": "mz",
+  "moduleName": "egov-hrms",
+  "EmployeeType": [
+    {
+      "code": "PERMANENT",
+      "active": true
+    },
+    {
+      "code": "TEMPORARY",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "active": true
+    }
+  ]
+}

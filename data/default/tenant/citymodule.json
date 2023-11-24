@@ -34,25 +34,6 @@
           "code": "default"
         }
       ]
-    },
-    {
-      "module": "Workbench",
-      "code": "Workbench",
-      "active": true,
-      "order": 13,
-      "tenants": [
-        {
-          "code": "pb.jalandhar"
-        },
-        {
-          "code": "pb.nawanshahr"
-        },
-        {
-          "code": "pb.amritsar"
-        }
-      ]
     }
   ]
 }
-
-    

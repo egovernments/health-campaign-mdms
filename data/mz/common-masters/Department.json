@@ -1,0 +1,97 @@
+{
+  "tenantId": "mz",
+  "moduleName": "common-masters",
+  "Department": [
+    {
+      "id": 1,
+      "name": "NMCP",
+      "code": "NMCP",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "DHI",
+      "code": "DHI",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "DICT",
+      "code": "DICT",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "SPS",
+      "code": "SPS",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "DPS",
+      "code": "DPS",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Visao Mundial",
+      "code": "Visao Mundial",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "ADPP",
+      "code": "ADPP",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "FDC",
+      "code": "FDC",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "FH",
+      "code": "FH",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "CHAI",
+      "code": "CHAI",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 11,
+      "name": "eGov",
+      "code": "eGov",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 12,
+      "name": "MISAU",
+      "code": "MISAU",
+      "tenantId": "mz",
+      "active": true
+    },
+    {
+      "id": 13,
+      "name": "OTHER",
+      "code": "OTHER",
+      "tenantId": "mz",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "tenantId": "mz",
+  "moduleName": "RAINMAKER-PGR",
+  "ServiceDefs": [
+    {
+      "serviceCode": "TechnicalIssues",
+      "name": "Technical Issues",
+      "keywords": "technical, tech",
+      "department": "eGov",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "UserAccountIssues",
+      "name": "User Account Issues",
+      "keywords": "user, account",
+      "department": "eGov",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "DataIssues",
+      "name": "Data Issues",
+      "keywords": "data",
+      "department": "eGov",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "SecurityIssues",
+      "name": "Security Issues",
+      "keywords": "security",
+      "department": "eGov",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "PerformanceIssue",
+      "name": "Performance Issue",
+      "keywords": "performance",
+      "department": "eGov",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    },
+    {
+      "serviceCode": "Other",
+      "name": "Other",
+      "keywords": "other",
+      "department": "OTHER",
+      "slaHours": 336,
+      "menuPath": "Sync",
+      "active": true,
+      "order": 1
+    }
+  ]
+}

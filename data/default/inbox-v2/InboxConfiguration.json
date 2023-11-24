@@ -8,22 +8,29 @@
       "allowedSearchCriteria": [
         {
           "name": "area",
-          "path": "Data.service.address.locality.code.keyword",
+          "path": "Data.service.address.locality.code",
           "isMandatory": false,
           "operator": "EQUAL"
         },
         {
           "name": "status",
-          "path": "Data.currentProcessInstance.state.uuid.keyword",
+          "path": "Data.service.applicationStatus",
           "isMandatory": false,
           "operator": "EQUAL"
         },
         {
           "name": "assignedToMe",
-          "path": "Data.workflow.assignes.*.uuid.keyword",
+          "path": "Data.workflow.assignes.*.uuid",
           "isMandatory": false,
           "isHashingRequired": true,
           "operator": "EQUAL"
+        },
+        {
+          "name": "assignedToOthers",
+          "path": "Data.workflow.assignes.*.uuid",
+          "isMandatory": false,
+          "isHashingRequired": true,
+          "operator": "NOT"
         },
         {
           "name": "fromDate",
@@ -39,13 +46,13 @@
         },
         {
           "name": "complaintNumber",
-          "path": "Data.service.serviceRequestId.keyword",
+          "path": "Data.service.serviceCode",
           "isMandatory": false,
           "operator": "EQUAL"
         },
         {
           "name": "mobileNumber",
-          "path": "Data.service.user.mobileNumber.keyword",
+          "path": "Data.service.user.mobileNumber",
           "isMandatory": false,
           "operator": "EQUAL"
         }
@@ -54,15 +61,7 @@
         "path": "Data.service.auditDetails.createdTime",
         "defaultOrder": "ASC"
       },
-      "sourceFilterPathList": [
-        "Data.currentProcessInstance",
-        "Data.service.serviceRequestId",
-        "Data.service.address.locality.code",
-        "Data.service.applicationStatus",
-        "Data.service.user",
-        "Data.service.auditDetails.createdTime",
-        "Data.auditDetails"
-        ]
+      "sourceFilterPathList": ["Data.service.serviceCode", "Data.service.address.locality.code", "Data.service.applicationStatus", "Data.workflow.assignes.*.uuid", "Data.service.auditDetails.createdTime"]
     }
   ]
 }

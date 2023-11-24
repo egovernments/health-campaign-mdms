@@ -1,0 +1,58 @@
+{
+  "tenantId": "mz",
+  "moduleName": "egov-hrms",
+  "EmployeeDepartment": [
+    {
+      "code": "NMCP",
+      "active": true
+    },
+    {
+      "code": "DIH",
+      "active": true
+    },
+    {
+      "code": "DICT",
+      "active": true
+    },
+    {
+      "code": "SPS",
+      "active": true
+    },
+    {
+      "code": "DPS",
+      "active": true
+    },
+    {
+      "code": "Visao Mundial",
+      "active": true
+    },
+    {
+      "code": "ADPP",
+      "active": true
+    },
+    {
+      "code": "FDC",
+      "active": true
+    },
+    {
+      "code": "FH",
+      "active": true
+    },
+    {
+      "code": "CHAI",
+      "active": true
+    },
+    {
+      "code": "eGov",
+      "active": true
+    },
+    {
+      "code": "MISAU",
+      "active": true
+    },
+    {
+      "code": "OTHER",
+      "active": true
+    }
+  ]
+}

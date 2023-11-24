@@ -8,7 +8,6 @@
       "SYNC_METHOD": "API | OPLOG_UPLOAD",
       "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
       "TENANT_ID": "default",
-      "PROXIMITY_SEARCH_RANGE": 3000,
       "BACKGROUND_SERVICE_CONFIG": {
         "BATTERY_PERCENT_CUT_OFF": 10,
         "SERVICE_INTERVAL": 600,
@@ -41,7 +40,7 @@
           "label": "Portuguese",
           "value": "pt_MZ"
         },
-        {
+           {
           "label": "French",
           "value": "fr_MZ"
         },
@@ -50,33 +49,49 @@
           "value": "en_MZ"
         }
       ],
-      "CALL_SUPPORT": [
+      "CALL_SUPPORT":[
         {
           "name": "Support DeskLine 1",
           "code": "9686151676"
         },
-        {
+          {
           "name": "Support DeskLine 2",
           "code": "7060431109"
         }
       ],
       "CHECKLIST_TYPES": [
         {
-          "name": "WAREHOUSE",
-          "code": "WAREHOUSE"
+          "name": "REGISTRATION_BASIC",
+          "code": "REGISTRATION_BASIC"
         },
         {
-          "name": "TRAINING_SUPERVISION",
-          "code": "TRAINING_SUPERVISION"
+          "name": "LOCAL_MONITOR_TRAINING",
+          "code": "LOCAL_MONITOR_TRAINING"
         },
         {
-          "name": "TEAM_FORMATION",
-          "code": "TEAM_FORMATION"
+          "name": "DISTRICT_MONITOR_TRAINING",
+          "code": "DISTRICT_MONITOR_TRAINING"
+        },
+        {
+          "name": "REGISTRATION_TEAM_TRAINING",
+          "code": "REGISTRATION_TEAM_TRAINING"
+        },
+        {
+          "name": "AS_MONITORING",
+          "code": "AS_MONITORING"
+        },
+        {
+          "name": "MATERIAL_RECEIVED",
+          "code": "MATERIAL_RECEIVED"
+        },
+        {
+          "name": "MATERIAL_ISSUED",
+          "code": "MATERIAL_ISSUED"
         }
       ],
       "ID_TYPE_OPTIONS_POPULATOR": [
         {
-          "code": "SYSTEM_GENERATED",
+          "code": "DEFAULT",
           "name": "DEFAULT"
         },
         {
@@ -166,13 +181,6 @@
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-checklist",
-            "config": {
-              "localStoreTTL": 172800
-            }
-          },
-             {
-            "type": "LOCALIZATION_MODULE",
-            "name": "hcm-reports",
             "config": {
               "localStoreTTL": 172800
             }
