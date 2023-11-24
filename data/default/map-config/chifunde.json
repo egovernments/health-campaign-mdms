@@ -795,7 +795,7 @@
             },
             "properties": {
               "id": "chifunde",
-              "name": "Chifunde",
+              "name": "chifunde",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -2946,7 +2946,7 @@
             },
             "properties": {
               "id": "mualadzi",
-              "name": "Mualadzi",
+              "name": "mualadzi",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -2967,7 +2967,7 @@
           },
           {
             "type": "Feature",
-            "id": "n'sadzo",
+            "id": "nsadzo",
             "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -3512,8 +3512,8 @@
               ]
             },
             "properties": {
-              "id": "n'sadzo",
-              "name": "Nsadzo",
+              "id": "nsadzo",
+              "name": "nsadzo",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,

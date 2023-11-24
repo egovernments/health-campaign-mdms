@@ -1,0 +1,31 @@
+{
+  "tenantId": "mz",
+  "moduleName": "HCM-INELIGIBILITY-REASONS",
+  "ineligibilityReasons": [
+    {
+      "code": "CHILD_WITH_FEVER",
+      "name": "Child with fever",
+      "active": true
+    },
+    {
+      "code": "CHILD_WITH_MALARIA",
+      "name": "Child with Malaria",
+      "active": true
+    },
+    {
+      "code": "CHILD_CANNOT_SWALLOW",
+      "name": "Children who cannot swallow",
+      "active": true
+    },
+    {
+      "code": "CHILD_ON_MEDICATION_1",
+      "name": "Children who are taking sulfonamides such as Cotrimoxazole (Septrin or Bactrim)",
+      "active": true
+    },
+    {
+      "code": "CHILD_ON_MEDICATION_2",
+      "name": "Children who are taking prophylaxis with cotrimoxazole",
+      "active": true
+    }
+  ]
+}

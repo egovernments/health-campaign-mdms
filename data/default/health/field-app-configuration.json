@@ -8,6 +8,7 @@
       "SYNC_METHOD": "API | OPLOG_UPLOAD",
       "SYNC_TRIGGER": "MANUAL | NETWORK_AVAILABLE",
       "TENANT_ID": "default",
+      "PROXIMITY_SEARCH_RANGE": 3000,
       "BACKGROUND_SERVICE_CONFIG": {
         "BATTERY_PERCENT_CUT_OFF": 10,
         "SERVICE_INTERVAL": 600,
@@ -181,6 +182,13 @@
           {
             "type": "LOCALIZATION_MODULE",
             "name": "hcm-checklist",
+            "config": {
+              "localStoreTTL": 172800
+            }
+          },
+             {
+            "type": "LOCALIZATION_MODULE",
+            "name": "hcm-reports",
             "config": {
               "localStoreTTL": 172800
             }

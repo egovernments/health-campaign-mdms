@@ -1003,7 +1003,7 @@
             },
             "properties": {
               "id": "muze",
-              "name": "Muze",
+              "name": "muze",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -1902,7 +1902,7 @@
             },
             "properties": {
               "id": "zambue",
-              "name": "Zambue",
+              "name": "zambue",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -1923,7 +1923,7 @@
           },
           {
             "type": "Feature",
-            "id": "zumbo",
+            "id": "zumbu sede",
             "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -2748,8 +2748,8 @@
               ]
             },
             "properties": {
-              "id": "zumbo",
-              "name": "Zumbu sede",
+              "id": "zumbu sede",
+              "name": "zumbu sede",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,

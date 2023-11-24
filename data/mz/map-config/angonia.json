@@ -2399,7 +2399,7 @@
             },
             "properties": {
               "id": "domue",
-              "name": "DOMUE",
+              "name": "domue",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -2420,7 +2420,7 @@
           },
           {
             "type": "Feature",
-            "id": "ulongoe",
+            "id": "ulongue",
             "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -5113,8 +5113,8 @@
               ]
             },
             "properties": {
-              "id": "ulongoe",
-              "name": "ULONGUE",
+              "id": "ulongue",
+              "name": "ulongue",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,

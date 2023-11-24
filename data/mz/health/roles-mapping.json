@@ -11,6 +11,7 @@
     "Logístico distrital": "DISTRIBUTOR",
     "LogÃ\u00ADstico distrital": "DISTRIBUTOR",
     "Logístico distrital group": "DISTRIBUTOR",
+    "Warehouse manager": "WAREHOUSE_MANAGER",
     "District Warehouse manager": "WAREHOUSE_MANAGER",
     "Satellite warehouse manager": "WAREHOUSE_MANAGER",
     "Fiel do Armazém Comunitário Group": "WAREHOUSE_MANAGER",
@@ -24,9 +25,13 @@
     "Supervisor Provincial group": "SUPERVISOR,PROVINCIAL_SUPERVISOR",
     "National Supervisor": "SUPERVISOR,NATIONAL_SUPERVISOR",
     "Supervisor Nacional group": "SUPERVISOR,NATIONAL_SUPERVISOR",
-    "Monitor Local": "WAREHOUSE_MANAGER",
-    "Local Monitor": "WAREHOUSE_MANAGER",
+    "Monitor Local": "LOCAL_MONITOR",
+    "Local Monitor": "LOCAL_MONITOR",
     "Monitor Local group": "SUPERVISOR,FIELD_SUPERVISOR",
-    "Help Desk": "SYSTEM_ADMINISTRATOR,NATIONAL_SUPERVISOR,SUPERVISOR,EMPLOYEE,PGR-ADMIN,HRMS_ADMIN,HELPDESK_USER,L2_SUPPORT,SUPERUSER"
+    "Help Desk": "SYSTEM_ADMINISTRATOR,NATIONAL_SUPERVISOR,SUPERVISOR,EMPLOYEE,PGR-ADMIN,HRMS_ADMIN,HELPDESK_USER,L2_SUPPORT,SUPERUSER",
+    "Logistico": "LOGISTIC_FOCAL_POINT",
+    "Community Distributor": "COMMUNITY_DISTRIBUTOR",
+    "Community Supervisor": "COMMUNITY_SUPERVISOR",
+    "Health Facility Supervisor": "HEALTH_FACILITY_SUPERVISOR"
   }]
 }

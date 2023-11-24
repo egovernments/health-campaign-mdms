@@ -21,7 +21,7 @@
         "features": [
           {
             "type": "Feature",
-            "id": "ntengo-wambalane",
+            "id": "ntengo wa mbalame",
             "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -2994,8 +2994,8 @@
               ]
             },
             "properties": {
-              "id": "ntengo-wambalane",
-              "name": "Ntengo Wa Mbalane",
+              "id": "ntengo wa mbalame",
+              "name": "ntengo wa mbalame",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -5378,7 +5378,7 @@
             },
             "properties": {
               "id": "tsangano",
-              "name": "Tsangano",
+              "name": "tsangano",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,

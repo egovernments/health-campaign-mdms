@@ -1,0 +1,41 @@
+{
+    "tenantId": "mz",
+    "moduleName": "HCM-SYMPTOMS-TYPES",
+    "symptomsTypes": [
+        {
+            "code": "VOMITTING",
+            "name": "Vomitting",
+            "active": true
+        },
+        {
+            "code": "ABDOMINAL_PAIN",
+            "name": "Abdominal Pain",
+            "active": true
+        },
+        {
+            "code": "SKIN_REACTION",
+            "name": "Skin Reaction",
+            "active": true
+        },
+        {
+            "code": "WEAKNESS",
+            "name": "Weakness",
+            "active": true
+        },
+        {
+            "code": "FEVER",
+            "name": "Fever",
+            "active": true
+        },
+        {
+            "code": "DIARRHOEA",
+            "name": "Diarrhoea",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "name": "Other",
+            "active": true
+        }
+    ]
+}

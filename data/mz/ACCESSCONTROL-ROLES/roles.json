@@ -101,6 +101,36 @@
       "code": "DHIS2_SUPERUSER",
       "name": "DHIS2 SUPERUSER",
       "description": "DHIS2 Superuser"
+    },
+    {
+      "code": "MDMS_ADMIN",
+      "name": "MDMS ADMIN",
+      "description": "MDMS User that can create and search schema"
+    },
+    {
+      "code": "LOC_ADMIN",
+      "name": "Localisation admin",
+      "description": "LOC_ADMIN"
+    },
+    {
+      "code": "COMMUNITY_DISTRIBUTOR",
+      "name": "Community Distributor",
+      "description": "Community Distributor"
+    },
+    {
+      "code": "COMMUNITY_SUPERVISOR",
+      "name": "Community Supervisor",
+      "description": "Community Supervisor"
+    },
+    {
+      "code": "HEALTH_FACILITY_SUPERVISOR",
+      "name": "Health facility Supervisor",
+      "description": "Health facility Supervisor"
+    },
+    {
+      "code": "LOGISTIC_FOCAL_POINT",
+      "name": "Logistic Focal Point",
+      "description": "Logistic Focal Point"
     }
   ]
 }

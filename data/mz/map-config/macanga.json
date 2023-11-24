@@ -607,7 +607,7 @@
             },
             "properties": {
               "id": "chidzolomondo",
-              "name": "CHIDZOLOMONDO",
+              "name": "chidzolomondo",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -2482,7 +2482,7 @@
             },
             "properties": {
               "id": "furancungo",
-              "name": "FURANCUNGO",
+              "name": "furancungo",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,

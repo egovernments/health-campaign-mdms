@@ -1,7 +1,7 @@
 {
   "tenantId": "default",
   "moduleName": "map-config",
-  "national-map": [
+  "national-map-copy": [
     {
       "center": [
         35,

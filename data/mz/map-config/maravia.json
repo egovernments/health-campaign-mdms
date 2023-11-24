@@ -619,7 +619,7 @@
             },
             "properties": {
               "id": "chipera",
-              "name": "Chipera",
+              "name": "chipera",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -1394,7 +1394,7 @@
             },
             "properties": {
               "id": "chiputo",
-              "name": "Chiputo",
+              "name": "chiputo",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -2357,7 +2357,7 @@
             },
             "properties": {
               "id": "fingoe",
-              "name": "Fingoe",
+              "name": "fingoe",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
@@ -2378,7 +2378,7 @@
           },
           {
             "type": "Feature",
-            "id": "molowera (malowera)",
+            "id": "malowera",
             "geometry": {
               "type": "Polygon",
               "coordinates": [
@@ -3399,8 +3399,8 @@
               ]
             },
             "properties": {
-              "id": "molowera (malowera)",
-              "name": "Malowera",
+              "id": "malowera",
+              "name": "malowera",
               "hasCoordinatesDown": false,
               "hasCoordinatesUp": true,
               "level": 4,
