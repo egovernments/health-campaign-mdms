@@ -16677,6 +16677,36 @@
       "actionid": 1700,
       "actioncode": "",
       "tenantId": "mz"
+    },
+     {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1658,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+     {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1655,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+     {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1654,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+     {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1657,
+      "actioncode": "",
+      "tenantid": "default"
+    },
+     {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1701,
+      "actioncode": "",
+      "tenantid": "default"
     }
     
   ]
