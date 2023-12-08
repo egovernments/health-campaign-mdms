@@ -10,11 +10,11 @@
       "beneficiaryType": "HOUSEHOLD",
       "resources": [
         {
-          "productVariantId": "PVAR-2022-12-20-000034",
+          "productVariantId": "PVAR-2023-12-08-000014",
           "isBaseUnitVariant": false
         },
         {
-          "productVariantId": "PVAR-2022-12-20-000035",
+          "productVariantId": "PVAR-2023-12-08-000015",
           "isBaseUnitVariant": true
         }
       ],
