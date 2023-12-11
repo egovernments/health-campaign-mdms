@@ -13003,6 +13003,18 @@
       "serviceCode": "referralmanagement",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 1701,
+      "name": "Checklist",
+      "url": "",
+      "displayName": "MY_CHECK_LIST_LABEL",
+      "orderNumber": 1,
+      "parentModule": "cards",
+      "enabled": true,
+      "serviceCode": "null",
+      "code": "null",
+      "path": ""
     }
   ]
 }
