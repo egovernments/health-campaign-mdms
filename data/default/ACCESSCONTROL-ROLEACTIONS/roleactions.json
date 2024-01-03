@@ -16831,6 +16831,192 @@
       "actionid": 1658,
       "actioncode": "",
       "tenantid": "default"
+    },
+	   {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1545,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1594,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1621,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1628,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1629,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1632,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1633,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1692,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1693,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1694,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1695,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1696,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1697,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1698,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1655,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1657,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1708,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1701,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1701,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1702,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1702,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1703,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1703,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1704,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1704,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1705,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1705,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1706,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1706,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1707,
+      "actioncode": "",
+      "tenantId": "default"
+    },
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1707,
+      "actioncode": "",
+      "tenantId": "default"
     }
   ]
 }
