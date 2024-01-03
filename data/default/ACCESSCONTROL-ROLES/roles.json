@@ -96,6 +96,11 @@
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
+    },
+     {
+      "code": "HEALTH_FACILITY_WORKER",
+      "name": "Health Facilty Worker",
+      "description": "Workers working at a given Health Facility (HF) who will be responsible for giving the diagnosis based on the type of symptoms they observe and then do a diagnosis and provide the appropriate drugs."
     }
   ]
 }
