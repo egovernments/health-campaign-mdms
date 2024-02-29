@@ -1,0 +1,67 @@
+{
+  "tenantId": "mz",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
+    },
+      {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
+    },
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 13,
+      "tenants": [
+        {
+          "code": "pb.jalandhar"
+        },
+        {
+          "code": "pb.nawanshahr"
+        },
+        {
+          "code": "pb.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "HCMWORKBENCH",
+      "code": "HCMWORKBENCH",
+      "active": true,
+      "order": 14,
+      "tenants": [
+        {
+          "code": "mz"
+        }
+      ]
+    }
+  ]
+}
