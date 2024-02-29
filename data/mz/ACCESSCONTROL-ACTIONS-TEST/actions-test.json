@@ -10853,7 +10853,7 @@
     {
       "id": 1539,
       "name": "Project Staff Create",
-      "url": "/health-project/staff/v1/_create",
+      "url": "/project/staff/v1/_create",
       "displayName": "Project Staff Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -10865,7 +10865,7 @@
     {
       "id": 1540,
       "name": "Project Staff Update",
-      "url": "/health-project/staff/v1/_update",
+      "url": "/project/staff/v1/_update",
       "displayName": "Project Staff Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -10925,7 +10925,7 @@
     {
       "id": 1545,
       "name": "Project Staff Search",
-      "url": "/health-project/staff/v1/_search",
+      "url": "/project/staff/v1/_search",
       "displayName": "Project Staff Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -10973,7 +10973,7 @@
     {
       "id": 1549,
       "name": "Individual Create",
-      "url": "/health-individual/v1/_create",
+      "url": "/individual/v1/_create",
       "displayName": "Individual Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -10985,7 +10985,7 @@
     {
       "id": 1550,
       "name": "Individual Update",
-      "url": "/health-individual/v1/_update",
+      "url": "/individual/v1/_update",
       "displayName": "Individual Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -10997,7 +10997,7 @@
     {
       "id": 1551,
       "name": "Individual Search",
-      "url": "/health-individual/v1/_search",
+      "url": "/individual/v1/_search",
       "displayName": "Individual Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -11009,7 +11009,7 @@
     {
       "id": 1552,
       "name": "Project Task Create",
-      "url": "/health-project/task/v1/_create",
+      "url": "/project/task/v1/_create",
       "displayName": "Project Task Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11021,7 +11021,7 @@
     {
       "id": 1553,
       "name": "Project Task Update",
-      "url": "/health-project/task/v1/_update",
+      "url": "/project/task/v1/_update",
       "displayName": "Project Task Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11033,7 +11033,7 @@
     {
       "id": 1554,
       "name": "Project Task Search",
-      "url": "/health-project/task/v1/_search",
+      "url": "/project/task/v1/_search",
       "displayName": "Project Task Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -11073,7 +11073,7 @@
     {
       "id": 1555,
       "name": "Project Beneficiary Create",
-      "url": "/health-project/beneficiary/v1/_create",
+      "url": "/project/beneficiary/v1/_create",
       "displayName": "Project Beneficiary Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11085,7 +11085,7 @@
     {
       "id": 1556,
       "name": "Project Beneficiary Update",
-      "url": "/health-project/beneficiary/v1/_update",
+      "url": "/project/beneficiary/v1/_update",
       "displayName": "Project Beneficiary Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11097,7 +11097,7 @@
     {
       "id": 1557,
       "name": "Project Beneficiary Search",
-      "url": "/health-project/beneficiary/v1/_search",
+      "url": "/project/beneficiary/v1/_search",
       "displayName": "Project Beneficiary Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -11385,7 +11385,7 @@
     {
       "id": 1561,
       "name": "Individual Bulk Create",
-      "url": "/health-individual/v1/bulk/_create",
+      "url": "/individual/v1/bulk/_create",
       "displayName": "Individual Bulk Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11397,7 +11397,7 @@
     {
       "id": 1562,
       "name": "Individual Bulk Update",
-      "url": "/health-individual/v1/bulk/_update",
+      "url": "/individual/v1/bulk/_update",
       "displayName": "Individual Bulk Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11409,7 +11409,7 @@
     {
       "id": 1563,
       "name": "Individual Delete",
-      "url": "/health-individual/v1/_delete",
+      "url": "/individual/v1/_delete",
       "displayName": "Individual Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -11421,7 +11421,7 @@
     {
       "id": 1564,
       "name": "Individual Bulk Delete",
-      "url": "/health-individual/v1/bulk/_delete",
+      "url": "/individual/v1/bulk/_delete",
       "displayName": "Individual Bulk Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -11433,7 +11433,7 @@
     {
       "id": 1565,
       "name": "Project Task Bulk Create",
-      "url": "/health-project/task/v1/bulk/_create",
+      "url": "/project/task/v1/bulk/_create",
       "displayName": "Project Task Bulk Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11445,7 +11445,7 @@
     {
       "id": 1566,
       "name": "Project Task Bulk Update",
-      "url": "/health-project/task/v1/bulk/_update",
+      "url": "/project/task/v1/bulk/_update",
       "displayName": "Project Task Bulk Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11457,7 +11457,7 @@
     {
       "id": 1567,
       "name": "Project Task Delete",
-      "url": "/health-project/task/v1/_delete",
+      "url": "/project/task/v1/_delete",
       "displayName": "Project Task Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -11469,7 +11469,7 @@
     {
       "id": 1568,
       "name": "Project Task Bulk Delete",
-      "url": "/health-project/task/v1/bulk/_delete",
+      "url": "/project/task/v1/bulk/_delete",
       "displayName": "Project Task Bulk Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -11481,7 +11481,7 @@
     {
       "id": 1569,
       "name": "Project Beneficiary Bulk Create",
-      "url": "/health-project/beneficiary/v1/bulk/_create",
+      "url": "/project/beneficiary/v1/bulk/_create",
       "displayName": "Project Beneficiary Bulk Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11493,7 +11493,7 @@
     {
       "id": 1570,
       "name": "Project Beneficiary Bulk Update",
-      "url": "/health-project/beneficiary/v1/bulk/_update",
+      "url": "/project/beneficiary/v1/bulk/_update",
       "displayName": "Project Beneficiary Bulk Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11505,7 +11505,7 @@
     {
       "id": 1571,
       "name": "Project Beneficiary Delete",
-      "url": "/health-project/beneficiary/v1/_delete",
+      "url": "/project/beneficiary/v1/_delete",
       "displayName": "Project Beneficiary Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -11517,7 +11517,7 @@
     {
       "id": 1572,
       "name": "Project Beneficiary Bulk Delete",
-      "url": "/health-project/beneficiary/v1/bulk/_delete",
+      "url": "/project/beneficiary/v1/bulk/_delete",
       "displayName": "Project Beneficiary Bulk Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -11577,7 +11577,7 @@
     {
       "id": 1577,
       "name": "Project Staff Bulk Create",
-      "url": "/health-project/staff/v1/bulk/_create",
+      "url": "/project/staff/v1/bulk/_create",
       "displayName": "Project Staff Bulk Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11589,7 +11589,7 @@
     {
       "id": 1578,
       "name": "Project Staff Bulk Update",
-      "url": "/health-project/staff/v1/bulk/_update",
+      "url": "/project/staff/v1/bulk/_update",
       "displayName": "Project Staff Bulk Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11601,7 +11601,7 @@
     {
       "id": 1579,
       "name": "Project Staff Delete",
-      "url": "/health-project/staff/v1/_delete",
+      "url": "/project/staff/v1/_delete",
       "displayName": "Project Staff Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -11613,7 +11613,7 @@
     {
       "id": 1580,
       "name": "Project Staff Bulk Delete",
-      "url": "/health-project/staff/v1/bulk/_delete",
+      "url": "/project/staff/v1/bulk/_delete",
       "displayName": "Project Staff Bulk Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -11757,7 +11757,7 @@
     {
       "id": 1592,
       "name": "Project Create",
-      "url": "/health-project/v1/_create",
+      "url": "/project/v1/_create",
       "displayName": "Project Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11769,7 +11769,7 @@
     {
       "id": 1593,
       "name": "Project Update",
-      "url": "/health-project/v1/_update",
+      "url": "/project/v1/_update",
       "displayName": "Project Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11781,7 +11781,7 @@
     {
       "id": 1594,
       "name": "Project Search",
-      "url": "/health-project/v1/_search",
+      "url": "/project/v1/_search",
       "displayName": "Project Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -11949,7 +11949,7 @@
     {
       "id": 1608,
       "name": "Project Resource Create",
-      "url": "/health-project/resource/v1/_create",
+      "url": "/project/resource/v1/_create",
       "displayName": "Project Resource Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11961,7 +11961,7 @@
     {
       "id": 1609,
       "name": "Project Resource Bulk Create",
-      "url": "/health-project/resource/v1/bulk/_create",
+      "url": "/project/resource/v1/bulk/_create",
       "displayName": "Project Resource Bulk Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -11973,7 +11973,7 @@
     {
       "id": 1610,
       "name": "Project Resource Update",
-      "url": "/health-project/resource/v1/_update",
+      "url": "/project/resource/v1/_update",
       "displayName": "Project Resource Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11985,7 +11985,7 @@
     {
       "id": 1611,
       "name": "Project Resource Bulk Update",
-      "url": "/health-project/resource/v1/bulk/_update",
+      "url": "/project/resource/v1/bulk/_update",
       "displayName": "Project Resource Bulk Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -11997,7 +11997,7 @@
     {
       "id": 1612,
       "name": "Project Resource Delete",
-      "url": "/health-project/resource/v1/_delete",
+      "url": "/project/resource/v1/_delete",
       "displayName": "Project Resource Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -12009,7 +12009,7 @@
     {
       "id": 1613,
       "name": "Project Resource Bulk Delete",
-      "url": "/health-project/resource/v1/bulk/_delete",
+      "url": "/project/resource/v1/bulk/_delete",
       "displayName": "Project Resource Bulk Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -12021,7 +12021,7 @@
     {
       "id": 1614,
       "name": "Project Resource Search",
-      "url": "/health-project/resource/v1/_search",
+      "url": "/project/resource/v1/_search",
       "displayName": "Project Resource Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -12117,7 +12117,7 @@
     {
       "id": 1622,
       "name": "Project Facility Create",
-      "url": "/health-project/facility/v1/_create",
+      "url": "/project/facility/v1/_create",
       "displayName": "Project Facility Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -12129,7 +12129,7 @@
     {
       "id": 1623,
       "name": "Project Facility Bulk Create",
-      "url": "/health-project/facility/v1/bulk/_create",
+      "url": "/project/facility/v1/bulk/_create",
       "displayName": "Project Facility Bulk Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -12141,7 +12141,7 @@
     {
       "id": 1624,
       "name": "Project Facility Update",
-      "url": "/health-project/facility/v1/_update",
+      "url": "/project/facility/v1/_update",
       "displayName": "Project Facility Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -12153,7 +12153,7 @@
     {
       "id": 1625,
       "name": "Project Facility Bulk Update",
-      "url": "/health-project/facility/v1/bulk/_update",
+      "url": "/project/facility/v1/bulk/_update",
       "displayName": "Project Facility Bulk Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -12165,7 +12165,7 @@
     {
       "id": 1626,
       "name": "Project Facility Delete",
-      "url": "/health-project/facility/v1/_delete",
+      "url": "/project/facility/v1/_delete",
       "displayName": "Project Facility Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -12177,7 +12177,7 @@
     {
       "id": 1627,
       "name": "Project Facility Bulk Delete",
-      "url": "/health-project/facility/v1/bulk/_delete",
+      "url": "/project/facility/v1/bulk/_delete",
       "displayName": "Project Facility Bulk Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -12189,7 +12189,7 @@
     {
       "id": 1628,
       "name": "Project Facility Search",
-      "url": "/health-project/facility/v1/_search",
+      "url": "/project/facility/v1/_search",
       "displayName": "Project Facility Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -12471,7 +12471,7 @@
     {
       "id": 1651,
       "name": "Check bandwidth",
-      "url": "/health-project/check/bandwidth",
+      "url": "/project/check/bandwidth",
       "parentModule": "project",
       "displayName": "Check bandwidth",
       "orderNumber": 0,
@@ -12591,7 +12591,7 @@
     {
       "id": 1661,
       "name": "Adverse Event Create",
-      "url": "/health-project/task/adverse_event/v1/_create",
+      "url": "/project/task/adverse_event/v1/_create",
       "displayName": "Adverse Event Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -12603,7 +12603,7 @@
     {
       "id": 1662,
       "name": "Adverse Event Update",
-      "url": "/health-project/task/adverse_event/v1/_update",
+      "url": "/project/task/adverse_event/v1/_update",
       "displayName": "Adverse Event Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -12615,7 +12615,7 @@
     {
       "id": 1663,
       "name": "Adverse Event Search",
-      "url": "/health-project/task/adverse_event/v1/_search",
+      "url": "/project/task/adverse_event/v1/_search",
       "displayName": "Adverse Event Search",
       "orderNumber": 0,
       "parentModule": "",
@@ -12627,7 +12627,7 @@
     {
       "id": 1664,
       "name": "Adverse Event Bulk Create",
-      "url": "/health-project/task/adverse_event/v1/bulk/_create",
+      "url": "/project/task/adverse_event/v1/bulk/_create",
       "displayName": "Adverse Event Bulk Create",
       "orderNumber": 0,
       "parentModule": "",
@@ -12639,7 +12639,7 @@
     {
       "id": 1665,
       "name": "Adverse Event Bulk Update",
-      "url": "/health-project/task/adverse_event/v1/bulk/_update",
+      "url": "/project/task/adverse_event/v1/bulk/_update",
       "displayName": "Adverse Event Bulk Update",
       "orderNumber": 0,
       "parentModule": "",
@@ -12651,7 +12651,7 @@
     {
       "id": 1666,
       "name": "Adverse Event Delete",
-      "url": "/health-project/task/adverse_event/v1/_delete",
+      "url": "/project/task/adverse_event/v1/_delete",
       "displayName": "Adverse Event Delete",
       "orderNumber": 0,
       "parentModule": "",
@@ -12663,7 +12663,7 @@
     {
       "id": 1667,
       "name": "Adverse Event Bulk Delete",
-      "url": "/health-project/task/adverse_event/v1/bulk/_delete",
+      "url": "/project/task/adverse_event/v1/bulk/_delete",
       "displayName": "Adverse Event Bulk Delete",
       "orderNumber": 0,
       "parentModule": "",
