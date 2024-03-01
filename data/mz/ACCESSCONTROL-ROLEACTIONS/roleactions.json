@@ -14246,6 +14246,12 @@
       "actioncode": "",
       "tenantId": "mz"
     },
+     {
+      "rolecode": "DISTRICT_SUPERVISOR",
+      "actionid": 1551,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
     {
       "rolecode": "REGISTRAR",
       "actionid": 1594,
