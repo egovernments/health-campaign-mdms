@@ -129,6 +129,12 @@
       "tenantId": "mz"
     },
     {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 1651,
+      "actioncode": "",
+      "tenantId": "mz"
+    },
+    {
       "rolecode": "DISTRIBUTOR",
       "actionid": 1660,
       "actioncode": "",
