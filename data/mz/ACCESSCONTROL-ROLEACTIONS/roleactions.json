@@ -17404,12 +17404,6 @@
     },
     {
       "rolecode": "HEALTH_FACILITY_WORKER",
-      "actionid": 1660,
-      "actioncode": "",
-      "tenantId": "mz"
-    },
-    {
-      "rolecode": "HEALTH_FACILITY_WORKER",
       "actionid": 1661,
       "actioncode": "",
       "tenantId": "mz"
