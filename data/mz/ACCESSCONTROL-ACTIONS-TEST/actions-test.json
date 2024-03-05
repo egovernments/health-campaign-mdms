@@ -13089,7 +13089,7 @@
       "path": ""
     },
     {
-      "id": 1701,
+      "id": 1998,
       "name": "Get event details of ingestion",
       "url": "/hcm-moz-impl/v1/eventHistory/_search",
       "displayName": "Get job details of ingestion",
@@ -13785,7 +13785,7 @@
       "path": ""
     },
     {
-      "id": 1759,
+      "id": 1999,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/map-config.cabo delgado",
       "displayName": "mdms data creation",
@@ -13965,7 +13965,7 @@
       "path": ""
     },
     {
-      "id": 1773,
+      "id": 2000,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/map-config.mutarara",
       "displayName": "mdms data creation",
@@ -14417,7 +14417,7 @@
       "leftIcon": "dynamic:ContractIcon"
     },
     {
-      "id": 1688,
+      "id": 1991,
       "name": "Beneficiary Referral",
       "url": "",
       "displayName": "HOME_BENEFICIARY_REFERRAL_LABEL",
@@ -14429,7 +14429,7 @@
       "path": ""
     },
     {
-      "id": 1689,
+      "id": 1992,
       "name": "HFReferral Create",
       "url": "/referralmanagement/hf-referral/v1/_create",
       "displayName": "HFReferral Create",
@@ -14441,7 +14441,7 @@
       "path": ""
     },
     {
-      "id": 1690,
+      "id": 1993,
       "name": "HFReferral Update",
       "url": "/referralmanagement/hf-referral/v1/_update",
       "displayName": "HFReferral Update",
@@ -14453,7 +14453,7 @@
       "path": ""
     },
     {
-      "id": 1691,
+      "id": 1994,
       "name": "HFReferral Delete",
       "url": "/referralmanagement/hf-referral/v1/_delete",
       "displayName": "HFReferral Delete",
@@ -14465,7 +14465,7 @@
       "path": ""
     },
     {
-      "id": 1692,
+      "id": 1995,
       "name": "HFReferral Search",
       "url": "/referralmanagement/hf-referral/v1/_search",
       "displayName": "HFReferral Search",
@@ -14477,7 +14477,7 @@
       "path": ""
     },
     {
-      "id": 1693,
+      "id": 1996,
       "name": "HFReferral Bulk Create",
       "url": "/referralmanagement/hf-referral/v1/bulk/_create",
       "displayName": "HFReferral Bulk Create",
@@ -14489,7 +14489,7 @@
       "path": ""
     },
     {
-      "id": 1694,
+      "id": 1997,
       "name": "HFReferral Bulk Update",
       "url": "/referralmanagement/hf-referral/v1/bulk/_update",
       "displayName": "HFReferral Bulk Update",
@@ -14501,7 +14501,7 @@
       "path": ""
     },
     {
-      "id": 1695,
+      "id": 1990,
       "name": "HFReferral Bulk Delete",
       "url": "/referralmanagement/hf-referral/v1/bulk/_delete",
       "displayName": "HFReferral Bulk Delete",
